@@ -1,0 +1,3398 @@
+get the instance of this translator
+determines if windows file system is in use
+returns the name of the affected table
+get the number of resources in the pool
+flush any bytes in the file s buffer that have not yet been written to disk
+removes a listener object from the manager
+returns the number of columns in the key
+callback when entrance transition is ended
+returns a page of the rows from the table a dataset represents
+whether the contentview has been changed
+returns the number of definition lists
+adds the specified package to the installed package cache
+visits a non standard attribute of this method
+generates the instruction to push a handle on the stack
+used to support and operations on addresses in python scripts
+create a close frame
+returns true if the source can be restarted ie
+returns the bit mask corresponding to this embedding flag
+add a method to the class
+set the stroke alpha
+locates a given resource node given a path
+destruction of the servlet
+walk through a block children recursively parsing string content into inline content where appropriate
+foo has a multi catch exception inside
+creates a buffered input stream for this url
+executes a command on a service
+whether the given time is in the clip of this audio element
+returns true if a fake drag is in progress
+clear all table builders
+visits a type argument of the last visited class or inner class type
+writes the fixed at the given index
+compare two objects for equality
+notifies registered listeners about completed searches
+convert a byte to an unsigned int
+start a daemon thread with a given name and the given closure as a runnable instance
+returns if the resource delta contained a marker modifications of the model file
+a helper method to return the string representation of a list with bracket boundaries and
+indicate an account will be needed later on
+decodes data from base notation
+quality test text html wins
+return a random integer between i inclusive and j exclusive
+queries the local cache of table names
+user was formerly forced to create new instances through this factory method
+removes an ongoing operation
+smooth scroll by a y delta
+copy the stored values from another interpreter to this one
+updates the border text of the component
+defaults to type text type
+check if size a size b
+transform po to vo
+paint the component on the gui
+paints the border of a button
+return highlightstyle for css class
+flush frames to the server
+create a guice injector for the class under test
+finds the exit nodes of a graph
+show application or activity level toast
+visits a field instruction
+creates an encodingexception object
+returns the greater absolute value between left and right values
+create a list that will accumulate the batch operation results
+creates a new logger
+get the current group callback list of the callback
+get the next element in scan order
+creates a paddedcell with the given file and steps
+determines whether a segment contains a black point
+cancels the target selection of the debugger and closes the connection
+return an expression representing the given condition
+called when receiving a broadcast
+renders container nodes that display compact information about the tagged nodes
+return the upper case of the given value
+set the accept header to application json
+get the decoded stream value
+call commons
+return proper instance for a raw event id or null if type cannot be discovered
+read a read a utf text file from our classpath and return it
+saves the position of the current record so that it can be restored at a later time
+support the range subscript operator for stringbuffer
+parse the content of the specified input source into a tree of nodes
+updates the background color of a row in case the corresponding node is currently displaying search results
+runs against the spotlessselfapply
+return the tests included in this test suite
+test whether attributes are properly encoded
+reads a character from stdin blocks until it is not received
+subtract a number of days from this timestamp and returns the new timestamp object
+injects the hibernate sessionfactory to be used with this synchronization endpoint interceptor
+processes all declared subs names with given processor
+called when the mouse wheel is rotated while over a jscrollpane
+adds the local and global comment strings to the label content
+sets metadata custom property list
+remove a task if it is pending not active
+creates a new stream metadata builder
+toggle the searchbox s open closed state manually
+returns true if a fake drag is in progress
+clears the simulated memory
+create a list of file filters
+checks whether two filenames are equal optionally normalizing and providing control over the case sensitivity
+remove the most recently added instance of the nodecompletion delegate
+visits an annotation on a local variable type
+check whether the device is mesh
+maps between extended match codes to actual sql query sign
+logical disjunction of two boolean operators
+copies all node meta data from the other node to this one
+flush any buffered output to the contained writer
+executes a single step operation in the active thread
+returns true if the presence of an vault el function is detected
+call the callback with the reader object as an argument
+removes if exists a registered filtered sample listener
+unsubscribes from the catch up subscription
+visits information about an inner class
+removes the subfilter containing tag from the parent filter
+initialize regular expressions used in unescaping
+clear the classcontext cache
+this method helps to understand the limit operation
+do a geo search using the address as the query
+convenience method for parsing the named attribute as a boolean value or reference
+use this to check whether or not a file or directory exists on the filesystem
+discover the specific device whether is on the same ap or in the mesh net which root mesh device is on the same ap
+a null object always coerces to false
+prints parameterized error message
+initializes the comment of a group node
+notify all images we know about that a command has been added
+used in cases where specific exception expected
+sets a new name for the given section in the database
+apply the properties from this configuration to another instance
+called if a file rotation is detected
+resets the current context
+tests if two classes are equal using the class equivalence semantics of the lookup service same name
+the system class loader could load resources defined as com abc foo
+disables auto acknowledge for persistent subscriptions
+sets headers that will be added to all requests this client makes before sending
+indicates if there a call event exists for the specified channel and from and to talkgroup identifiers
+returns true if the given name is a child of this class
+checks a class signature
+finish a transaction in database and commit changes
+resets the pipe fetcher
+returns the database string of a given operand size
+test positive and negative xoronly
+adds item to history and refresh view
+performs the pass through authentication to an external system endpoint such as an openicf provisioner at system ad account
+selects all predecessors of a given node
+add a segment with an iddelta
+hook to allow derived classes to override list of result collection behavior
+creates a proper asm description given a type
+asks the user to select a view from a list of views
+loads the field id list
+tests whether a given node is an ancestor node of another node
+check that the subsets for each region have been generated
+load dynamic properties from current dynamic
+return a list of current channel assignments
+sets the x and y values of this vector to their absolute value
+reads one time values from the camera that are needed by the app
+cleans resources held by this parser manager
+removes a listener from the set of listeners
+removes set basic auth credentials
+create a scope based on given categoryclass and invoke closure within that scope
+helper method to create a merger of this translator with another set of translators
+converts a string to mobmodifier instances and connects them to an entity
+print a warning to printstream
+appends a child to the current node
+create a new color mode that can be used by elements
+added for issue
+returns a float that can be used to move boxes
+delete a file or directory
+removes the entry identified by key from the cache
+adds attributes that have been requested vis configuration properties
+create a value from a valuedeclaration
+throws invalidobjectexception since data for this class is required
+adds an element to the group node
+creates and sends a clusterevent representing a config operation for a specified resource
+return the number of possible combinations of p from n i
+asserts that creating a directory from the given file worked
+finds fields by the given name or description
+resets the component to the initial state
+smoothly animate mdraggingpane to the target x position within its range
+initialization of the servlet
+convert string representation to locale object
+dispose of cached objects and their underlying os resources
+adds a hint icon to a component
+generate device name by bssid
+factory method to create a new viewdraghelper
+serialize the state of the object
+formats time in milliseconds to hh mm ss string format
+destruction of the servlet
+colorizes a range of bytes in special colors
+checks that a mandatory string field is not empty
+cuts the trailing n t and spaces
+determines if an entity can pass through a block
+returns an approximate length of the given vector
+parses a single module information message
+removes a listener object from the bookmark manager
+generates the instruction to store the top stack value in the given local variable
+returns whether selected nodes search is enabled or disabled
+add qualifiers as integer value
+returns true if this message is as or more important than the specified importance level
+returns the index of a value in the set
+returns subset of given permissions that is grantable given the current calling context
+loads all debugger templates of a database
+standalone routine to compute local transfer entropy between specific variables in a d spatiotemporal multivariate time series
+combine the passed predicates into a single and node
+rehashes the map to the new capacity
+called when a notification returned
+regenerates the content of the node and updates the graph view
+absolute value of imaginary component
+confirm that our erf function is correct to dp
+serialize the state of the object
+determine if the supplied view is under the given point in the parent view s coordinate system
+serializes the argument into an array of bytes and returns it
+adds a list of breakpoints to the breakpoint manager
+the dopost method of the servlet
+logs requests that took over slow request threshold ms to complete
+checks whether the debugger can terminate the target process
+signal that task has been cancelled
+determines whether the project uses a given debugger
+test using a very small receive buffer
+checks if is all data valid
+configure the bug instance filter for the given delegatingbugreporter
+remove current element
+removes an event listener from the list of protocol event listeners that are notified about incoming debug events
+check the validity of the message
+registration of a configuration file e
+add a propertychangelistener to the listener list
+sort the arrays using the quicksort algorithm
+provides an approximate magnitude value for this sample
+create a cronschedulebuilder with a cron expression that sets the schedule to fire every day at the given time hour and minute
+switch to specified lex state
+links two reil blocks
+play sound with defaultmusicvolume
+pull a batch of messages
+returns the number of elements in this deque
+adds a menu item to open the selected trace
+permanently deletes an address space from the project
+visits a line number declaration
+load a text format embeddings file
+resolve possible instance method call targets
+create a timeofday instance for the given hour minute and second
+get the enabled disabled status of given detector
+fills the reduced results list by skipping more than one search result for any given result object
+the method simplify does some simple simplifications before starting any real work
+prints the error for a given error code
+add a new building trap or decoration
+sends a partial block packet to a particular player
+decodes web safe base content in byte array format and returns the decoded data
+is the response code a internal server error
+determine if an uninteresting stream escapes at given location
+allows derivative classes to handle the xml attrs without creating a typedarray themsevles
+add key value pair to map and key need not null or empty
+template must be under lock
+get cardinality of delayed jobs
+transforms the current instance of this class into a jsonvalue object
+the dopost method of the servlet
+tests whether a node dominates another node
+factory method for classvertex objects representing missing classes
+begin a timer for the current block value will be recorded when closed
+finalizes the query in the currently used buffer and creates a new one
+append the text at the end of the path without writing a bom using a specified encoding
+executes an updating statement on the database
+enter a catch block
+initializes all necessary listeners
+returns the string value of the bit if the given boolean is true br and an empty string otherwise
+converts a string into a standard property name
+is the response code a not modified
+if class
+passes double click events to the nodes to handle them
+confirm behavior when connector
+whether this board is being scrolled by the user
+release all metadata in the cache
+read the file header and return the log sequence number stored in the file header
+perform custom checks
+utility method to help with compatibility with properties
+get the next token or string
+flattens jsonvalue into a one level deep object
+produce a string from a number
+reads the contents of a file line by line to a list of strings using the default encoding for the vm
+returns the string representation of this object
+convenience method to return a string array as a csv string
+filters the address of a given view
+converts an internal tag tree into an api tag tree
+the doget method of the servlet
+set the identity of the job which should be fired by the produced trigger
+move the result set forward maxsteps if possible
+test whether the returned value is always
+returns the first index of elt in the array if len else
+returns true if the current token is the specified keyword
+add a new value to the array
+add an instructionhandle to the basic block
+adds a new cell to this row
+restarts the current gesture
+return an expression representing the given condition
+returns true iff all of the items on each set exist on the other set
+test for issue
+getter for property predestroycalled
+parse zero or more space characters including at most one newline
+add a method signature to the interface
+removes an entry from the serviceidmap and sends a notification
+cancel this leased iteration
+add users or email addresses to the to cc or bcc list
+check the sign content
+returns the registration uuid s hash code
+if possible load default built in interprocedural property databases
+returns true iff editor with focus is modified
+appends an outputtext component to another component
+call configure method on a plugin class
+a factory method to build the appropriate luminancesource object based on the format of the preview buffers as described by camera
+renders the to do item edit page
+converts internal function data to api function data
+add a collection of commands to the page list
+used for nested lists
+sync remote changes to a review draft
+returns val represented by the specified number of hex digits
+add this form field s hint to let the user know what needs to be filled in
+setting flag of regex contents and parse regex
+returns this bitset as an array of integer ones and zeros
+sorts all array members into sub groups determined by the supplied mapping closures as per the iterable variant of this method
+determine whether the state has balanced obligation counts for the consumed and produced obligation types
+creates variable initialization expression in which the specified expression is written into the specified variable name
+rules for the given permission or the empty list
+can eviction strategy be called
+enables the calculation of src position
+indicate a group will be needed later on
+checks whether a given reply is the reply the trace listener has been waiting for
+prepare the next table for extraction by resetting the position and parsing column definitions
+start a post request to the given url
+checks whether the debugger is able to handle breakpoint hit counts which are bigger than one
+map int to string
+translates an x operand to reil code
+release all a single table metadata instance
+looks for a class called groovy
+loads the default detectors from findbugs
+determine the position of a button
+return collection of children of this search tree
+remove the given set of breakpoints
+fallback method for getreviews
+perform a carriage return by translating by x and y
+creates a buffered reader for this url using the given encoding
+merge given templates into one template
+method to extrapolate out
+i used to save logs to sdcard catlog saved logs
+limit the max size of an image will be displayed height and width are both shorter than maxpix
+confirm that significance testing doesn t alter the average that would be returned
+transits a float property from the start value to the end value
+is the component in need of a form
+add a work list item for a basic block to be constructed
+ensure we can marshall todoitem objects to json
+writes a byte of data
+retrieve a charset from headers
+get the size of the one touch button
+appends a criterium to the criterium tree
+creates a cache entry for the specified data
+returns a new renaming object whose fields are clones of this object s fields meaning that they are new vector objects containing the same elements
+extracts the next lexical token from the provided url base
+returns the written bytes in a newly allocated byte of length getsize
+constructs numembeddingvectors embedding vectors of size k for the data with the first embedding vector having it s last time point at t startkthpoint
+set the dash style
+parse a json data structure from content from an inputstream
+highlights the address of the stack pointer
+visits the return type of the method
+execute query on sys tables returns a list of classes in space
+tests whether a given function can be forwarded to another module
+escape the given string to be used as url query value
+update the color in the default style of the document
+various latex commands and environments used in the latex output
+checks whether a node with the given type can be appended to this node
+delete a job and its listeners
+sets the messagedetail of the event
+get cardinality of failed jobs
+checks if the input object is empty does not contains any element
+get the restaurant fragment
+returns the appropriate capacity power of two for the specified initial capacity argument
+handler for when an image was successfully loaded
+unzips the specified zip file to a temp folder
+show hide the clear view
+reset the progress spinner to default rotation start and end angles
+create a new instance of absamplefragment
+clears the subheader view cache
+cancel notification by its id
+perform a http head request and track the android context which initiated the request with customized headers
+choose a method to replace the originally chosen metamethod to have a more efficient call path
+returns a hash code value for this object
+clone this interaction while changing the place where interaction happened
+todo this is a hack we need elegant way to convert type to a broad precision
+test read and write full clusterpolicy object
+start the thread for the given parameters
+parse a lt
+updates the modification date of the project
+look for config log xap logging
+splits a title string into two cells
+preparednodes will set their values through this methods
+creates a new section instance and stores it in the database
+generates a list of all potential target modules
+save the crop bitmap
+removes the channel from the model and broadcasts a channel remove event
+add a state to a trace
+closes the inputed number of open tags
+instantiates the member dialog to create a new member
+tests the equals method against a null a different and an identical object
+list field should always assigned new list with one elment l
+load a file relative here
+get an observable that observes all events that are send with the key and are of the type of the event class p
+difference in days between dates
+disable all operations to user represented by this security context
+eclipse plugin can be disabled only by user so it must not be in the list of loaded plugins
+returns true seaglasslookandfeel is always supported
+called when both the reading thread and the writing thread have finished
+return the tests included in this test suite
+generate a set of covariant gaussians with the given means and covariances
+attempts to prepare the request for a retry
+perform a http post request and track the android context which initiated the request
+deallocates the cached vector freeing all associated resources
+replaces a split element with another one
+if containers contains target source container
+write data to temp file
+evaluate the source text against the classic ast with the jsr parser implementation
+utility method that creates a new stringliteralexpr
+evaluates a visibility criterium match on a node
+creates the temp file
+checks that the given parameters are valid to call this method
+append select from to sql string builder
+whether any notifications exist
+set a job to inactive state
+called after a project config is updated
+set an inline command to execute
+turn off spin mode
+declare a named in memory cache
+computes local active information storage for the given states using pdfs built up from observations previously sent in via the addobservations method
+internal method to set the conditional mutual information calculator
+decrement a double property with the given delta
+open a file and read any fonts that it contains
+tear down instance variables required by this test case
+decodes base content in byte array format and returns the decoded byte array
+return if the import ends with
+simple testing harness for the gse
+ensures we are running inside of a valid site otherwise throws a die
+paints the background of a spinner
+read an object from a byte array
+sets whether loaded image will be cached on disc
+return an array of the sums for each column in the d input
+determines whether the value of a given reference needs relocation
+generates a ret instruction
+checks whether a view contains the given address
+perform a http delete request
+makes sure that the directory in which the file is exists
+notifies the drawable that it s displayed state has changed
+destruction of the servlet
+verify service can be reached
+submits a topology to run on the cluster
+return whether or not this dataflow fact is identical to the one given
+name of file in form data
+determine whether or not given instruction is a goto
+checks whether no more bytes will be returned
+return the tests included in this test suite
+checks that the given substring is a valid java identifier
+write a long value
+put all elements into a string the string is separated by the given separator
+checks if the specified template matches the specified entry
+get a synchronized copy of the elements in this buffer
+moves the iterator forward to the next entry in the underlying map
+writes a portion of a byte array to the bytes message stream
+wait for a specific number of bytes to be available or until we time out
+turns a tag type object into a string that can be written to the database
+prints a progress counter
+specifies whether or not to resolve link events automatically
+find column index by it s name
+translate a string to a given locale
+instantiate the checkreturnannotationdatabase
+creates a groovy language lexerframe for the given script text
+removes all attached listeners
+determine if we need to look for a dominated instruction at this point in the search
+converts a dimensional array into a single dimension
+load the cache from file
+configures a list cell renderer and sets up sizing and the backing image from it
+adds a new file to the list
+return the tests included in this test suite
+saves the sourceobjectid on the event
+the dopost method of the servlet
+destruction of the servlet
+ensures the truth of an expression involving one or more parameters to the calling method
+will return whether the program has a console present or was launched without
+tells whether a given access modifier is private
+creates the sql encoder
+sets roles and users permitted to delete the stream
+method finalizing the page initialization this method activates the dirty part listeners
+write a pretty version of the gpathresult to the outputstream
+sets the delimiter to use for separating entries
+allow test cases to assign the view of controller
+writes the default serializable field values for this instance followed by the registrar s service id encoded as specified by the serviceid
+adds the given item to a collection property
+returns a value if there is one or unspecified if there isn t
+close the closeable
+add an appropriate policy database entry for parameters marked with the willclose annotation
+sets the triggerwrapper in the paused state
+checks whether two filenames are equal exactly
+report a problem
+skip characters until the next character is the requested character
+paints the component with the graphics d instance
+verify ability to ping local host using the os ping method
+test read and write full clusterpolicy object
+return true if the specified transaction is an ancestor of this transaction
+compute a list of patches to turn text into text
+attempts to prepare the request for a retry
+load products customers suppliers product categories customer reviews to db from respective xml s and generate stock
+returns the current lexical state
+decrement a short property with the given delta
+returns the new name string with a prefix replaced with the new prefix
+removes all added listeners
+checks if the input string is in white list
+if an input string was specified stream it to the process standard input
+<PAD>,<PAD>,<PAD>
+tries to update the notification count
+reset the paint variable
+builds a message string by from a pattern and its arguments
+process notification of a publish send operation
+derives the argb value for a color based on an offset between two other colors
+calculates the diff for the given revision
+creates the gradient to use for the check mark
+execute the command that s defined by the subclass following the command pattern
+the code that does the real work of cancelservicelease
+extract the required columns from the matrix
+checks whether the given resource is a java source file
+gets the allowexternalusermanagment value for this remoteconfiguration
+the dopost method of the servlet
+check whether is using miui
+visits information about an inner class
+shows a progress dialog
+converts an arraylist of astarnodes into an mc style pathentity
+destruction of the servlet
+pop an array or object scope
+remove all method call cache entries
+returns a clone of the body
+creates a formatterstep lazily from the given formattersupplier function
+execute shell commands default return result msg
+creates a map of string class name classnode for a given jar file
+specialized variant of findnode to get first valid node
+get smallest start plog id among all open transactions
+confirm that significance testing doesn t alter the average that would be returned
+rotates p around p by angle degrees
+notifies observer that the state of the settings box has changed
+generate an array of spanned items representing the history of this connection
+set all registered mocks to replay
+given a map of classnodes and mappings returns a map of class names to class bytes
+creates the tree that shows the available tags
+checks if next tokens negates filehandle in print statements
+returns true is the underlying data source doesn t support data changes
+raises the x y and z values of a vector to the given power
+the results are valid only if the local member is the leader
+constructs a histogram with the maxdiff v f buckets for all fields
+initializes an entities type on construction to specify what group this entity is in for activation ranges
+if there is a item in opend status close it
+show only the first layer
+searches for a tag with the given id
+notfication that a session has been created
+return a lazy implemented filtered view of this dataset
+if we didn t just show a progress report on the last revision show the final results
+start new transaction on this session
+merges sequence package identifier to a package
+test read and write full clusterpolicy object
+this method can be used to add new code or data references to operand expressions
+given a database node of the project tree this function finds the child node that is a project container node
+returns true if the buffer is dirty due to a modification by the specified transaction
+add elements of unionee modulecontext to this modulecontext without overwriting in cases where keys overlap between this and unionee
+visits the type of a method parameter
+add a document type to the document type list
+creates an all predicate wrapping the specified predicates
+reads bytes into the given buffer
+a helper method to parse the given text as xml
+is tinting enabled for the system status bar
+return whether or not this object is identical to the one given
+returns the number of stored diff parts
+create an sql command to execute the command query
+set the http
+broadcasts audio metadata to the registered listener
+adds a node to the beginning of the list
+switch from private to stream or vice versa in chatbox
+sets the jobgroupwrapper in the paused state
+extra stuff printed at the end of the lt body gt element
+sets this attribute s fields according to attributevalue array
+mark binlog to read up to limit
+get an iterator over the recorded searchtrees
+render any boolean passthru attributes
+notifies all listeners that have registered interest for notification on this event type
+returns the string representation of the given array
+create dialog to build a new type
+cast an ibinder object into an org
+resolve logger property by its name system property value if available or logger property extracted from the log configuration
+destruction of the servlet
+removes a listener object that was previously notified about completed searches
+resets the table model
+start the entity
+returns a vector the same length as vec whose elements are clones of the elements of vec
+returns whether the specified classpath is equivalent to the default classpath for this configuration
+adds a template that will be used to control the matching entries the iterator will iterate over
+create a sortedset as a union of a sortedset and a collection
+the read request will lookup the relationshipfield and ask for the reverse property to validate its setting is compatible with the requested relationship field
+this method appends destructively a list to the end of this list
+swipes down on an element pressing a default amount of time before swiping
+calculates average of path values of matching entries
+paints the border of a formatted text field
+checks if user
+shows a dialog where the comment of a group node can be edited
+sets the reconciling value on the builder
+indicates if the talkgroup is different than the talkgroup specified in the current call event
+returns a boolean indicating if the field is a reverse relationship
+specifies whether this server transaction is in the retransmitting state
+asserts that the given code closure fails when it is evaluated
+byte field should always assigned
+writes the entire contents of this byte stream to the specified output stream
+checks if the edge glow should be used enabled
+add an image to the cache
+get the intent for selecting content to be used in an intent chooser
+creates the panel gui
+stops the sample fetching thread
+updates an existing project milestone
+tests that the getoutputpayloadclass is truly returning the payload type
+return the number of children in this layer group
+allow to use application resources
+removes a listener object that was previously listening on the bookmark
+if rect is off screen scroll just enough to get it or at least the first screen size chunk of it on screen
+serializes messages from each peer
+checks if the specified modifier is set
+maps an int to a specific mode
+returns an iterator which allows the removal of elements
+the doget method of the servlet
+creates a buffered input stream for this file
+execute a command and return all the output
+encodes a byte array into base notation
+cast the provided object to comparable
+append lt div gt attributes may be set if needed
+replace disallowed name characters and whitespace with an underscore
+outputs double to a file
+determine if a charsequence can be parsed as a number
+rename file in existing change edit
+unconditioned way to throw an exception
+sends instrumentation tap event to all registered listeners
+update user cach and db
+creates a default binding request
+marks the current code position with the given label
+save as plaintext xml
+compute the covariance matrix between all column pairs variables in the multivariate data set
+the alpha transparency from as a percentage of to as a percentage of
+formats a tungstenproperties for human friendly output
+creates a new state object after we entered edit mode
+a synonym for write writer owner null
+sends a registers request to the debug client
+expect a particular token string to be returned by the given stringtokenizer
+returns a well formed repldbmsevent fragment with a specified shard id and epoch number in addition to other useful information
+returns tokenizer for parsing given string
+creates a http url connection for an httpmd url
+checks if is editable
+write the preferences to the specified outputstream using the preference list syntax
+adds a double labeled slider to a panel
+stop auto refresh softap list
+redis zpop atomic primitive with transaction
+returns the number of values that have been evicted
+updates a field s desc
+returns the location of the block within the file
+get an iterator over edges removed from this cfg
+closes all slaves and removes them from the running list
+return a pretty string version of the xml content produced by the writable
+uploads a file to saucelabs
+generate a simple runtime configuration that will process a specified number of transactions
+returns a vector m object with the given y value
+implementation of the right shift unsigned operator for integral types
+remove notificationlistener from this mbean
+visits an annotation of the class
+requirement for immutable table
+visits information about an inner class
+computing the norm as the euclidean norm
+initialization of the servlet
+constrains the i and q quantities to value
+connect to a device
+returns true if this is a delete
+process system messages which originate from the server
+execute a loop to wait and report sequence numbers
+parse the version string with the regex pattern
+prints a message at warn priority
+checks whether the function already exists on the user s account using the getfunction request
+indicates whether this scrollview s content is stretched to fill the viewport
+add a printer to current thread s looper
+add a value to given list making the project modified if the value is not already present in the list
+removes a listener object from the graph builder
+used internally for adding view
+calculate views bounds and scroll them according to the current index
+check if the given array contains the given value with case insensitive comparison
+method for creating a specific resource in the sub class
+look up an edge by its id
+invoked when a component loses the keyboard focus
+adds a metadata option which is assumed not to exist previously
+causes all messages currently under assembly to be forcibly sent ie flushed to all registered message listeners and subsequently all assemblers to be deleted
+reports that the state with a given number is stuttering
+right rotates the bits between start and end and wraps the right most bit around to the start
+plays previous video in playlist
+creates a source viewer with given parent toolkit and flags adopted to a form
+any registrarlease from the same server can be in the map
+clear in memory dynamic properties and delete on disk file if it exists
+sends data to the receiver usually the creator of the service intent
+hunt for the script file by calling searchforgroovyscriptfile string
+after performing the execute operation and making use of its return it s necessary to free the resources allocated for the statement
+delegates execution to the underlying runnable
+signal workers to stop work
+convenience function to close a possibly null statement suppressing any exceptions
+extra utility method to return the information distance
+adopt this affix on a given word
+get a list of job in range from to with order
+shutdown the pool of threads
+return the tests included in this test suite
+multi level grouping usage group employees by department and city
+initializes the configuration with the command line arguments
+adds an object that is notified about changes in the view
+returns true if the protocol is embedded space false otherwise
+returns true if references can be resolved lazily
+write json api document
+create the edge of the button
+pads an integer value with additional zeroes to make it decimalplaces long
+returns the uri of the namespace of this node
+closes the cache and deletes all of its stored values
+check if mineshafter is present
+asserts that the value of inspect on the given object matches the given text string
+gathers the information about an b block
+factory method to create an array type member
+sensitivity to dividend growth rate
+returns the namespace mapped to the specified prefix
+returns a string representation of this object
+reduce value from startvalue to endvalue
+main method to run utility
+shut down the job service by letting current tasks run to completion but accepting no further tasks
+default implementation of tinthashingstrategy delegates hashing to hashfunctions
+return a path for a rectangle with square corners
+create an empty underlying keepassfile instance
+converts a given value to a json value
+serialize the state of the object
+determine whether class named by given classdescriptor is an obligation type
+method added by phil
+parse the content of the specified uri into a tree of nodes
+converts every trickled candidate to sdp and prints it on stdout
+convert a date to a calendar
+performs error detection and single bit error correction against the data blocks of a pdu message
+turns on buffer lazy chopping for index overlay
+overloads the left shift operator to provide an easy way to add buttons to a buttongroup
+visit all superinterface methods which the given method implements
+removes the resource key from its transfer stack
+complete plug in configuration
+delete a pub sub subscription
+connect to the underlying database containing thl
+writes the data from this output stream to the specified output stream after it has been closed
+reset the progress spinner to default rotation start and end angles
+return whether or not this block is an exception thrower
+a factory method to build the appropriate luminancesource object based on the format of the preview buffers as described by camera
+added for issue
+check that the supplied array of offsets as sources is long enough compared to our expectation
+returns the string representation of this grid layout s values
+write a number using the number of bits necessary to hold the number
+returns the next element in the iteration as a svcreg
+select elements from current list
+appends a new local comment to the list of local code node comments associated with the given code node
+adds a listener that is notified about changes in the debug perspective
+tells whether the session is recovering
+returns true if the headers transition is currently running
+creates the sql encoder
+this takes an array holding the values of the pdf
+checks if we hit borders
+initialization of the servlet
+customize this form field s button label
+deletes the file or directory
+returns whether or not there exists a purchase of the given product
+use this factory method to create a new instance of this fragment using the provided parameters
+show application or activity level toast
+returns a hash code value for this object
+links two node objects
+does the work of getting the path
+start a post request to the given url along with the query params
+transforms lines into html
+multiply this matrix by another matrix
+allows for writes to be forwarded and read requests served locally if node is not master cluster version only
+adds a new file with
+paints the border of the area that contains the content of the selected tab of a tabbed pane
+decode and sample down a bitmap from resources to the requested width and height
+refresh the google cloud api access token if necessary
+creates an iterator for processing the csv data
+add a custom view to shadowview optional
+starts all message processors
+convenience method to open a standard warning dialog
+invert the matrix
+returns a string made up of repetitions of the specified string
+notifies that a header item is inserted
+checks if strings specifies a imm code or not
+perform a http delete request
+return if the import ends with
+print a info to printstream
+returns the built in symbol with string str
+delegate the notification to the listener
+create a pretty string
+creates one child node for each module in the database
+checks arguments for validity
+create a buffered reader for this file
+returns the length of the given vector
+this method demontrates the mechanism of collecting big trades to a set
+check whether the attribute is supported
+read the originid from the bos line that is expected to follow
+ensures there is enough space in the buffer for the given number of additional bytes
+handles the case of a disconnected remote worker
+convenience method to reduce client dependencies
+sets exclusive lock on the directory block when crabbing down for modification
+adds section handling for a specila section name
+writes a single short
+clears the data from the image
+ensures the truth of an expression involving the state of the calling instance but not involving any parameters to the calling method
+it is of a bigdecimal category if the provided type is a biginteger category or a bigdecimal
+moves the iterator forward to the next entry in the underlying map
+generate a jcas with two token annotations
+removes the binding for the specified key in this registry
+returns a string from the buffer
+method for external cancellation
+this method is necessary to allow us to run within older and newer versions of glassfish
+generate all ncp sets assuming this doesn t blow our memory
+generates a separated list of column names
+called when the data is syncing
+return the map entry of the given value
+constructs and returns a valueanimator that animates between the values specified in the propertyvaluesholder objects
+scroll to first marker if found
+the main goal of this testsuite unit test to assert all classes implementing faceswrapper do wrap all public and protected methods of the wrapped class
+paint the check mark in mouse over state
+creates the binnavi menu
+checks for empty feature path and initializes the feature path object
+this method devises an iterable into a number of pieces of an almost equal size
+takes a debugger template and updates the debugger object of the address space accordingly if possible
+called to broadcast message on mbeanserver event bus
+notify the javascript about the event happened on android
+shuts down the protocol which enters closed state
+removes all breakpoints of a given breakpoint manager
+creates the underlying database table
+add a collection of commands to the page list
+parse key value pairs to map ignore empty key
+transform the raw asciis to string by its value
+creates a buffered writer for this file without writing a bom writing data using the given encoding
+get data storage without cache
+returns the maximum number of entries that can be filled before rehashing
+sets the current pose to the previously set default pose
+vonvert object to json string
+fired when the request progress override to handle in your own code
+utility function to compute the combined embedded past values of x up to and including time step t i
+writes to the memory of the target process
+create a new cefprintsettings object
+flatten an array
+prints an object groovy style followed by a newline
+start an options request to the given url
+encrypts the raw string using the md algorithm
+adds padding to the end of a string with a repeating character if the string s length is less than the minimum length
+todo call topology mgmt api to create a topology
+get the number of table builders in the font builder
+check the given double value for the specified condition
+returns the number of remaining archives
+add data at the current position
+creates the text shown in the menu
+insert after the users cursor so we recover from parse errors in a helpful way when doing autocomplete
+is null or its length is
+create the buttons and add action listeners
+this method decodes an url with encoded query string
+requires all write and read requests to be served only by master cluster version only
+calls any listeners with the given event and current port
+build an expression representing any field on an entity
+imports the instructions of a raw module into a binnavi module
+creates a new ui object for the given component
+notifies that a header item is changed
+checks if the folder is a lucence index
+determine whether null attributes will appear in the produced markup
+getter for property predestroycalled
+returns the maximum sum of the sizes of the entries in this cache
+exit with a process failure code
+calls the provided closure for all the nodes in the tree using a breadth first preorder traversal
+this method pushes a negation all the way down to the atoms
+returns an indication if the underlying data source supports versioning
+loads the individual data chunks of module data from the database
+init the cleaner thread only once if needed
+add a required property of type object
+assign a persistence id to this object
+register given channel identifiers
+a copy of the resource file name kept for error messages
+given a set of suites and the starting root package it will print all the tests that are quarantined
+return sign of x y
+returns a filter that filters files based on a cutoff reference file
+determine whether this dataflow fact is identical to another one
+calculate the preferred renew time and put in the map
+true iff location loca is before or equal to locb
+returns true if the two method identifiers match each other keeping in mind method name and argument types
+open chrome custom tab
+initialize the root pane settings
+suspends encoding of the stream
+reads a mysql packet from the input stream using a default partial read timeout of seconds
+returns true if the source in url is newer than the class note copied from groovyclassloader
+determines the height of this view
+specify an interval in the intervalunit
+return whether or not this block is a null check
+set a label for this patternelement
+client reads tracking sensitive data from this hook
+gets whether the space is unhealthy
+this property will define the partitions width equal or acc
+execute a a split of the goal
+creates the layout and fill it with data
+sets no default user credentials for operations
+writes a charsequence to a file creating the file if it does not exist
+return the class with the given name
+build the map if requested to it does this lazily
+create action bounded with jtextpane to increase font size
+splits the page at the specified slot
+wakes up remote clock thread from wait method causing forced time update
+excludes from the output any fields whose type is the same or is assignable to any of the given types
+helper method to delete product category
+release slholder for this scan
+compute the base logarithm
+add a custom view to dragview
+returns true if the node is a complete expression
+enables creation of multiple settings per configuration
+updates the window title of the current window if the view whose name changed equals the view displayed in the current window
+determine whether or not a given objecttype is a subtype of another
+this method closes the connection to the input component
+detects missing files download them and if needed extracts them
+delete a specific draft patch set
+creates a new sql instance given a jdbc connection url a username a password and a driver class name
+reads from the objectinput stream by optimized way the meta info of metadataentry
+loads the native flow graph views of a module
+coerces an int array to a boolean value
+this method checks whether any of the specified collection values contains the given string
+returned from call to e
+convert params to json entity
+this method constructs name for container representation
+sets whether loaded image will be cached in memory
+marks that the specified messages have failed processing
+tests whether parsing of binary encoded map is working
+can the user see this change
+determines whether or not the given node contains chromevox content
+rolls back the current transaction
+removes a listener object from the function
+adds the alias to this list
+puts the view on spin mode
+checks whether a given code node has an instruction at the given address
+add line content to the active block parser
+opens the binnavi manual file
+a a b
+determine whether we need to insert a word separator between the two positions or not
+compute metrics and return the dimensions
+puts one byte and two shorts into the constant pool
+returns the corresponding bookmark manager and index for a row in the bookmarks table
+create a d vector from an angle relative to the positive x axis and a magnitude
+the doget method of the servlet
+get the id of the contact with the global id
+sets this modelrenderer s default pose to the current pose
+create a refupdateattribute for the given old objectid new objectid and branch that is suitable for serialization to json
+highlights the instructions of a node depending on the result of a instruction search operation
+read a file containing stopwords one per line
+initializes the comment of a section
+deserialize and return the event
+ensure output directory exists
+format a date using the locale s medium length format
+update the network either create a new network or modify an existing network
+the doget method of the servlet
+get the modified date
+bind an id field to an entity
+performs remote invocation method
+parse an html block and return the first typically root element
+make a string out of a byte array and truncate it to a reasonable length
+shows an warning message with a question the user can answer with yes no
+return false if we should skip calling sawopcode
+whether is fast mobile network
+checks whether a string identifies an x segment
+returns the key of the entry
+returns whether the debugger can attach to a target process
+create a ping frame
+increments the count of in flight transactions to the resource being monitored
+returns the parent of the node
+returns the number of elements in this set its cardinality
+saves the targetobjectid on the event
+check if the bytes match a bom
+the entire page is done
+standard groovy size method for stringbuilders
+return the tests included in this test suite
+converts underlying data type value to string
+return the max of the given value for all matches
+update style and text
+destruction of the servlet
+determines whether a node has an attribute with the given name
+returns the covariance matrix
+intersect this set with the given set
+removes a listener object from the process
+create a thread for the given runnable based on the values in this object
+makes values consist of letters
+checking equality of uuids is easy just compare the bit number
+determines the background color to be used in the table and in the graph to highlight a given instruction result
+call this method when the login button is clicked
+parses xml nodes that describe the remote directories
+checks arguments for validity
+this will let you know if an applet is available from busybox p
+build the criterionfilteroperation for provided criteria
+inserts the specified object at the specified index in the array
+remove a string from the document and then parse it if the parser has been set
+writedata output this modbus message to dout
+deletes a type instance comment without changing the database
+forwarder function to edit a global code node function
+compute the size in bytes of a single composite reference
+returns if the given column is of numeric type
+tests if the specified object is a key in this table
+checks whether two filenames are equal optionally normalizing and providing control over the case sensitivity
+if in lazy chop mode and the object is a lazy value map or a valuelist then we force a chop operation for each of its items
+paints the border of a radio button menu item
+returns true if this field had encryption attributes configured
+removes a listener object from the tag manager
+add a conversion error message in the case of a propertyeditor based conversion error
+check if this file was already processed
+settle the captured view at the given left top position
+sends the supplied packet from the server to the chosen player
+is the response code a bad request
+returns true if this logical version is greater or equals to the other
+deactivate the proximity sensor
+apply the tips view to the target view
+this method doesn t clone the array passed into it
+get the cache location for the given artifact
+converts potentially unicode input to punycode
+adds padding to the beginning of a string with a repeating character if the string s length is less than the minimum length
+returns the payoff at expiry
+we clear this temp external entry from space
+determines if a resource is a controller
+validates each of the channel ranges for overlap
+append the vector u to the vector v and return the result
+runs the report once all initialization is complete
+specify an interval in the intervalunit
+returns a string representation of this object
+release a fetched connection safely
+insert a contact into the database
+overloads the left shift operator to provide an easy way to add components to a popupmenu
+tests whether a page with the given pageid exists
+compute the covariance matrix between all column pairs variables in the multivariate data set
+exit with a process failure code
+decrement a number by one
+construct a routing object
+whether notification is disabled globally
+build an accented character out of two pre defined glyphs
+try to find a codebase matching the given pattern in the given class path string
+creates a create permission success response
+send contact changes and get global ids for new contacts that are users
+show one advertisement using default placement
+updates the min and max virtual scroll bounds
+fetch a resource with support for lambda function for getting relationships and attributes
+returns the number of bytes currently being used to store the values in this cache
+evaluate the onresponse script if present
+the dopost method of the servlet
+calculates and sets the preferred size of the component
+checks whether the array contains the given value
+prints out this property nicely
+returns if the list is empty
+checks for aliases that contain a do not follow process priority
+returns true if we think the process succeeded based on the return code and lack of exceptions or timeout during execution
+increments the counter by
+creates a ui for the jtextpane
+determines whether the value of a given integer tree node needs relocation
+execute shell commands default return result msg
+count the schemas
+returns true if this span is in the range of the span s
+remember result of filtering
+disable window scaling for remote peer
+returns true if values will be enclosed by a quote character
+changes the scalex value to the specified values
+extracts from the relay log until cancelled or we fail
+inserts a couple of massive ldc s into methods
+checks weather the view is shown
+clone the matrix object
+tests the equals method against a null a different and an identical object
+flag that the observations are complete probability distribution functions can now be built
+prepare bitmap from url string
+convert a message and status to an error node
+sets the actual script source
+return a lazy implemented re ordered view of this dataset
+closes the module
+parses statement modifier and rolls back if it looks like compound
+take the input string and un camel case it
+in place copy of one objects values onto another with option to replace existing values in copy
+create pagination functionality upon recyclerview
+make the badge non visible in the ui
+returns a string representation for a proxy that uses this invocation handler
+notifies that an existing footer item is moved to another position
+returns true if a class node makes use of generic types
+shows a dialog that asks the user for the location of the ida pro installation directory
+returns true if this policy has attempts remaining false otherwise
+does this device have a system navigation bar
+initialises all values in the matrix to the given value
+function to taint a register and update all the sets accordingly
+decode and sample down a bitmap from a file input stream to the requested width and height
+splice add a group from one database to a parent from another or copy from the same db
+inserts a key value pair into the map if the specified key is not already associated with a value
+remove all findbugs problem markers for given resource
+verifies that the number of values received onnext is equal to expected one
+loads a class using the name of the class
+bounds the current scroll if necessary
+removes a breakpoint from a breakpoint manager
+this needs to be called before anything else because we need the media factory
+parse an account
+removes a debugger from the provider
+put bitmap to image cache
+concat all elements and return a new list
+destruction of the servlet
+selects a table row depending on a mouse event
+updates the window when something relevant like a new tab was selected happens
+creates a new div instruction
+tries to parse log event in json form using selected date format
+signal that the task should end
+returns the namespace name of this element type
+extract the required rows from the matrix
+remove the component resources
+replace parameters
+whether the skin being used is from external
+releases the usb interface
+selects the maximum value found in an array of items so min as object
+the doget method of the servlet
+device can t decode slash in json like url http iot
+set image load global body post way
+attempts to multicast the given packets on each of the configured network interfaces
+prepares allocates a set of transfer buffers for use in transferring data from the tuner via the bulk interface
+look up cached output values for given entry
+constructs a comma separated list of column names if checkcolumnnames and their corresponding types java
+since they are idynamiclightsource instances they will already receive updates
+checks whether a given and node matches a formula
+creates a reader for the xml file
+clear all properties except the relationships
+put a key long pair in the jsonobject
+deletes the ssh key with the given sequence number
+parse value from regex
+add the resource to the idle cache if present
+removes the specified entry from cache
+show the system menu
+retrieves the last stored location and sends it as a url
+gets whether the result only contains one column
+readdata input the modbus message from din
+recursively walk the name tree looking for a given value
+remove the specified groups from the set of groups to discover and return true if any were actually removed
+given paths will be parsed to fixtures and added to the queue
+append the string escaping unsafe characters
+create a new router with the specified configuration
+use whenever the text print position should be increased e
+checks if the partial behavior graph constructed up to now contains any bad cycle
+call the specified method on all listening objects
+writedata copy the attribute values for this message to the output buffer
+imports an idb file while showing a progress dialog
+pulls a string off the queue up to but exclusive of the match sequence or to the queue running out
+adds a key value string pair to the request
+just make easier to understand
+execute some junit test code inside a detector class running inside a findbugs analysis run
+change space mode to primary
+executes a sql statement
+read a byte int from binlog
+splits the query parameters into key value pairs
+the dopost method of the servlet
+parse the content of the specified input source into a gpathresult object
+this method removes all pending and active tasks from the taskmanager for this instance
+get an iterator over all resources in the method
+returns whether the row is in its expanded state
+print a color stream
+get the value of the includedestclasses property
+skips variable length blocks up to and including next zero length block
+sets the filter sample rate in hertz
+adds another imagecontainer to the list of those interested in the results of the request
+removes all associations from this map
+scan the photo file to the local media database which is saved by take photo
+wrapper method for methods that submits a synchronous event with proper mbean error handling
+shows a context menu depending on the mouse event
+updates the gui according to the state of the debugger
+open the last log file for writing
+sends the supplied packet from the server to the chosen player
+appends scheme to incoming path
+return the tests included in this test suite
+return true if the proposed credentials are authenticated
+find an arbitrary method
+display the message to user
+get the configured buffer size p the default buffer size is bytes
+advances the progress panel to the next state
+creates a configurationexception object
+creates the gui of the dialog
+check job promotion
+add a jarfile to class path
+add key to the component locator of the component
+throws an exception if the diagram was already returned
+write an array of data characters with escaping
+creates a new nop instruction
+start a new log file
+instantiates a new type instance reference and stores it in the database
+serializes the given directedgraph object to the given location
+initialises the calculator with parameters as supplied here
+indicates that this piece of metadata is only valid for the duration of a call event and should be removed during a reset
+bind one implementation into the set using a unique annotation
+confirm the pipeline is committed through the given seqno
+returns true iff the status represents an obligation that is currently being proved
+removes the given key from a map property
+creates the settings directory
+whether the calculator should gather observations to compute a multi info between the local tes and ais values
+updates the sequence number stored in the catalog trep commit seqno
+start executing this watchable
+possibly blocks awaiting root lock
+the recursive procedure that evaluates newvecinsertpos oldpos v where v is the vector of elements vec idx vec idx
+put filename typedef into the map
+indicates whether a given config file was modified since the last time it was accessed based on the time modified that is passed in
+end a span of text
+reads a markdown link id
+put a tile image into the cache
+confirm that the local values average correctly back to the average value
+ensures that we are not logging on a mastre
+whether the timestamp is today
+factory method to create a new viewdraghelper
+creates a connection to a given database
+merge one frame into another
+clones a list of source nodes and inserts them into the target view
+checks whether a supplied socket port is busy
+start a put request to the given url along with the query params
+adds the given value
+the doget method of the servlet
+inserts the source view into the target view
+loads the waveforms or creates a new collection
+generates a publickey instance from a string containing the base encoded public key
+modifies the realizer of an edge according to the edge type
+request a set of permissions showing rationale if the system requests it
+test to determine if a classnode is a primitive type
+returns a shallow copy of this instance
+returns element from proxyregset that corresponds to the given proxy
+retrieves the next run of word type letter or digit off the queue
+one based jan st
+convert drawable to bitmap
+set the starred status of a change
+make a deep copy of a matrix
+test whetner sample binary arrays are correctly decoded
+start to scan bluetooth
+stops emitting new particles but will draw the existing ones until their timetolive expire for an cancellation and stop drawing of the particles use cancel instead
+initializes all stream check lists and begins the checks
+removes a child of the current node
+initializes the listeners that handle keyboard and mouse input
+build query for execution
+moves to the next record
+committransaction commits the current transaction
+create a fail workflow reason by combining a target name and message
+return an exact copy of this project
+create a new instance of a drop down view for the specified position
+tests iterating through the range
+write a message to the network from either side
+returns a copy of the given server proxy having the client method constraints that result after the specified method mapping is applied to the given client method constraints
+use this to check whether or not a file exists on the filesystem
+normalises the elements in the given array
+evaluates an indegree criterium match on a node
+whether or not this packet is a large packet thus part of a large query or result
+creates a serial modbus slave or returns the one already allocated to this port
+get the selected account
+called when the user selects an item in the list
+reads a code of given length and at given index in an array of bits
+if there are elements in the buffer left then return true
+converts a basetype instance to a string representation in the same way as a basetypetreenode
+registers a threat handler
+add key value pair to map and key need not null or empty
+adds a new listener that is notified about clicks on the x
+creates a responsefromaddressattribute of the specified type and with the specified address and port
+if the start end trim are offset to begin with store them so that animation starts from that offset
+whether this hw is initialized
+notification that the user start drag a view
+generates the instruction to jump to the given label if the top stack value is not null
+asserts that a given file exists and is a directory
+parses xml nodes that describe the remote files
+traverses down the children tree of this parent and collect all child anon
+submits an event for watch processing
+add operations to a batch update that execute this submit strategy
+returns true if stdout should append to existing file
+addrequest add a new record request
+load customerreviews to db from customerreivews
+creates a new ui object for the given component
+store an element while the sl is unlocked
+write string to stream
+retrieves a date from the result set
+creates and returns a jobdatamap using the supplied schedule configuration
+confirm that we can re read the same file thousands of times without triggering a resource leak e
+paint the foreground restore button mouse over state
+returns a transformer later applied as filter to transform one number into another
+create a new builder using the header information and data provided
+checks type of value against builder type
+delegates the call to the provided reducer
+create a pong frame
+add a new column
+create a gaussian kernel for the transformation
+rounds the given number to a precision of two after digit numbers
+returns true if this request has been canceled
+fill a rounded shadow
+reset the progress spinner to default rotation start and end angles
+tells whether or not a charsequence matches the given compiled regular expression pattern
+get value from byte using normalized index
+visits a lookupswitch instruction
+saves a native graph
+jumps to a search result of the given index
+paints the background of a menu bar
+sets all options equal to incoming options
+settle the captured view at the given left top position
+adds a new public ssh key
+post read response request to target url don t send request
+determines if a method has one or more mvc or jax rs annotations on it
+returns the key accelerator for the application
+performs a scan of all rules to see if we have a match
+remove the most recently added instance of the attribute delegate
+uninstall package and clear data of app silent by root
+gets the allowvoting value for this remoteconfiguration
+creates a new state event object when the edge enters hover state
+adds a uniquestring symbolnode pair to this context no op if already present
+create the mark interior shape
+edit a local instruction comment
+start indexing multiple changes in parallel
+post read response request to target url don t send request
+this method doesn t clone the array passed into it
+sends the supplied packet from the server to the chosen player
+updates the fade timeout threshold to the current time plus delay
+change this should review account
+sets whether this type is replicable or not
+clear the selection status for all items
+sets the action and active policy based on the current situation
+the device is normal device or iespdevicearray
+discards the resource after becoming dead from the idle state
+determines if the message type is indication
+confirm that acquire and release operations are idempotent
+drops the underlying database table
+set the time at which the trigger will no longer fire even if it s schedule has remaining repeats
+reset the progress spinner to default rotation start and end angles
+determine optimal nr of columns and rows for the specified number of codewords
+get the total time of the section
+add a custom transformation to be applied to the image
+returns the given charset or the default charset if the given charset is null
+flush both output streams
+test of getallbookmarks method for a nonexistent user
+utility method to collect the keys
+reads a character from stdin blocks until it is not received
+push a new fragment onto the stack and presenting it to the screen uses default animation of slide in from right and slide out to left
+get cardinality by job state
+called after visiting a code attribute
+prints the elements of the array one per line enclosed between and except with the first line enclosed with and
+move to a new sl that represents a new group of same values used in fifo group scanning
+changes the password for an email
+animates this task bar dismiss button when launching a task
+searches the range given by the span s for the double occurence of quotation and puts the results in the list quotedspans
+add a field to the given class
+consumes the named attribute or dies if it is missing
+just post json to target url no http headers
+copies a file from the binnavi source directory to the ida pro target directory
+compute the mi if data were reordered
+converts an ascii string into a hex string
+checks if json data is correctly formatted
+put a key value pair in the jsonobject but only if the key and the value are both non null
+remove all exceptions from the set
+creates an errorcodeattribute with the specified error class number and reason phrase
+returns whether the diff verification mode is enabled
+confirm that the getkeystorealiasforconnectiontype returns an alias name and null if it cannot be found
+copies the given source array into the required column number of the destination
+adds another imagecontainer to the list of those interested in the results of the request
+compare two objects for equality
+checks if is numeric clumn
+compute least significant bit unit in last position for a number
+parser for print say printf filehandle
+get the checksum for the table as recorded in the table record header
+validate and load security properties that uses a keystore containing multiple aliases
+helper method for generating unique job trigger name for the file scanning jobs one per filejob
+the event session configuration to be used when subscribing for notifications
+fills the thread pool with the initially specified number of message processors
+decrement a float property with the given delta
+convert a websocket opcode into a string representation
+find the sum of attendees but access the optional appropriately
+sets the event number from which previous events can be scavenged
+checks if the node is a leaf node
+creates a segmented stored list used for highly concurrent lists
+sets an xml namespace
+todo decouple different streamroutepartitioner implementation from basicstreamroutepartitioner
+interrupts currently running tasks
+destruction of the servlet
+override this method to update the repo
+handle end of file
+decode the base encoded data in input and return the data in a new byte array
+sets an attribute store
+allocates and fills an object array with the arguments to the current method
+deletes video entry with provided id
+returns the only valid instance of the plugininterface class
+does the browser have shockwaveflash plugin installed
+smooth scroll to position using the specific duration
+checkvalidity verify the transaction ids match or are zero
+the doget method of the servlet
+returns a well formed repldbmsevent with a specified shard id
+note assumes that the given path is relative to the basedir
+writes the default serializable field value for this instance followed by the registrar s service id encoded as specified by the serviceid
+loads the data of a module from the database
+writedata output the completed modbus message to dout
+shortcut for path path lessequal value
+perform a multicubic interpolation
+perform a http head request without any parameters and track the android context which initiated the request
+retains only those entries in the map for which the procedure returns a true value
+returns all incoming and outgoing edges of a node from the view
+returns a stream to write record contents
+creates a partial state space with the state st as the root and depth as the depth
+reads a signed bit number from the bytes message stream
+constructs a new privileged task wrapping the actual task and filter to execute
+performs a search on a label content
+returns the count of files in the log
+this will let you know if an applet is available from busybox p
+removes a previously added footer view
+sets the period after which gossip times out if none is received
+updates the toggle state of the button to remain synchronized with the magnifying mode state
+go to detail view
+notifies all listeners about selection changes
+makes a deep copy of the nodetextrep object
+sends a request that doesn t have a data payload
+counts the size of a directory recursively sum of the length of all files
+tells whether the given field description signature is generic
+outputs boolean to a file
+adds child views for the current node
+locate a cached prolog machine state or create one if not available
+creates an is null predicate
+does the given class and or its superclasses at least have one or more methods with any argument types
+returns the value of the euler mascheroni term
+setting blade run mode
+start collecting profiling data
+get an optional boolean associated with a key
+visits an annotation of the class
+helper method to create a stringswitcher
+deallocates the array resources
+sort data based on provided sort field list
+adds the listener to receive audio packets from all modules
+the doget method of the servlet
+called when the robot has ticked
+verify that we can build and immediately release a pipeline without starting
+returns this vector in an array
+returns true if a fake drag is in progress
+replace all occurences of a substring within a string with another string
+parse the api key xml element
+generates html output for a tableelement
+a hashing method that changes a string like a url into a hash suitable for using as a disk filename
+this should be the method called to add a reused file for the recent menu
+returns a printable version of the state with number statenumber
+make sure the given location is an url
+adds all items from the iterator to the collection
+can this user add a patch set to this change
+invokes recon on idm
+returns the average local entropy rate from the observed values which have been passed in previously
+creates the buttons to manipulate the classpath
+recover only from primary in failover group
+connects to the specified dbms and prints status
+open a file and read any fonts that it contains
+this method unconditionally emits a message to the logging system but does not throw any exception
+gets a copy of the fonts digest that was created when the font was read
+this method doesn t clone the array passed into it
+permanently deletes a view from the project
+initialization of the servlet
+get the server header from the response
+this method enables label with fps value on the screen
+start a put request to the given url
+closes out the current file appends an incremented sequence number to the file name and opens up a new file
+cancels the transaction
+insert a shard channel assignment into the database
+adds a section to the manager
+start javaprocess export ijavaprocess as remoteobject and bind to executer registry
+returns true if the index entry contains this sequence number
+remove a resource all together from the pool and dispose of it
+reads the configuration parameters described in the panel from the configsettings and and sets the contained values
+determines if a resource method is a controller
+install actions buttons and listeners on title pane
+get value from float using normalized index
+when modify the trigger or save the changes
+notify listeners that a single type substitution was changed
+used internally for adding view
+<PAD>,<PAD>,<PAD>
+checks to see if action is live sync
+increment the counter by one
+return composer instance to setup this container instance
+collecting big trades to a list
+inner method for satisfiedbasedonchildren for a non leaf color predicate
+test if the root variation is below rootepsilon
+generates repldbmsevent with a single onerowchange
+creates a constraint aware lease map
+a publish action was unsuccessful notify user and update client history
+verify that pinging an unknown host results in a notification for each available method as all will be used
+some devices seem to have bugs with the parcelable implementation so we try to restore missing objects here
+finds files within a given directory and optionally its subdirectories
+shrink string over the wire should be used for constant number of strings which are repetitive i
+puts the discoverer into an operational state
+gets the assert class object and calls its notnull method
+removes a tag from a view
+handling message which sent from wechat p this message will be sent from wechat by clicking the app icon at the bottom of the chatting page
+verify ability of multiple threads to issue localhost ping calls without serializing even when the ping call is to an unknown host
+creates an insert operation
+since the crash that happens if we dont do this is complete garbage
+returns a string representation of this object
+find an instance of utf info in the source class s constant pool where the text matches the given argument
+adds an object that is notified about changes in the group node
+decodes a paste operation
+the main processing method
+post http post request to target url and don t wait response
+pushes the specified amount of characters back into the input stream
+loads the tag manager responsible for node tagging
+is the bug pattern experimental
+converts uptime nanos to a real utc timestamp in seconds
+run a script identified by name with a given binding
+starts the visit of a stack map frame
+initialization of the servlet
+overloads the leftshift operator to provide an append mechanism to add values to a stream
+returns the number of values in the list
+test the putlenstring method
+if rawdensity is ranged from to use this to scale it up
+return true if entry belongs to the partition of the space false if entry is not from space partition
+logs the received response and notifies the wait method
+parse image data into a java bufferedimage and add the image command to the page
+todo review this later do we should check this in runjettyruntab
+releases any resources we may have or inherit
+returns true if the locators are equal
+adds a template that will be used to control the matching entries the iterator will iterate over
+start an apply interval
+closes the attached progress dialog
+decodes parameters in percent encoded uri format e
+gets the encoding id for the cmap
+visits an annotation on the type of the field
+get device s iotaddress by udp broadcast
+add a project member
+calculates a lrc checksum
+only does work if we are not currently using the default classpath
+return an iterator over all available plugin objects
+create a new child section
+searches for the tags with a list of given ids
+calculate a new renew time due to an indefinite exception
+verifies the crc value
+download reviews written by the user
+synchronize the menu with the current buginstance
+sets that the subscription should start from the beginning of the stream
+convert a json object to a java object
+extract id from the http request
+add a handler to listen for starred status to change
+stores the preferences to disk
+constructs a sql statement template later used for prepared statement
+accumulate a warning at source location currently being visited by given bytecodescanningdetector
+error checking function that ensures renewduration is valid taking into account the whether or not the desired expiration duration is lease
+confirm that we can seek to the sequenced number after the last sequence number currently stored and read the next event when it appears
+compute and return crc on data
+sets updates the metaclass for a given object to a closure
+handle read query check if it is a read query or a readmultiple and execute it
+shows a popup menu that depends on the node that was clicked
+release slholder for this scan
+handle the processed notification to update the statistics appropriately
+does a shrink selection up operation on a graph
+notifies that multiple footer items are removed
+reads a signed bit integer byte swapping if necessary
+add fixed to map
+searches for the api view container that wraps a given internal view container
+checks a class type signature
+get an iterator over the analysispasses
+start indexing a change
+get the y max
+soft sign in should try to sign in with an existing session id then fail silently
+increases the timer by
+adds the instruction lines to the content
+play sample tune using the pibrella buzzer
+copies the text content of a node to the clip board
+converts to json representation
+rounds the x and y values of the given vector to the nearest integer value
+length of memory to copy
+write the bit vector to a file
+create a datebuilder with initial settings for the current date and time in the given timezone
+determine if the match is complete
+visits an inner class
+stop the thread which is serving changes to requesting slaves
+a compatibility checking tool for routing module
+logs requests that took over slow request threshold ms to complete
+initializes the comment of an instruction
+delete a user and password from a file
+sends a heartbeat from the client to the server and logs the round trip time
+since the crash that happens if we dont do this is complete garbage
+determines if we can process as if we were in quotes
+pops a type from the output frame stack and returns its value
+initiates a scan for all known barcode types with the default camera
+is the argument a delimiter according to the pdf spec p iso table
+adds a custom step
+read a file containing stopwords one per line
+commits the entry to raft log
+reads an unsigned bit number from the bytes message stream
+kill javacommand by kill with javacommand uid note this method only relevant for unix based machines
+create an xmethod object from the method currently being visited by the given preordervisitor
+wrap or cast an inputstream to a bitinputstream
+add a list of strings to document as elements with given tag name to the tree
+determines whether the given text field contains a valid type size
+rebase a revision onto the branch tip or another change
+updates the default call graph settings in the configuration file from graph settings
+write a protocol definition out as json
+create an andmatcher that depends upon the result of both of the given matchers
+generate device name by bssid
+verify that the filter does not add any annotations if the statement is not a schema change or truncate
+blocking method waits for connection
+stop pinging the required target
+waits for a draw
+moves the tutorial to the next step
+post http get request to target url
+tests whether data length is properly calculated
+finds a project tree node that represents a given object
+shows a dialog where the comment of a text node can be edited
+selects the minimum value found from the object array using the given comparator
+stop the entity
+removes the key and its corresponding value from this map
+creates a bean metric manager using the specified name
+concatenate a transform to the graphics state
+true if this account was recently created for the user
+convert int array to integer array
+compares a version number to the version number of the current com
+writes the name and value of a json attribute
+dismiss the current card
+returns when request succeeds
+edits an instruction comment depending
+add a graph object to bukkitmetrics that represents data for the plugin that should be sent to the backend
+write an integer using the number of bits necessary to hold the number as determined by its keep and increment its usage count in the keep
+dims views when other list row s menu is swiped
+initialization of the servlet
+processes a misfired trigger
+runs a test application that creates an agent attaches an aws harvester as well as a few allocates streams generates an sdp and dumps it on stdout
+sets the explore button enablement status to istrace
+resets the zoom of the attached image
+remove an element described by objectinfo while the sl is unlocked
+creates a cursor to get the streams saved in the database
+return whether this property is confidential
+return an expression representing the given condition
+get the absolute value
+returns whether last event read was the end of a transaction
+add a postinstantiate delegate so it can intercept nodes after they are created
+add a page to the cache
+visits a field instruction
+puts one byte and two shorts into the constant pool
+create a groupmatcher that matches groups ending with the given string
+verifies a single node of an operand tree
+move a local file to hdfs
+called whenever a response has been received
+append already safe html as is avoiding double escaping
+destruction of the servlet
+adds the given text to the circular buffer
+fills every slot in the list with the specified value
+initialization of the servlet
+return the attempt number starting with zero
+reverse the order of the elements in the range of the list
+add some more observations
+release resources associated with the value
+dynamically check that the members of the collection are all instances of the given type or null
+tells whether a given access modifier is deprecated
+changes the form s is label when its doing background work
+log to the appropiate log level the output of the command
+invoked by the scheduler when the scheduler triggers
+adding a child session into the current connection
+writes the buffered finalzed queries to the output
+adds an object that is notified about changes in the address space
+called by the engine after all connections have been closed
+delete a trigger its listeners and its simple cron blob sub table entry
+returns if a node has grandchildren
+there must be an easier way
+summing up the quantity using primitive stream
+creates and returns a new radio button with the given label
+helper method for entryset
+returns whether thunk functions should be shown
+create an aliased right outer table join
+a method to add bookmarks to user s list
+depending on the orientation it opens either mainphonefragment or maintabletfragment
+adds a method reference to the constant pool of the class being build
+is template relevant for fifo blocking in initial search
+returns an indication if the underlying db is a central db common to several cluster members
+appends the specified json value to the end of this array
+gets the contents at the given url
+overloads the left shift operator to provide an easy way to add nodes to a defaultmutabletreenode
+writedata output the completed modbus message to dout
+restore undo delete modify a file in the pending edit
+returns true if the interfaces implemented by obj s class are the same and in the same order as obj s class
+writes locators to the given stream as a null terminated list of marshalledinstances
+gets the end code for a segment
+returns the resource to the pool so it can be borrowed by another caller
+construct a new empty document
+invoked when the outer browser window resizes
+determine how many active witnesses are in the potential quorum set
+determines if a track matches a given string by its name artist label genre or album
+notifies that multiple footer items are changed
+decrements the scheduled queue counter and enqueues the request
+paints the border of a scrollbar
+utility method to check via reflection if the parsed class appears to be a junit test i
+resolve metadata and details of the annotation
+only create the edit button
+add an array of characters to the buffer flushing the buffer if the buffer is full and returning the new buffer index
+normalises the elements along each column of the matrix
+sets the jobwrapper in the paused state
+tests if this instance is not a master device
+unregister fail listener initialised by builder faillistener
+paints the background of a popup menu
+schedules a directory recursively for deletion on jvm exit
+parses the given script and returns it ready to be run
+reads parameter annotations and makes the given visitor visit them
+asserts the asboolean method returns the given flag
+decreases the timer by a specific value
+special case code for containsvalue with null argument
+creates an instruction graph from a reil graph
+converts a list of bytes into a byte array
+write the text to the path without writing a bom using the specified encoding
+performs phaselistener processing and invokes the execute method of the phase
+gathers partial results submitted by tasks and produces a single outcome
+converts column types according to standard vertica names
+adds another imagecontainer to the list of those interested in the results of the request
+gets the number of cmaps within the cmap table
+is the element accessible from within the package
+checks the validity of the transaction by checking if the values of the response correspond to the values of the request
+simple convenience method for determining if this index is the last index in the adapter
+sets the interval after which an unacknowledged heartbeat will cause the connection to be considered faulted and disconnect
+confirm that the local values average correctly back to the average value
+initialized the namespace prefix mapping for the current language version of wikipedia
+remove a file system listener
+check whether the literal is byte type
+returns the estimated number of distinct values within this instance s range
+writes a single long
+determine if this problem is more severe than another
+broadcasts a change update to the current uncorrected frequency or the bandwidth sample rate value
+broadcast the given intent to all interested broadcastreceivers
+this is the implemented method for notificationlistener
+retrieves a process to a given ilaunch
+creates test table metadata
+creates an undef instruction
+checks whether the trial version has expired
+checks dimensions of hint text and uses secondary hint text if original hint doesnt fit
+verifies that the session is under tx
+append a closing tag for the named element
+delegate to the editor
+creates the underlying database table
+this seems to equal the last prefix infix postfix or nonexpprefix op that was parsed
+tear down instance variables required by this test case
+writes each element of a in the appropriate range to out
+create a new builder using the header information and data provided
+the doget method of the servlet
+create and return a writable file
+this method is the car equivalent
+checks if specified element is shift expression or in the single statement of sub definition
+copies given string to the system clipboard
+create a simpleschedulebuilder set to repeat forever with a minute interval
+get the absolute value
+note returns the index
+determines whether or not this subscription is to all stream or to a specific stream
+used to support operations on addresses in python scripts
+returns the next revision information
+calls the provided closure for each of the rows of the table represented by this dataset
+record a final entry for a reconciliation
+do the actual call site target set if the call is supposed to be cached
+show the panel to the position selected
+draw the progress spinner
+removes a listener object from the view node
+inserts a shard channel assignment
+convenience wrapper for addwarning that won t create an object unless it is relevant
+consumes the named attribute and parses it to an array of string expressions
+get a solenoid instance from the registrar
+determines if a job already exists
+prefixes all the given properties with the given string and merges this new set with the actual ones overriding current values with same keys if any
+checks if is java identifier
+removes the data table from the database that stores all the btdevices
+builds the address line of a function node
+round a number d to the specified amount of decimal places res
+return number of columns
+saves a native graph and waits until the graph is saved
+check whetehr the required type is bool type
+subtract the parameter matrix from this matrix
+deletes a row that is identified by an id from a table
+is append the data at the end of the file or not
+creates the native flow graph views of a module
+throws an illegalstateexception if the current instance of the servicediscoverymanager has been terminated
+standalone routine to computes local transfer for the given single source destination pair of the d multi agent system
+creates a new router configuration file in the correct location
+causes the current phase to fail by throwing a compilationfailedexception
+this will launch the android market looking for superuser
+return a json representation of this object
+create a d vector from an angle relative to the positive y axis and a magnitude
+initialization of the servlet
+initiates the streams drawer if the streams in the drawer is
+stop a profilerentity that has been added to the section
+creates a new text node
+destruction of the servlet
+establish a scan position
+writes all properties of a given resource to the properties table and links them to the main table record
+the function is used for tell other routing filter that this server is not able to handle the request
+return css class for highlightstyle
+this method is for when the user wants to open a file
+updates the data about the result this is usually needed when instructions are added to a result
+notify all iclassobservers that we are visiting given class
+copy the application stub into the bundle
+reads the funit at the given index
+generates chunk definitions for the given table eventually using a given chunk size and a given column list
+create the shape for the outer focus ring
+shows a progress dialog and sets all the echo breakpoints necessary for the next trace
+initializes unity ads
+converts an array of entryrep to an array of entry
+cancel a currently running task
+begin the verification routine
+determines whether the tag represented by this node is a root tag
+write bytes to a file
+determine whether or not the annotation text contains the given word
+replace shortnames to unicode characters
+transforms mnem r r r to r combine r r
+parse the argument as auxclasspath entries and add them
+open a source file in given package
+by default fifo order is not preserved
+determines whether all elements of an array are unstared
+verifies whether the specified attributeid is contained by this attribute
+reset document locator supplying systemid and publicid
+utility function to compute the combined past values of x up to and including time step t i
+will log a message with warning level
+a factory method to build the appropriate luminancesource object based on the format of the preview buffers as described by camera
+perform updates if added documents already exist
+returns whether the block is valid or not
+sets the listener that should be notified when a new request is received
+silently tries to close an inputstream
+rehashes the map to the new capacity
+takes and rotates the it degrees
+replace placeholder in template
+commafies a list of elements and returns the commafied string
+get an iterator over all bug annotations
+the doget method of the servlet
+returns a well formed repldbmsevent fragment with a specified shard id and epoch number in addition to other useful information
+visits a signature corresponding to a type variable
+destruction of the servlet
+returns the schema of the table s records
+draw text with an emphasized background
+create a buffered reader for this file using the specified charset as the encoding
+helper method which throws an exception when an assertion has failed
+set up a random number generator for the session ids
+replaces the current body of this node with the passed object
+magnitude squared of this sample
+initialises the calculator using existing value for tau
+disposes of resources
+determines whether or not the given node contains web content
+add a jarfile to class path
+the doget method of the servlet
+checks the compatibility between two modifier masks
+create a buffered reader for this file using the specified charset as the encoding
+go to list of comics screen
+overloads the left shift operator to provide an append mechanism to add bytes to the output stream of a socket
+raise a biginteger to an int power
+reports that a task has shut down
+defines class from bytecode in the current classloader
+release the value corresponding to a specific key returning the number of items deleted
+returns a hash code value for this object
+inserts a key value pair into the map
+sets boolean type custom metadata property
+returns whether the token starts with one of the prefixes passed
+shows a long toast
+signal that all tasks have been cancelled
+reset views and animations
+unloads a comment and removes the items it references from the internal storage
+reads an unsigned short value in the given byte array
+coerce a string an instance of charsequence to a boolean value
+tear down instance variables required by this test case
+creates a or instruction
+adds a new selection snapshot to the selection history
+returns whether the specified scroll is out of bounds
+fetch an object from the registrar or create it if it doesn t exist yet
+changes the viewposition of the drawpanel and recalculates the optimal drawpanelsize
+binds the tracks that must be shown on the table to deleteplaylistfromfolders list property
+marks the current slot as in used
+return a value representing the two values multiplied together
+tostring leveldatatostring walkgraph methods needed to implement explorenode interface
+verify that we accept and ignore databases appropriately when using row updates
+writedata output the completed modbus message to dout
+rehashes the map to the new capacity
+prints a message at warn priority
+try to open wifi settings activity
+parses a memory string into a byte array
+resets this taskstackview for reuse
+create a request for a local username such as from ldap
+checks if an environment variable is defined in the system
+prints release information from the manifest file
+stops the initialization operation
+get smallest scn among all open transactions
+creates a new type instance instance and stores it in the database
+opens the tla editor and goes to the marker
+creates a mod instruction
+this is synchronized in order to avoid concurrent reconnection state
+converts internal module objects to api module objects
+updates the save field backgrounds
+searches for the api view that wraps a given internal view
+get cardinality of inactive jobs
+process notification of a published message having been delivered
+verifies that extended tokens of or more bytes are accepted and correctly disambiguated
+execute mesh device upgrade local suc
+nothing wrong with this method
+reset items status when adapter is modified
+get directory entries from a font
+restore the original display
+unregisters this listener from the preference store
+checks if this node has children
+a factory for back to state states
+asserts that a given file does not exist
+create and show a simple notification containing the received fcm message
+convenience method with zero start seqno
+returns true if given transaction is a timed transaction
+determines whether a given file is a drive or not
+test read and write empty clusterpolicy object
+verify that we always accept the tungsten catalog even if it is explicitly ignored
+converts a string in hexadecimal format to a message digest
+verify that we accept and ignore databases appropriately when using row updates
+creates a space predicate according to the templatematchcode member
+called when the deed is done
+parses a newexpr except for the leading new and returns the constructed object
+using some super basic byte array lt gt hex conversions so we don t have to rely on any large base libraries
+this method unconditionally emits a message to the logging system but does not throw any exception
+retrieve a charset from headers
+checks if is class avilable in class path
+adds the provided map of key value pairs as a new row in the table represented by this dataset
+connects the instructions of the converted module to their code nodes
+assigns a debugger to the project
+clears the header view cache
+given a field node checks if we are accessing or setting a private field from an inner class
+compares two stun attributes
+delete any other restaurant that has the global id and move its reviews to the restaurant
+puts an array of bytes into this byte vector
+convenience method when no arguments are required
+specify the executor service for loading images in the background
+determine if given instruction is a monitor wait
+get object in current scope
+disconnect from the server
+set content type field default is application json
+detects changed meta data providers
+set the if modified since request header to the given value
+returns the long value of the address
+read a single sentence
+fling the scroll view
+read a fixed value
+converts the float samples in a complex buffer to a little endian bit buffer
+if the visibility threshold is reached this function prompts the user whether he really wants to make more nodes visible
+performs message encoding of a datamatrix message using the algorithm described in annex p of iso iec e
+checks that the given value is a signed short
+use this method in the future to generate other versions of of the serialized object file
+deserializes a serializabledirectedgraph object that is stored in the given br location
+builds a parametrized class node for list to represent list lt x gt
+creates the underlying database table
+add a configuration to the delayed pool
+creates a stm instruction
+displays this node as a string implementing explorenode interface depth parameter is a bound on the depth of the portion of the tree that is displayed
+prepares a map of additional bindings for the script hook invocation
+put a key value pair in the jsonobject
+create a split array from a fsarray
+returns whether the rhs is the same as the method name being declared eg
+flatten an array
+returns a hashcode for the specified value
+allows derivative classes to handle the xml attrs without creating a typedarray themsevles
+get the property in string form
+loc is a location in text compute and return the equivalent location in text
+trigger a substitution changed notification for all type substitutionsbytype corresponding to the given set of base types
+get user
+checks whether the array contains the given value
+checks if the character is a separator
+finish the final byte and flush the bitwriter
+maps an int to a specific state
+fills a range in the list with the specified value
+replace existing spannable with smiles
+to create a new settings instance
+paints the transcoded svg image on the specified graphics context
+take the logical and of selected variables in each row
+returns true if the formatting manager should be applied to the generated code block
+returns true for expressions of the form x
+generates a pop instruction
+subtract two long integers checking for overflow
+tear down instance variables required by this test case
+initiates an orderly shutdown in which previously submitted tasks are executed but no new tasks will be accepted
+if getapplicabilityvisitor is overwritten this checks to see if this resolution applies to the code at the given marker
+performs error detection and correction
+returns the standby value
+make a unique and valid workflowid
+creates a new type instance reference and stores it in the database
+sends the fcd command and argument
+create a simpleschedulebuilder set to repeat forever with an interval of the given number of seconds
+tests whether a breakpoint of the given type exists at the specified address
+called only by function
+given response will be enqueued
+return a path for an ellipse
+evaluates a color criterium match on a node
+record the start of a new reconciliation
+return the parent element type of the element s type
+accept the query executor
+logs the status of the article consumer
+zooms to the first occurrence of an address in a graph
+write bytes to a path
+implementation required for comparable so that we can sort entries
+confirm that we can write to new and existing files
+identify whether a particular character preserves the same byte value upon encoding in pdfdocencoding
+returns a list backed by the specified array
+print contents of the reader
+construct a matrix from a copy of a d array
+returns the keys of the map
+validates each of the channel ranges for overlap
+the tailer will call this method during construction giving the listener a method of stopping the tailer
+converts an unsigned byte to a short
+verify that we can skip forwards using a couple of different buffer sizes
+create a converter instance
+filter a single event
+pop a value off of the java operand stack
+check whether the caller can have access to the class or its members
+deletes a comment from the comments of a function node
+read a number
+go to detail view
+combines the values of the promises into a promise of type r by applying the specified function
+determine whether there are instructions
+creates a sourcefromaddressattribute of the specified type and with the specified address and port
+returns true if the indicated property key exists
+converts a string into the corresponding keystore type
+adds all items from src to dst
+moves the scan to its previously saved position
+binds the activity to the custom tabs service
+serializes the argument into an array of bytes and returns it
+start the main async instance
+check if all array elements equal to zero
+adds a new expression tree to the cache
+gets the table as a string of comma separated values
+reads data into an array of bytes
+write part of a multipart request to the request body
+focused the editing field of the local comment
+updates the gui depending on the state of the active debugger
+functions identically to android
+utility function to run kraskov algorithm as transfer entropy for data with known results from trentool
+returns true if the two classes have no public methods with the same name and parameter types but different return types
+returns the average active information storage from the observed values which have been passed in previously
+encrypt decrypt something in place
+splits a string into sentences using the breakiterator with us locale
+collect all consecutive text starting at the current point
+tostring leveldatatostring and walkgraph methods to implement explorenode interface
+paint the background mouse over state
+add key value pair to map key need not null
+sends a packet from the server to all currently connected players
+finds references to the given fieldnode
+convenience method for converting a single signature component to human readable form
+check is view istouchpoint
+schedules a settings save task
+this method performs the actual post adjustment p this method is left to be overridden by extended classes
+checks arguments for validity
+interpolate the current targeted zoom and get the delta from the current zoom
+create the auditlogfilter from the live configuration
+initializes the configuration with a properties file
+write stream to request body p the given stream will be closed once sending completes
+utility method to check through reflection if the class appears to be a junit
+renew the event lease for an absolute expiration time
+returns the string representation of this object
+attempts to transition the entry from retired to dead when releasing the handle
+enlarge this byte vector so that it can receive n more bytes
+returns true if pagination limits were added to this query
+adds a module to the address space
+removes all items from the model
+called when an entry is removed from the space
+process an incoming request
+returns true if we have processed all bytes and the output is ready
+removes and returns first element or null if empty
+sets the amount of time to delay before attempting to reconnect
+starting point for the applications
+fill map maptofill with template data
+returns a map of class names to mappedclasses given an engima mapping file
+mirror the bit matrix in order to attempt a second reading
+deinterleaves the bit block in message identified by start and end bit positions
+changes alpha value by that number
+perform a rollback handling rollback exceptions properly
+finds an element that is contains a particular text
+if necessary save current bug collection for project to disk
+creates a new modifiers instance which excludes the specified modifiers from this instance
+decode the beginning of the buffer by default this is a nop
+removes the specified component from the layout
+creates edges to connect the parents of a node with its children
+adds the adder sample value to this sample
+build field and its annotations
+sets the period after which gossip times out if none is received
+logs the receival of the ping signal
+converts the buffered bytes into chars based on the specified encoding and writes them to the provided writer
+converts the given byte array into a readable hexa decimal formatted string
+insert a pdf object into the command stream
+does a given url point to google book search regardless of domain
+is this bug instance the result of an experimental detector
+parse json data from a json uri
+efficient method to check if a range of bits is set or not set
+set initial velocity of parabolic movement y position in pixels
+tests encryption decryption
+check whether the literal is long type
+since they are idynamiclightsource instances they will already receive updates
+creates a new debug trace for the module
+updates the elements of the combobox after relevant changes to the debugger container
+find and replace specific characters or words in specific file
+return the tests included in this test suite
+attempts to delete file with stored response
+checks the validity of a given sql provider and a given project
+transform summary information to html
+receive notification that we are offline br if cleansession is true we need to regard this as a disconnection
+delete a pub sub subscription
+returns whether the debug client can validate memory in the target process
+determine how many passive witnesses are in the potential quorum set
+log the given tungstenproperties
+shortcut for property propertyname xor leftpredicate rightpredicate
+changes the state to bend enter state
+writes the name and a json array
+return a path for the patterned portion of an indeterminate progress bar
+initializes a list block by separating it into list item blocks
+clear the repository and close all underlying resources
+convert a diff list into a pretty html report
+selects or unselects a list of nodes
+convert a document to a utf byte sequence
+returns the information contributors to this node which are not equal to the node itself offset
+returns the bounding rectangle of the given text with the size and style defined in the textpaint centered in the middle of the textbounds
+returns the flag that says whether a connection to this database is established automatically when binnavi starts
+returns true if the page is a disambiguation page false otherwise
+the doget method of the servlet
+appends a byte array to the argument
+hide footer when disable pull load more
+print a linebreak to the standard output stream
+cancels all requests in this queue for which the given filter applies
+determines if given perspective is shown
+returns a string representation of this object
+adds all loaded plugins which are not mentioned in the configuration file to the list model
+put an object into the engine s global bindings
+return any valid codebase for an entry class that has instances
+return true if the text position is within the line height boundaries
+return the tests included in this test suite
+decode a given image file with the specified dimensions
+sends discovered event to each listener listening for new lookups
+return the tests included in this test suite
+the augmented eyes for the whole driver
+unconditioned way to throw an exception
+proceed to the next available ring color
+general equals method that compares two objects considering null values and multi dimensional arrays
+returns whether we are dozing or not
+reads the data in loop until is something available
+releases the specified type of lock on an item holding by a transaction
+indicates if this assignment is currently connected to a channel source
+creates default implementation of task executor
+returns a boolean indicating if the field is an array
+trims the specified specified trimchar from the specified value
+start up the thl server which spawns a service thread
+avoids doing unnecessary work when sorting an already sorted map
+halts the target process
+returns whether the specified node has text
+apply the result points order correction due to mirroring
+creates a new module for a raw module
+notify the listener for each lease
+return the dividers whose bounds overlap the specified rectangle
+handy method to post an event to other views directly
+return whether or not given detectorfactory reports bug patterns in one of the currently enabled set of bug categories
+verify ability of multiple threads to issue localhost ping calls without serializing
+updates the record of the given base type in the database
+starts the dispatchers in this queue
+convert a deque to a list
+create a new builder using the header information and data provided
+hide the done button
+returns service id hash code
+returns a list of the children of this node
+creates a new instance of the types tree model that doesn t contain any nodes
+converts a double value between endian systems
+the given type is a pointer type sclassdef lt
+test the getlong method
+clears all members from a set of types that have a base type which was deleted
+deserialize the state of the object
+redirect the browser to a new url
+construct and return a lifecycle method call trace for the specified method names
+links two tree nodes
+remove an unused transaction from handled transactions
+returns a reference to a type parameter bound of a generic class or method
+add a custom transformation to be applied to the image
+returns the number of data sources currently under management
+checks if space mode equals given mode
+updates the criterium node selection after nodes were removed
+sets an event listener that uses annotations
+exit with a process success code
+overloads the left shift operator to provide an easy way to add items to a jcombobox
+removes the item from the view performing necessary cleanup
+internal trust mechanism used by embedded workers query processors etc
+determines if a controller method needs csrf validation based on the config options
+checks the formal type parameters of a class or method signature
+remove the specified table builder from the font builder
+inserts a key value pair into the map if the specified key is not already associated with a value
+compares two numbers given some amount of allowed error
+update variables to point to the next table to load values for
+encode the pov to a short system that wpilib can read and parse into it s joystick class
+builds a cache of installed packages
+occurred an unexpected token
+persists audit entries into hbase
+returns true if the method containing the execution point represented by this stack trace element is a native method
+decrement the number of users using i
+get builder v for constructing global notifications
+toggles the state of all selected group nodes in a graph
+attach notificationlistener that can be used to listen notifications emitted by mbean server
+sends a packet from the server to all currently connected players
+turns a single nibble into an ascii hex digit
+removes buffers from the pool until it is under its size limit
+creates a new modifiers instance which is a union of the specified modifiers and this instance
+convert json string to the object of the specified type
+puts an array of bytes into this byte vector
+move to next group value
+add an inter pass detector ordering constraint
+write a fixed value
+creating a stream of empty values
+format the array for pretty printing
+add a action to this notification
+deletes the content between s
+creates an and instruction
+copies the contents of the list into a native array
+stops the harvesting timer
+closes a bunch of graph panels
+starts the visit of a signature corresponding to a class or interface type
+returns the count of csv files in the set
+sends and receives properties in two different ways using pipedios thus a buffer and using a file
+fills the table that connects the views of a module with the functions of a module
+given the passed faceletcontext apply our child facelethandlers to the passed parent
+automagically wraps any static java method having two input parameters of any class into xpresso s function
+destruction of the servlet
+returns true if this mediaplayer has access to the presto library
+converts an input stream to a byte array
+test if a type is equal to or a subtype of every type in an array
+add request int url params
+can this user publish this draft change or any draft patch set of this change
+calculates the weight for a split
+confirm that once we have loaded the security information it becomes available in system properties
+adds a request to the dispatch queue
+the hook to update the ticks known by the syncscheduler
+determines the height of this view
+creates an event from a query
+consume an attribute key off the queue letter digit
+subtraction of two numbers
+appends the specified iterator to the end of this list
+drops the underlying database table
+stops the jxm server
+remove the filter of the wifi
+returns true if the last accepted string is a token
+enables or disable debug logging through logcat
+inverted flags flag is true
+parses the given file into a java class capable of being run
+start a head request to the given url
+paints the background of the tool bar s content area
+checks if two vector s are equal
+get the content type header from the response
+return a duplicate of given dataflow fact
+when a graph is initially shown the logically invisible elements have to be removed explicitly from the yfiles graph
+deep merge a json object and the defaults array
+tells the camera to stop drawing preview frames
+creates a text field that can be used to display assembler code
+perform matching on the provided collection or collection items nested properties
+encrypt decrypt a single byte returning the result
+unblock request on buckets
+returns an instance equivalent to this one but with the timestamp set to the specified value
+appends a string to the string representation of this number
+creates a composite widget
+set the accept encoding header to gzip
+reverse how the transition is applied such that the transition previously performed when progress start of range is only performed when progress end of range
+converts a memory relocated address to the same address in the unrelocated module
+generate viewtype by component
+create an md digest
+add various getat and setat methods for primitive arrays
+pull a batch of messages
+drops the next character off the queue
+for multi line records this method combines the current result with the result from previous read s
+determines if the component type is a selectmany or selectone
+converts a string representation of a serialized object back into an object
+generate a simple runtime configuration with specific services
+comments are attributed to the thing the comment and are removed from allcomments
+sets the maximum socket receive buffer in bytes
+commit in a thread
+return true if all task are cancelled
+updates on the view the progress and a message of the task
+sorts the items in the collection and writes it to the data output stream
+execute an sql statement
+visits an annotation of the field
+ensures that the array is consistent by checking various safety conditions
+add a file to this entry s list of update files
+moves the iterator forward to the next entry in the underlying map
+test if all elements of the array are null
+gets a view from the pool and prepares it
+power of a biginteger to an integer certain exponent
+bind the given variable to the key set of the given map value
+method that takes care of restoring a dynamic remove
+hook indicating that a new possibly null value is on the top of the stack
+increase the usage count on an integer value
+initialization of the servlet
+calculate absolute time range based on current timestamp
+check the given long value for the specified condition
+obtain a read lock
+adds the information for an new entry in the revision index
+deserialize this object from the given stream
+check for token and converts it to another
+sets the revision on the request if needed and then performs the delete via the syncreferencedobjectdeletehandler
+compares two stun attributes
+decrement a java
+restore the list of dynamic actions and replay them
+set the content length request header to the given value
+wraps a stream with a buffer and save it a soft reference local cache
+only accept article pages and if includediscussions true talk pages
+assert the value passes the constraints for swf fields like name version domain tasklist identifiers
+add some text to the page
+returns a new object with cropped image data
+confirm that significance testing doesn t alter the average that would be returned
+implements a heartbeat call
+creates the children of the node
+returns true if this is a robotbase wrapper class
+start a full reconciliation run
+set the maximum number of connections client will open
+visits an annotation of a parameter this method
+estimate a model for testing
+determine if a charsequence can be parsed as a double
+utility method to generate a non fragment event from a statement
+add the given event for current object
+move the result set forward maxsteps if possible
+visible due to jvm requirements only
+return whether or not given instruction is an assertion
+returns up to maxmessages message values from the topic
+indicates whether the stream contains the specified bom
+translates a complete function to reil code
+delete an existing entity
+the doget method of the servlet
+compares the two objects handling nulls gracefully and performing numeric type coercion if required
+sets an event listener that uses method name as an adapter
+collects all interfaces of a class node including those defined by the super class
+if there are elements in the buffer left then return true
+compares two stun attributes
+sets or removes a breakpoint from a function node
+a method to check if a user exists
+generate and write to the log a new event
+turns on buffer chopping for index overlay
+updates the save button depending on the input state
+formats the given sql statement into an ansi compatible form
+write property database to given file
+is this object contained in the sl
+reads the data available in receive buffer
+finds the position of the given token in the given string
+test if the given string starts with the specified prefix ignoring upper lower case
+set queues an action to call the specified function
+asks the menu bar to update itself
+creates an entry in the audit log
+find the right hand regex within the left hand string and return a matcher
+destruction of the servlet
+triggered when a consolidation for a specific distributed transaction participant is failed due to timeout or too much backlog accumulation while waiting for other participant parts
+coerces a double array to a boolean value
+indicate one or more accounts will be needed later on
+converts an array of file extensions to suffixes for use with iofilefilters
+gets the cmap id for this cmap
+parses a project id from a request body and returns the project
+convenience method to open a standard information dialog
+return the next element to be returned by next without consuming it
+this method checks if value has format of system property
+visits a field of the class
+removes a single node from the criterium tree
+register receiver to receiver intent from mqttservice
+wait until seqno is greater than or equal to the desired value or we exceed the timeout
+returns a servicetype descriptor for a class
+forwarder function to delete a global code node comment
+writes the contents of the page to the specified disk block
+save data back to model
+provide a more detailed table definition showing columns as well as keys than is provided by tostring
+returns a copy of a string in which all eols are n
+determines whether this instance represents a stun success response
+registers a new mbean with the platform s mbean server after which this mbean will be visible in jmx
+creates an audit filter on a particular event type
+draws a cursor on the panel whenever the mouse is hovering over the panel
+remove a page s record from the cache
+determine whether there is a x transform
+checks whether internet connection is available or not
+initializes the local comment of an edge
+disables the breakpoint if it is enabled
+find a bom with the specified bytes
+return a new array containing all but the given element
+releases a data source
+checks if a list of string contains a string while ignoring case
+creates a decodingexception object
+asserts that the given code closure fails when it is evaluated and that a particular exception is thrown
+checks the passed file attributes against those cached ones
+compiles the compilation unit from sources
+returns the number of bytes available in the current log file
+appends a string representation of this object to the buffer
+converts a sitmap into a human readable string
+get the hex value of a character base
+list field should always assigned new list with one elment l
+reinitializes the members after changing the contents of storage
+for internal use only
+clear touched state and return previous touch state
+logs that the consumer is sleeping
+function to check if a register is in the current taint set
+blocks concurrent calls to space while clean is being performed
+checks whether the message can be passed to the lsitener
+unlinks the non null last element
+since the crash that happens if we dont do this is complete garbage
+scroll the specified line into the middle third of the view
+gets the end column number of this location
+prove that we can get the current values of all dynamic parameters
+loads account saved in preferences
+disable brief fade in of images loaded from the disk cache or network
+add an event to the cache clearing space if necessary
+whether the url represents a memory db
+main method for the job
+convert long array to long array
+sets default access control list for new system streams
+generates a dup x instruction
+removes set basic auth credentials
+writes some int standard operations for compares
+returns the predicate that describes which records should be modified
+add a task to be performed when graceful shutdown is requested
+remove an element described by objectinfo
+evaluates a single predicate
+find a lease entry or null
+support the range subscript operator for stringbuilder
+create interpolator from type
+methods to perform the interceptor
+reads the contents of a disk block into a byte buffer
+atomically removes all of the elements from this deque
+determines whether an undo operation is possible
+add key value pair to map both key and value need not null or empty
+a convenience routine to create a standalone sourceunit on a string with defaults for almost everything that is configurable
+check whether the interface extends itself
+starts the jxm server
+decrements the count of in flight transactions to the resource being monitored
+convenience method for parsing the named attribute as a css length value
+marks the part dirty and hooks the validation method of the page
+returns a string representation of this object
+return whether or not there are any resources in the collection
+returns an enumeration of the keys in this table
+writes the current page to the log file
+sends the no argument fcd command
+neprefixoptoken and prefixoptoken differ because the first includes
+returns the next revision
+extract dynamicsmartstub instance from desired dynamic proxy
+sets all workers free and idle and marks this job manager for removal
+stops and deletes the specified access point
+dump all problems in another instance of problems into this one
+for debugging check a buginstance to make sure it is valid
+creates a less equals predicate using the specified expected value
+broadcasts the call event to the registered listener
+a variant of collectentries using the identity closure as the transform
+performs a test where no responces are given the stun client so that it concludes it is behind a open internet
+erases all elements in the list and re initializes it
+allocate a new basic block in the subroutine
+returns an enumeration of the values in this table
+the dopost method of the servlet
+invoked when the user clicks on a table cell
+get approximate running average time delta in nanoseconds
+update the dim as a function of the scale of this view
+loads the modules that belong to the target
+method runs cyclic notification about time progress for tcp logic class it runs in a separate thread
+sample test for reachability
+create an entitymanagerfactory instance for the named persistence unit for accessing a local in memory derby test database instance
+whether stdin stdout stderr streams are saved
+add key value pair to map both key and value need not null or empty
+removes leading and trailing empty lines
+checks if the metamethod is a method from the groovyobject interface such as setproperty getproperty and invokemethod
+removes a listener object from the panel
+get the number of fwords in the data
+create a file selector dialog windows
+returns a flag that indicates whether the address space is loaded
+ensures that the files are indented using spaces
+return true if this value is a variable
+add locators for specific new lookup services to join
+initialization of the servlet
+creates a new text widget
+parses the http response text from a request into sdc records
+removes the mapping for the specified key from this map if present
+starts the harvesting timer
+loads a text file utf encoding
+save mqtt broker port number
+show the overall findbugs command synopsis
+returns the sum of the sizes of the entries in this cache
+parses a list of files
+receive data as local peer
+this object which is already a string
+polling with timeout utility function accept a boolean supplier that throws exception
+returns the index of the given bit in the byte where it it stored
+removes all mappings from this map
+builds the content of the node depending on the node type
+sets a custom attribute
+parses a group id from a request body and returns the group
+creates a new log connection
+register all of the analysis engines defined in the plugins contained in a detectorfactorycollection with an ianalysiscache
+the subscription to pull from
+computes equation see references
+check that the current access control context has all of the permissions necessary to load classes from this loader
+swings rotates on the y axis the given model parts in a chain like manner
+call the closure once for each row in the result set
+broadcasts the samples to all registered listeners
+increment the counter by one event
+add two numbers in split form
+paints the border of a check box
+get the next value
+is tinting enabled for the system status bar
+creates an xor predicate wrapping the specified predicates
+rewrite a method signature
+present a
+gets the id range offset for a segment
+potential upside the reciprocal of var at a given percentile
+shows a question the user can answer with yes no
+transition between the old state and the new given state
+base encode a byte array using org
+renames the world at the provided path to the proper vanilla naming for nether and the end if needed
+prints the error by code and reports the exception message
+if nm is the i th element of names then return i
+write the text to the file
+propagate the closed spinner event to the listener from outside
+returns the name of the file where the block lives
+indicate whether any of the group names in the given array match any of the groups of interest
+confirm that we can write and then read back a log rotation event
+determines whether the two input operands of an instruction are a literal first operand and a register second operand
+set up the channel table
+factory method to create a function prototype type member
+check if this frame has payload
+indicates if this thread is running
+create new canvas or reuse already created
+checks that this resource hasn t been held longer than the specified timeout limit
+get an iterator over signatures of the method parameters
+verify that a size cache always accepts values and always returns null
+removes the child at the specified index from the display list
+it is of a biginteger category if the provided type is a long category or a biginteger
+convert tag value to a long bit
+refills the input buffer
+make the given filename absolute relative to the current working directory
+acquires a partial wake lock for this client
+use other thread pool
+creates a lineending from an eol
+push given output values onto the current frame
+initializes the file and log managers
+start a post request to the given url along with the query params
+start task thread s that implement this stage
+converts given object to igsentry
+replaces a query string with tokens of format token name with the specified replacement string for all tokens
+read a fixed width bit integer in network byte order big endian
+reveal the searchbox from a menu item
+returns the string position to which the line mapping defined by mappingpair vec maps the column col
+work queue not a root level object thus we need to build a map from monitoredstream for later quick lookup
+return true if it is certain that expected attributes don t occur during starttime and endtime else return false
+releases interest in the in flight request and cancels it if no one else is listening
+stop the c based listener
+helper method to read array of strings out of the properties file using a findbugs style format
+check whether the given exception is compatible with the exceptions declared in a throws clause
+updates the gui depending on the input state
+suspends encoding of the stream
+helper method to run asynchronous work
+adds an instruction to this internal result without any delta for the address
+encodes outgoing multicast requests based on protocol in use applying configured security constraints if any
+copies the contents of the list into a native array
+parameters related to language definition
+called when the captured view s position changes as the result of a drag or settle
+update the font in the default style of the document
+logs a thrown exception
+reads an sdp description from the standard input
+removes the specified attribute
+removes a server transaction from this provider s server transactions list
+add a file to the project
+paints the background of the header of a table
+determine whether or not the given instruction is a control flow merge
+adds a code bookmark
+prove that we can cancel all watches by canceling the eventwatcher
+parse a json data structure from content from a byte array
+this method automatically closes a previous element if not already closed
+policy from samplestream name cpu and value
+resets the toolio and deletes the messages the mode and user directory are not changed
+set connect timeout on connection to given value
+connect to a database
+initialize the configuration
+mysql supports session variables
+fallback for null null
+return a path for an arrow pointing to the right
+returns the outdegree of the node
+returns reggie s attributes unmarshalled from a null terminated list of marshalledinstances read from the given stream logging but tolerating unmarshalling failures
+centers an edge label on the screen
+executes a search operation
+filter a single event built up from seqno schema and a query
+get the status code of the response
+adds two arrays together returning the result in input
+calculates the inphase component of multiplying two complex numbers a and b
+adds another imagecontainer to the list of those interested in the results of the request
+adds the specified port to the list for required ports to scan for
+lazy initialization of the map
+finalizes the query in the currently used buffer and creates a new one
+connects an image asset taking into account if an old image asset exists
+acknowledge a batch of received messages
+reads the bytecode of a class
+process the standard single script with args
+throws an exception if value is null
+loads a single plugin
+writedata output this modbus message to dout
+adds the given value to the list of headers for the given key
+performs in order traversal from a given node in a particular direction until a node matching the specified filter is reached
+set the end cap style
+function import implementation for updating salesorderheader
+searches through an edge
+marks a client for removal
+write crash info to file
+param instance array to the type array
+paints the border of the thumb of a slider
+clears shiro s thread state ensuring the thread remains clean for future test execution
+opens the incremental update log file in read write mode
+returns whether this view should be clipped or any views below should clip against this view
+ensures that a range given by an offset and a length fits an array of given length
+called from expandometaclasscreationhandle in the registry if it exists to set up inheritance handling
+looking resource from path which might be absolute path and workspace relative path
+returns the error estimate on the npv when available
+add an explicit exception
+return the tests included in this test suite
+display the trace of the current thread
+add by ivan galkin
+add exception edges for given instruction
+release this object s write lock
+rounds the x and y values of the given vector down to the nearest integer value
+determines whether there is already a graph panel open inside the window that displays a given view
+initialization of the servlet
+connect to the server socket
+get the number of glyphs that this builder has support for
+creates a trie object for a simpledictionary with all words reversed
+converts internal module data to api module data
+determines whether the node is visible or not
+finds view engine for a viewable
+static method to construct a new bitsetbuffer preloaded with the bits from the preload parameter and then filled with the bits from the second bitsetbuffer parameter
+determines if the channelno is in valid range
+move the animation frame counter forward
+whether the notification with id exists
+ensures the truth of an expression involving one or more parameters to the calling method
+shows a trace options dialog
+parses the given script and returns it ready to be run
+when device is range directly connect
+get the whole number that is the nearest to x or the even one if x is exactly half way between two integers
+finds files within a given directory and optionally its subdirectories
+returns the keys of the map
+add a lsenvironment key value pair to the mlsenvironments hashtable
+starts emiting particles from a specific view
+cancel the adding or editing of a review
+adds a statement to the object initializer
+initialize the contents of the frame
+appends a list of domcontent objects to the end of this element
+remove an element described by objectinfo while the sl is unlocked
+read a line from the given stream
+remove element from history
+must call init first
+test if all elements of the array are null
+returns this json value as string assuming that this value represents a json string
+performs a test where no responces are given the stun client so that it concludes it is behind a udp symmetric firewall
+reads a single byte
+verifies the name do we really need this
+returns false if image is in initial unzoomed state
+release of this slholder resource
+is the parent window laid out left to right
+synchronizes the internal list of known users with the list of known users in the database
+returns the current replicator status as a set of name value pairs
+creates a new state object after the background has been clicked with the left mouse button
+stores the binary data of a module to the database
+determine multi finger focal point a
+selects all nodes of a graph that match a given criterium
+validate and change chosen consistency check method if needed
+returns the map of field name to offset of a specified schema
+tells whether a given type is a void
+return the chunk structure encoded by this chunkstring
+unblock request on buckets
+find the most recent run of the specified stage before this one
+checks if the input string contains prefixes from white list
+add a public class to the types of this compilation unit
+after deleting a module this function removes the module from all address spaces
+parses an attribute value from a list of rules returning null if there is no match for the given key
+sets a watch for a source timestamp to be extracted
+verify that the currently focused element exists
+remove a plotter from the graph
+converts the specified point d in the jxmapviewer s local coordinate space to a geoposition on the map
+remove a specific listener from a specific class listener
+converts a given value to a json value
+confirm that significance testing doesn t alter the average that would be returned
+set default image for image request
+determines whether a given revision contains a given template name
+helper method to unsubscribe from subscription
+test that node manager survives through all allowed transitions
+a copy of the resource file name kept for error messages
+commits and finishes a formerly started transaction
+testing that in case of multiple rename definitions the following order of preference is maintained br
+this method unconditionally emits a message to the logging system but does not throw any exception
+creates an event from a query
+enables all breakpoints that are part of a given view
+returns if there are comments in the input that we have not looked at yet
+return an iterator over the detectorfactory objects for all registered detectors
+set the authorization header to given value
+compares this object with obj
+returns a string that represents the character sequence in the array specified
+pop a single float value off the stack
+unfold the layout without animations
+builds the function line of a code node
+test the getunsignedbyte method
+print a message to stdout with trailing new line character
+initialize the dagger module
+sets roles and users permitted to read stream metadata
+checks whether the arguments are null and throws an exception if they are null
+registers a literal id with this manager and determines whether the same id has been seen before
+is the parent window iconifiable
+print every value on a separate line
+event coming back from an issued blocktask useful in recursive tasks or similar
+will be called whenever a message is about to be written
+adds a list of spans which should be managed
+convert dp to pixel
+read a byte array formed utf string
+the doget method of the servlet
+write the debugger event settings to the per module storage
+prints to standard error the string v
+checks if the specified modifier is set
+creates and returns a new push button with the given label and or image
+checks to see if the exception set is a singleton set containing just the named exception
+return a consistent clone of this position
+invoked when a component gains the keyboard focus
+decrements the counter by
+sign the user into the application
+reset the progress spinner to default rotation start and end angles
+reads all available rows from the given cursor and returns a list of new imageto objects
+update the job update time updatetime
+walk package tree for collecting wrapper classes
+attach notificationlistener that can be used to listen notifications emitted by mbean server
+tells whether a given type is a boolean
+parse the command line
+used to support operations on addresses in python scripts
+obtain the bytes that define the given class by looking for the
+get relaxed reporting mode
+returns the offset of a certain year
+returns the number of all pages that contain a template the name of which starts with any of the the given strings
+on close remove given web socket session from the mapping
+fire the given property change event
+return index for hash code h
+reads a signed bit integer byte swapping if necessary
+sends the body to the specified outputstream
+create byte array output stream
+returns either http or https
+verifies that the class is not a primitive or array class and either isn t final or is assignable to principal
+validate and load security properties
+searches for the view that contain the offset entered by the user
+convert dp to px
+add a store of given field at given instruction
+confirm that seeking a non existent log file results in an exception
+adds a component entry
+moves a file or directory to the destination directory
+returns the given charset or the default charset if the given charset is null
+generates the instruction to load an element from an array
+checks if this node has a child with a given key
+combines the values of the promises into a promise of type r by applying the specified function
+append a global code node comment
+compute the minimum of two values
+returns the escapeattributes property value
+copies the given source array into the required column number of the destination
+returns the largest power of two divisor for use in downscaling a bitmap that will not result in the scaling past the desired dimensions
+reads a signed int value in the given byte array
+create the space type descriptor using the gathered information
+add a resource to cache
+convenience method that adds new sub tasks to this class task queue
+writes data into the buffer
+the doget method of the servlet
+prove that we can implement a simple watch for string events
+redoes configuration on the vmrr process
+utility method for converting paths to fully qualified class names
+raise a biginteger to a biginteger power
+creates a directory and any subdirectories
+initializes the layout for custom view
+adds the specified index to the type s index set
+creates the input type chooser
+add all jars under lib optional security
+default faulttolerance to hystrixcommand
+add a segment with a map
+calculates the necessary number of rows as described in annex q of iso iec e
+specify the time unit and interval for the trigger to be produced
+same as main args except that exceptions are thrown out instead of causing the vm to exit
+check the given float value for the specified condition
+cancels the given event lease
+determines whether the given offset points to an existing member in the given type or points outside of the type
+given json api paging params generate page and pagesize values from query params
+returns the risk neutral dynamics of the state variable
+adds an object that is notified about changes in the instruction
+create the gradient to paint the frame interior
+adds a sequence of data to the set each with its weight
+recycles the given nodes
+this is an optional operation by default not supported
+enlarge this byte vector so that it can receive n more bytes
+throws an exception if the current token is not an identifier
+call this when an operation is performed to add it to the undo stack
+returns true if both arguments are equal or within the range of allowed error inclusive
+smooth scroll to position using the specific duration
+write the pkginfo file into the application bundle
+show the controller on screen
+notifies that a the resource was created
+return a statement that will create the schema null if no create schema can be given
+reset the fields in this class but not the parent to their default values
+factory method for resolved classvertex objects
+reads the values of an annotation and makes the given visitor visit them
+unbinds the given viewholder
+modifies the renaming object rename to indicate that the current name of node is name
+creates a sqlconsumerexception object
+creates a new tracevisitor instance
+re centers the map to have the current address location be at the center of the map accounting for the map s width and height
+combine the past and source values into a joint vector
+prints the text constructed by this visitor
+compare two byte arrays
+sets the job name
+the method is is used to test for equal references
+puts the discoverer into an operational state
+parse the user s selected project name xml element
+compares two stun attributes
+perform special handling of ilrmiproxy method
+allows arrays to behave similar to collections
+closes the camera driver if still in use
+reads a signed int value in the given byte array
+performs unicast discovery over given socket based on protocol in use applying configured security constraints if any
+the doget method of the servlet
+same as string
+set bounds for the right textview including clip padding
+determine whether there are separate scales on x and y
+whether or not this packet is a mysql eof packet
+handle end of file
+transform a field or method parameter signature to allow it to be compared even if it is moved to another package
+puts an event in the queue blocking if it is full
+discards the resource after becoming dead from the retired state
+deletes a local code node comment from the list of local code node comments associated to this code node
+must be called before peer objects are created
+paints the border of a desktop icon
+if strarray i equals str then return i for the smallest such i otherwise return
+detatches the bitmap container from the request and cancels the request if no one is left listening
+if changes happen call rtedittextlistener
+check a public key
+return a value representing the concatenation of the given target with the given args
+convenience method to determine if the current jvm is at least java
+returns the definition of the new view
+loads module data from a file
+adds a marker to this log with the specified name
+remove a node for the node tree
+verifies the validity of the operand trees
+one way test reading a file and writing to the same format but comparing against a reference file instead of the original file
+fade in the gridview or show the empty card if there weren t any results
+takes the cross product of two vectors
+determines whether the edge is visible or not
+return a statement that will create the table structure null if no create table can be given
+unit test for full getpropertygroup method
+selects all nodes of a graph that are tagged with a given tag or any of its children
+get a property from a named dictionary in the resources of this content stream
+attempt to parse link title sans quotes returning the string or null if no match
+populate list of levels
+tests stepping backwards through a reversed range with a closure
+get a response header
+compiles a series of files from file names
+returns true if key is unique i
+display the program help and exits
+overloads the left shift operator to provide an append mechanism to add things to the output stream of a socket
+abort following a fatal error
+fetching movies directed by a specific director
+return whether or not the given instruction is a load
+call this method when the user drags the mouse out of the web view after calling dragtargetdragenter
+adds edge to the string passthru graph
+retrieves the string representation of an integer value from the result set
+creates a buffered reader for this url
+generates a dup instruction
+determines whether the state of this builder has changed either the data or the internal model representing the data
+duplicates the given log file across all usb mass storage devices
+returns true if this log is writable
+the dopost method of the servlet
+reads a variable length unsigned leb value
+returns the object as a byte array including header padding and all fields
+manually tell us if the service is running or not
+checks if the read committed bit was set for this modifier
+remove the specified uri image cache
+return a list of required repo updates
+convenience method for generating a method signature in human readable form
+append mode info
+put the service under the given attribute value for the given defining class and field if it isn t already there
+convenience method to return a collection as a csv string
+formats the json content and print it
+perform an action on a descendant view
+adds a listener object that is notified about changes in the panel
+get charset parameter from content type response header
+when we are un filtering this method will set up the transform that we are animating to in order to hide the task
+returns a string created from the proxy class name the registrar s service id and the result of the underlying proxy s tostring method
+returns the request line first line of a request
+formats time in milliseconds to hh mm ss string format
+serialize the tungstenproperties into a json string
+computes the number of removes that need to happen before the next auto compaction will occur
+creates a xor instruction
+will make all sections of the text in a textview which have around them medium font
+creates a button for the given action
+fill the given buffer with random bytes
+remove a job by id
+return the tests included in this test suite
+check that loading authenticationinfo also succeeds with empty protocol property
+return the tests included in this test suite
+create a successful authentication with a resource
+initialization of the servlet
+generates a mask which starts at the lsb parameter and is width wide
+renders the screen at each refresh
+converts a native address to a reil address by multiplying the native address by x
+serializes the argument into an array of bytes and returns it
+constructs the target name and transient field data for the specified principal sets
+factory method to create a saxparser configured to validate according to a particular schema language and an url pointing to the schema to validate against
+return true if the array is null or empty
+delete a user from the password file
+add a new empty interpreter line with the corresponding prompt
+tests reading with an offset for destination buffer
+create a timeofday from the given date at the zero second in the system default timezone
+generates a dup x instruction
+checks that the glyph id is within the correct range
+builds a new json object representing the defined requirements
+starts the scanning process
+this method translates current image
+serialize an object to a bytearray
+tests getting the to value
+a gstring variant of the equivalent charsequence method
+given a bonecp pooled connection extracts the enclosed real connection
+removes a user from user management and deletes him from the database
+returns the connectorusessl value
+called when a worker comes within accessing range of the block
+claims the usb interface
+return a list of seqno file paths or an empty list of none exist
+get whether to set the class load context of spawned threads to that of the initializing thread
+viewtype will be classified into hashmap integer arraylist integer mviewtypes
+determines whether or not we should continue making additional http requests in the current produce call or whether to return the current batch
+write part of a multipart request to the request body
+add observations for the given var var cond tuples of the variables to our estimates of the pdfs
+clears the spectral display
+check if the specified field is a partition tag field
+dereference an injectable object
+handler for all instructions which pop values from the stack and store them in a local variable
+enables all breakpoints of a given breakpoint manager that belong to a given view
+set whether or not the underlying connection should follow redirects in the response
+converts an api operand tree node to an internal operand tree node
+removes
+rounds the x y and z values of the given vector up to the nearest integer value
+prints the list of fields in a simple human readable format
+compute the mi from the observations we were given
+extracts a raw event and wraps it in a repldbms complete with sequence number which increments each time we process the last fragment
+creates a new modifiers instance which excludes the specified modifiers from this instance
+sends a message on the socket
+returns the number of all pages that contain a template the name of which equals the given string
+used to check whether there is a specialized handler for a given intent
+creates the sub components of the panel
+in sql jdbc column indexing starts form
+parse a json data structure from content at a given url
+checks that current node is first controlling optional set and get
+return true if we can save iterator creation and get a single entry
+adds an object that is notified about changes in the debugger template
+checks whether the given resource is a java source file
+closes the window and frees allocated resources
+visits a non standard attribute of this method
+draws a vertical line at the xaxis
+renames the given spec to the given name
+event subscriber notified by countermanager
+remove the delimiter but keep the corresponding node as text
+indicates the beginning of the name of an object member in the json input
+pops a closure expression from the closure expression stack
+creates a new output file and writes the header information
+reconstructs the priority value from the given byte array and stores it in the long variable
+uses the internal compiler reference to build a facelet given the passed url
+return the tests included in this test suite
+convert iso format strings to date
+checks if classfile was compiled for pre
+find the line number information for instruction whose handle is given
+shows the reil instruction dialog
+evaluates some script against the current binding and returns the result
+removes a listener from the set listening to this animation
+call to disable the global use of expandometaclass
+builder for specific field expressions
+visits a non standard attribute of the field
+outputs double to a file
+joins all running threads
+functions identically to android
+compare the two files using delegate comparators
+merge given templates into one template
+this quotes a character with a backslash but doesn t do it if the character is already preceded by a backslash
+performs error detection and single bit error correction against the data blocks of a pdu message
+captures pod block from current position
+confirm that a next call on a non existent seqno blocks if the call is blocking and returns null if it is non blocking
+puts the message body in read only mode and repositions the stream of bytes to the beginning
+checks if is upper case
+this will launch the android market looking for busybox
+creates bz archive file from file in path
+get all symbols in an open file
+adds an url to the classpath of this classloader
+visits a signature corresponding to a primitive type
+parses identifier can be string content or identifier
+obtain the value of the specified boolean parameter
+the doget method of the servlet
+create a new change that reverts the delta caused by this change
+returns a truth subject that provides fluent methods for assertions on this instance
+call back to release a table metadata instance that is dropped from the cache
+element by element right division in place a a
+works out the maximum value in the matrix in a given column
+checks if is user logged in
+stops all threads and releases all resources
+return a new state for continuing the overall pattern match in a successor basic block
+discretizes using even bin sizes
+calls throwconfigurationexception with a default nosuchentryexception
+asserts that creating a directory from the specified file worked
+stops the scroller and any current fling
+interprets a stm instruction
+returns the number of elements in this queue
+adds a listener that is notified about changes in the simulated memory
+get the table version
+true if this jvm is running on mac os x
+checks if current node is a last node or last block tag in the current parent
+put contents into a file or commit message in a change edit
+destruction of the servlet
+computing real time download speed
+creates a new str instruction
+compares two stun attributes
+confirm that read only log preparation fails if the log does not exist
+initializes the global comment of an edge
+multiply a matrix by a scalar in place a s a
+verifies that the array is non null the elements are all non null and there are no duplicates
+marks the end of the visited method
+reads a unsigned short bit from an inputstream
+convert a timestampe to a date string
+serializes an object into a byte buffer
+create a data input stream for this file
+adds two matrices together
+read control header info
+initialize view left padding
+according to cookie verification
+convert the version to string format for use in printing to the console or other implementations
+check for equality that can be applied to each kind of node to not repeat it in every method we store that here
+removes a listener object from the debugger synchronizer
+seek article in file
+examine basic blocks for null checks and potentially redundant null comparisons
+returns a pem string representation of a object
+future a
+returns a reference to the type of an exception in a throws clause of a method
+establish a scan position
+converts an internal tag tree into an api tag tree
+indicates if the id matches the internal regex pattern for this wildcard alias id
+the power of which when multiplied by the mantissa yields the original number e
+pushes a new type onto the output frame stack
+resets the current node with the root node
+takes a list of results in json value wrapped form and calls the handleresource for each on the handler
+sets the amount of time before an operation is considered to have timed out
+create a kafka topic with partition and a replication factor of
+a pooled or sql router jdbc connection wraps the original mysql connection object
+returns whether this log level should be treated like an error or not
+removes a breakpoint from the given address
+append text to the outgoing email body
+serializes a map entry and writes it into specified buffer
+invoke the composed consumer by passing a movie
+create the action map for the system menu
+execute shell command default return result msg
+show the reside menu
+finish query compilation in this thread
+end a fake drag of the pager
+determines if this event is for a change for a single instance or all instances of the class
+return whether or not this class hash has the same hash value as the one given
+notifies that the resource was released
+return the average of the given value for all matches
+threads executing a script should call this method after execution completes in order to unregister the consoleid
+returns a filter that filters files based on a cutoff time
+test of getbuffered method of class bytefifobuffer
+reads a long value from a byte array at a given offset
+protocol safety checks for the server returned message
+confirm that only one writer is permitted per log
+transforms the list of expressions
+decrement a long property with the given delta
+get all parameters from header value in response p this will be all key value pairs after the first that are separated by a
+return an integer array for a comma separated integer list argument or a specification of startindex endindex
+rotate point p around center point c
+finds the first value matching the closure condition
+gets event that was read or which triggered the subscription
+return the tests included in this test suite
+block request on shard
+sets the exact lines for the tool tip
+creates a duplicate object deep clone of the message
+opens the process to the operating system
+creates a new project in the database
+shortcut for property propertyname between low high
+saves the address space name to the database
+instantiate a new csvreader with input from provided reader
+replaces all surrogates characters with
+parsing tr block content till close quote
+will create and initialize a cache for the given number of different types of views
+generate an embedding vector for each time step containing the past k states of the destination
+loads the code nodes of a view
+determines where to position dividers between children
+this method is called by outside scan that want to quit the scan and return the slholder to the factory
+create push up animation for leaving
+return whether or not this is a static field
+generates the instructions to load the given method arguments on the stack
+checks if is requires authentication
+activates the scheduler and queues the notification poller
+marks the node a complete expression
+adds a long to the constant pool of the class being build
+factory method that creates a new instance of transformgesturedetector
+create a new printwriter for this outputstream
+append an object value
+register a post request route
+sets lock on the leaf block for read
+returns a well formed repldbmsevent fragment with a specified shard id
+ensure that at least the given number of bytes are available in the internal buffer
+coerce a groovyresultset to a boolean value
+inserts a proximity edge between two nodes
+small helper function for adding buttons to the toolbar
+adds an event to this request s event log for debugging
+generates the instructions to load all the method arguments on the stack as a single object array
+determines whether the two input operands of an instruction are both registers
+writes a string and a cause into the warning category of the log
+is the analyzed instruction an exit call to system
+compares two stun attributes
+finish any unfinished words
+primitive implementation to decide if the object is a full or a partial
+orders a minion to pathfind towards coordinates
+helper method to write unfragmented transactions to log
+finds a users voice channel based on event and what guild to look in
+reconstitutes contained permissions based on the information in the target name
+unregister a child of a jscrollpane only jlist or jtree supported for now which should show helper tooltips
+a helper method to build scale down animation
+call this to perform a self switch animation
+register a bugcollection
+indicates if the mini map is currently visible
+execute a sync engine action explicitly without going through situation assessment
+adds a new extension object that adds entries to the context menu of code nodes
+determine if a charsequence can be parsed as a float
+registers the listener to receive complex float sample arrays
+updates the state of the context menu depending on the state of the criterium tree
+destruction of the servlet
+delete a text node comment
+apply typeface to single view
+complete a scroll in progress
+frees all allocated resources of the child objects
+adds a sequence of data to the set with default weight
+sets the unlimited number of attempts for discovery
+file a classnotfoundexception with the lookupfailurecallback
+runs the findbugs worker on the given resource
+notifies the container listener about new views
+creates a new ssl settings that enables connection encryption using ssl and trusts all x
+multiply two numbers in split form
+get the singleton object of notificationeffect
+force all namespaces to be declared
+reboot the device to use new bin
+changes the state of the edge depending on the current hitinfo
+formats time in milliseconds to hh mm ss string format
+imports the functions table
+ignore changes that would trigger a rtedittextlistener
+returns whether any tag should match
+called by the writing thread as its first step
+returns an iterator equivalent to this iterator with all duplicated items removed by using the natural ordering of the items
+closes the iterator handling null and ignoring exceptions
+encode the suffix for the entire buffer
+render a compound glyf
+new hashmap and initialcapacity
+returns whether mixed views should be shown
+interrupt all threads and stop processing tasks
+level precedence test text html level is higher than text html level
+clone the d double array for manipulation
+convenience functions to compare against current property values
+creates a new reil view from a list of reil instructions
+this will check a given binary determine if it exists and determine that it has either the permissions or
+parses an iso compliant timestamp into a datetime object
+called when one of the subscribed edges in the parent view has been touched by the user while no child view is currently captured
+is the response code a not found
+called when the user has started a deliberate drag away from one of the subscribed edges in the parent view while no child view is currently captured
+returns true iff the process exited with code
+returns the concatenation of the images of all leaf nodes of the node stn that correspond to actual tokens
+fired when the arrow strikes a block
+the doget method of the servlet
+get the number of elements in the jsonarray included nulls
+returns any additional result returned by the pricing engine
+reads one time values from the camera that are needed by the app
+is overridden in classes which synchronize successful replies
+shortcut for property propertyname or leftpredicate rightpredicate
+enlarge this byte vector so that it can receive n more bytes
+has a byte order marker for utf used by microsoft s notepad and other editors
+set up level data for built in operators using leveldata
+filter the mappings and only return lines matching the prefix passed in
+notifies that a footer item is inserted
+create a simpleschedulebuilder set to repeat forever with an interval of the given number of minutes
+start a keyframe for the current animation
+returns if this script should be cached or not
+calculate automated readability index reading grade
+returns a formatted value
+returns the number of key value mappings in this map
+whether the given year is a leap one
+the dopost method of the servlet
+return true if the value is a type expression and the type uses joined table strategy
+next imm date following the given imm code
+no enum values were defined for this
+adds a listener object that is notified about changes in the managed builders
+get the name as bytes for the given name record
+the number of entries to keep in the space
+load the current version from the branch
+handle any ioexceptions thrown
+utility function to compute the combined past values of x up to and including time step t for a given variable number within x i
+will highlight a single section of a textview between marks
+a helper method to return the string representation of a map with bracket boundaries and
+decode the contents of the inputstream into a buffer
+add a factory for an attribute provider for adding changing html attributes to the rendered tags
+tear down instance variables required by this test case
+read the contents of poolfile into buf
+throws invalidobjectexception since data for this class is required
+return the step kernel for the two data points
+parses the passed string to determine if it s literal or not
+delete a local code node comment
+called after the reading has finished
+adds an object that is notified about changes in the tag
+returns string representation of this request
+write resolver vis map
+test if the given string ends with the specified suffix ignoring upper lower case
+determines all functions that lie on all possible paths between a given start function and a given target function
+loads and initializes opencv library from current application package
+returns true iff format col should return a single line version of the formula
+links two operand tree nodes
+loads either this object or if we re inside a closure then load the top level owner
+pushes a request onto the top of the stack
+returns a non padded binary representation of this message
+execute with given arguments
+save history elements to memento
+returns the fields used to sort the query result
+save the cache to file
+returns true if we know what version toast is or false if we don t
+shuts down after the replication event timestamp meets or exceeds the argument
+set the timezone for the date that will be built by this builder if null system default will be used
+estimates band pass filter length
+hashcode based quick reject
+enable logs printing to console
+commits the pages and saves the config without running validation on the model
+if the transaction is compatible with rfc bytes
+this method to validate whether code is being run in experimental mode or not
+return the namespace name of the element s type
+draws a vertical line and a corresponding frequency label at the bottom
+fetches an updated copy of some specified object from the given resource
+creates the field editors
+to classes from objects
+the doget method of the servlet
+returns true if this instance supports extracting setting bean properties
+gets the contents at the given uri
+logs the failed retrieval of an archive descriptor
+gets the cmap id for the cmap with the given index
+should notify template be triggered on replication event
+reads all available rows from the given cursor and returns a list of new imageto objects
+stops intercepting system
+returns the number of elements in this deque
+create a behavior using the facesbehavior value attribute
+makes this entry a transient entry
+return true if this template should perform in non blocking read
+sets the character to use for escaping a separator or quote
+consumes the named attribute as a boolean expression
+write part of a multipart request to the request body
+checks if is available
+returns whether or not the given date is an imm date
+returns true if text matches a given pattern
+determines whether a given string value is a reil register
+set the hidden bug categories on the specifed projectfiltersettings from an encoded string
+method that given a string returns a movie string movie
+init method for a category page
+append the text at the end of the file without writing a bom using a specified encoding
+updates the cached address instruction map
+a helper method to wrap the sendredirect with unchecked io exceptions
+writes the entire list to a csv file
+consumes an attribute as either a safeuri or a string
+get a servo instance from the registrar
+percentile must be in range extremes excluded
+generates a type dependent instruction
+ensures the truth of an expression involving one or more parameters to the calling method
+removes the channel from the model and broadcasts a channel remove event
+reads gif image from byte array
+executes job using the given filtering progress monitor
+add the form omitted message
+shortcut for path path isnull
+push the current graphics state onto the stack
+pipe one pdu through the supplied filter
+writes a string to a file creating the file if it does not exist using the default encoding for the vm
+used to instruct the type checker that the call is a dynamic method call
+parse a json data structure from content from a char array
+create a resource in the database
+check if user is the identifieduser
+persist token to third party servers
+adjust contentview scroller or list at refresh or loading time
+override this method to enable html in a subclass
+removes a single node from the criterium tree
+adds treestruct as a facet belonging to this treestructure instance
+destruction of the servlet
+asserts that the iterator is valid and of the right size
+stop a currently running bundle
+the doget method of the servlet
+determines the errant bit positions and returns them in an array of integer bit positions
+returns true if recentupdates hash in engine need to be used
+resolve an annotationvalue into a list of annotationvalues representing type qualifier annotations
+extend class globally with category methods
+collect all changed materialrevision objects walking changed pipeline objects recursively instead of including them directly
+creates a copy of this message
+stops destroy the asynchronous process
+establish a scan position
+get the value of position p from s to d
+creates a new jkcontext object
+creates a new vector that is the a x b the cross product is the vector orthogonal to both a and b
+updates the graph type after a new node was added to the graph
+read the data for a glyph from the glyph table and transform it based on the current transform
+invoked before site init is called
+append the vector u to the vector v and return the result
+converts all separators to the unix separator of forward slash
+picks the only installed oauth provider
+write the text and append a newline using the platform s line ending
+creates a scrolled composite
+handles a line from a tailer
+resets the modus to init
+remove an element described by objectinfo
+will broadcast messages and update the peers knowledge of the neighboring peers
+release slholder for this scan
+consume an tag name off the queue word or
+counts how many tabs are open inside the window that show a given view
+sets encoding to use defaults to utf
+adds an object that is notified about changes in the database
+update list of possible audio devices and make new device selection
+when true all children with a weight will be considered having the minimum size of the largest child
+increments the phase of the loop
+is the queue empty
+extend object with category methods
+subtracts a constant value from all items in an array
+returns if the options are conflicting
+after knocking event has occured bring the view back to its original state
+add a single var instruction
+remove a discoverylistener from the listener set
+shuts down database connections from the datasource with the given name if applicable for the underlying provider
+returns the name of the given type including any enclosing types but not the package
+creates a new narclassloader
+standalone routine to compute average local values for a single agent returns the average this method suitable for heterogeneous agents
+compares this map with another map for equality of their stored entries
+test sending ping as a pair of short non full segments with nagling off
+adds a key value string pair to the request
+clamp the value to legal limits
+reads a stack map frame type and stores it at the given index in the given array
+parses the given script and returns it ready to be run
+resamples the designed filter at half of the filter length at evenly spaced intervals of the frequency spectrum from to pi radians
+the handler to call for received messages
+initialization of the servlet
+get the offset to the string data in the name table
+returns a promise that transforms into another promise when the source promise is rejected
+returns the number of elements in this queue
+creates a new builder instance for object type creation
+tear down instance variables required by this test case
+user to create new instances through this factory method
+modifies the state of the registrar by replacing the attributes of the services matching the template with the attributes stored in attributesets
+builds the dynamic key
+creates a setter method with the given body
+ensure that the receiver has no attributes left
+refreshes the data for this fragment
+computes equation see references br
+a lighter weight version of uicomponent s findchild
+resets the counter to the start value
+compute a list of patches to turn text into text
+sends the current list of queued operations to the remote peer
+notification to subclasses that a table was built
+verifies that we can read version
+return a string representation of the position
+sets a watch for a particular sequence number to be safely committed on all channels
+convenience method to split a charsequence with whitespace as delimiter
+get a list of job in range from to with order
+called when a transition between states occurs
+any of the core values above can be augmented by one or more qualifiers defined as transitionflags
+the second element of the pair
+reads the whole text file into a string
+numeric compaction mode see
+iterates through the given file object by object
+a factory method to build the appropriate luminancesource object based on the format of the preview buffers as described by camera
+used to support reverse add operations on addresses in python scripts
+flush underlying stream to writer
+prints a string in to the toolio buffer in a separate line
+called by client when rejecting
+cleans up allocated resources
+called by internal mechanisms do not call yourself
+returns true if we have not heard of this query or if the query has exceeded the slow query limit
+helper method to send runnable into local handler loop
+write the client window state field
+update the checksumadj field in the head table
+updates a merge request
+sets the mapping field to an array version of mapvec which must be a vector of vectors of mappingobjects
+split two texts into a list of strings
+helper method to upgrade both http stages to the jerseyconfigbean
+initialize the attributes for jcropimageview
+test the putstring method
+swipes up on an element until the other element becomes visible
+initialize the model checker
+allows multiple root scopes in the scope forest
+bind one implementation as the item using a unique annotation
+parses imports and components from the source and stores the results
+when possible tries to create files needed by the password manager
+this method is used to make a combo box
+returns the number of events in the specified stream
+process the raw stream
+renames a view back to its original name
+test that normal write operations flush the accumulated bits
+performs an instance check out setting the state to down if it is currently running
+test that reception of message events is only received for accesspoints that we have been registered for
+converts the given raw type substitution to a typesubstitution instance and assigns it to the given operand tree node
+the method checksccs finds strongly connected components and checks the current oos
+determines whether a segment contains a black point
+reads a dword value from a buffered input stream
+removes a trigger from the list of acquired triggers
+open and read all events in the log
+cleans a directory without deleting it
+writes the contents of this cacheheader to the specified outputstream
+determines the height of this view
+returns a new date which is the n th week day of a certain month year
+performs a test where no responces are given the stun client so that it concludes it is behind a port restricted cone
+create the shader draw the wave with current color for a background repeat the bitmap horizontally and clamp colors vertically
+c a b
+copied from com
+helper method to obtain the content encoding from an file
+merges an array of partitions of the same type to one partition of this type
+decide on the action refresh or loadmore
+shows a view in a graph window
+overwrites contents of a certain row
+returns a string representation for a proxy that uses this invocation handler
+generates a mysql url with or without the createdb true option
+loads information about the remote file system from the debug client and shows a remote browsing dialog when the information arrives
+initialization of slack connection and slack channels
+prints the state information if the tlc runs in print diff only mode and the last state is set it will print the diff only
+reconstitutes the component tree from treestructure hierarchy
+after a single step was completed successfully we know the target of the function call and can update our internal structures
+utility function called by animateproperty and animatepropertyby which handles the details of adding a pending animation and posting the request to start the animation
+creates a bindingresponse in a compliant manner assigning the specified values to mandatory headers
+updates the transition progress
+loads a string sequence into the state machine
+tests scrollability within child views of v given a delta of dx
+confirm that significance testing doesn t alter the average that would be returned
+formats the caller s provided message and prepends useful info like calling thread id and method name

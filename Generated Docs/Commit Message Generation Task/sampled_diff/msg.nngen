@@ -1,0 +1,200 @@
+Remove impute . flow from index . list
+make THREADS configurable through environment
+Added Android SDK Platform with API level 16 to Travis build file
+update linux - x86 natives
+Add Eclipse ' s bin / folder to .
+Bumping rest - client .
+Make WAR break later in the deployment process
+Adds smackx - debug to our smacklib to make debugging easier when necessary
+Fix ambiguity due to null - compilation error
+remove PIDFILE at stop time
+Prevent NPE in HardwareRenderer
+Remove unused file .
+LPS - 45009 Fix tests - > Update the jar .
+Renamed test process to make the test run on case sensitive operating systems
+Remove unnecessary code .
+Moved logging configuration to the PC Facade where it belongs .
+Fix travis error
+Fix support compilation .
+Updated API in README
+starting 0 . 5 . 5 - SNAPSHOT
+Added STORM - 820 to Changelog
+changed version in Build . scala
+fixed slf4j - simple dependency
+Bring the children into the project .
+Removed Key Value Server from SVN repository .
+Always invalidate TextView on checkForRelayout
+Fixed p . filter param
+Added entry for " Remote Code Execution - CVE - 2012 - 1823 "
+updated splash
+Add Application class .
+Remove circleci config
+See diff
+prepare for next development iteration
+added OnionKit library import
+Adds more code on dispatching audio level events .
+Add Eclipse files to .
+setting version to 1 . 0 . 69
+Remove a problematic empty update optimization .
+ensure utf8 encoding of javadoc
+Removed DS_Store files
+create docs directory
+Bumping rest - client .
+Prepare version 29 - beta3 .
+Remove auto permission request from setAppIconBadgeNumber
+Adds a synchronization point in order to wait for the Jingle node discovery
+Removed unnecessary @ SuppressWarnings
+Remove unused import in BufferUtils
+adding shim . R to description
+Included haproxy in the index
+Setting default name for multi - project
+do not use the lastest tool on travis
+Fixing GLIBC 2 . 4 problem on Debian system .
+added missing imports
+Revert parts of the .
+Fix broken build
+add notes about JDI
+now removed connect - js submodule
+Remove unused import
+LPS - 67469 LRDOCS - 2841 remove build . gradle since that project is now empty "
+LPS - 27654 - Adding Translation in Web Content in Control Panel on IE8 Breaks
+LPS - 52093 moves icon
+LRQA - 22780 Create component name for Microblogs portlet in testray
+Modify changelog
+make pyunit NOPASS until hadoop namenodes created .
+updating windows 32bit bullet native
+update antlr - maven - plugin to release version 2 . 1
+add new default material images
+Reversing immediately after starting animator ends it
+Upgraded parent declaration in all trunks to use version 1 of parent - central .
+raise version
+Fix build
+LPS - 40766 - Remove alloy - 2 . 0 . 0pr7 . zip
+disposing tree builder
+Move H2OApp into a package
+adding jna for native library access
+Added debug printing content of all incoming packets
+LRQA - 19121 Add missing images
+Log information to determine why the CoreAudio library does not load correctly from the build .
+updated version
+Bump SpongeCommon reference .
+fix dashboard # NO_ISSUE
+Add JVM settings in gradle . properties
+Add STORM - 1245 to changeling
+Adding mavenLocal ( ) for local resolution
+fixed bug where spinner was blank upon first launch into media gallery .
+Update SpongeCommon for ' ChangeBlockEvent . Pre ' interact fix .
+Bump version to 1 . 0 . 0 - beta . 1 .
+Set version of gpg plugin .
+Fix travis compilation
+ignore " bin " directory ( created by Eclipse )
+LPS - 55274 don ' t check this in
+Ignore project configuration files for NetBeans
+Fixed wrong usage .
+remove double setting clear
+Fixed invalid jdk range in pom
+add gitkeep for assets
+Add package . html .
+add README
+refactor find state and scrolling
+Fix travis config , again
+set IDEA JDK from build script
+rolled back to 0 version
+Add docs directory to .
+Remove redundant constructor .
+remove unused logger
+Create README . md
+adding IDE related files to .
+Only run compile / unit tests in Travis
+Updated codelock assets
+upload demo gifs
+Restore missing usage assignment in AudioAttributes
+Removing unused options in webpack config .
+LPS - 56271 ConfigurationImpl clearCache is not resetting loaded _properties
+setting version to 1 . 0 . 124 - SNAPSHOT
+beta version = > 2 . 0 beta 12
+Remove unused import
+adding activiti - cdi to deploy profile in current trunk
+change default markdown rendering to not use hard wrap
+Guarding moved pass CheckRegExp with skipNonTranspilationPasses flag .
+Fix folder name forgotten during migration to h2
+Replace image for layout practice session 4
+update emitter version
+Replace demo7 . gif
+Added tag 0 . 0 . 7 . 4 for changeset f415c01ff925
+Added changes to changelog
+Write checkstyle to stdout .
+annotate return values of IndexableSetContributor . getAdditionalRootsToIndex as @ NotNull
+Add terminal to platform modules .
+prepare release storm - hbase - 0 . 1 . 2
+JAL - 35 Add image notes to non - proprietary licenses
+update location module
+Consider scene uninitialized after destroyScene ( )
+Remove old listwidget preview image .
+prepare for next development iteration
+add eclipse and idea projects to gitignore
+update Alipay and Weixin
+Fixed version .
+fix messagespread route # NO_ISSUE
+revert icon to old one
+Call super . onCreate ( )
+replace Future < T > with T in EJB implementation
+added Esperanto translation for Khmer .
+LPS - 45448 update jar
+updated sign stage
+bump local threads
+gh - 49 Build fix ( sears )
+Added tag 0 . 1 for changeset d04a8ef4ccb0
+Bump version numbers for release of pegasus 1 . 9 . 23
+Adding a ' .
+Add missing README link to Sonatype snapshot repo .
+Why didn ' t I just use a .
+Fix a typo on TvContract .
+Remove the launcher filter from the AndroidManifest as per # 57
+Have the final setVisibility cause a requestLayout .
+Add metrics constant for new settings activity
+Removed Merriweather light variation assets ( since they won ' t be used )
+Always call handleException rather than cb
+Updated binaries
+finished collection / list separation
+Add shell script for zan
+Removed DoubleCheckedLocking from checkstyle . xml .
+fixed git ignore name
+Prevent NPE in HardwareRenderer
+Tweak Android setup screenshot
+force AST Injected property check with staticCheckerVisitor
+Fix typo in JDK apt - get line in install . md
+Removed the .
+Updated gif
+remove empty line on top
+Travis does not support a JDK named ' openjdk8 '
+missing import
+Updating Alloy to 8cb02f9 ; LPS - 23021
+Removes extra padding introduced during merge from develop
+Removes lib / from top level
+Updating Alloy to 8cb02f9 ; LPS - 23021
+tip updated ( IDEA - 78127 )
+Fix null top view crash
+setting version to 1 . 0 . 153
+add uaa classpath to eclipse classpath
+update location module
+Fixing transitive - ness of provided
+Added intellij generated files
+added stub for getting buffer from surface texture
+setting version to 1 . 0 . 114
+Fix build
+don ' t compress jars
+increased text size
+Skip javadoc
+change the default release scope to be patch
+don ' t set RLIMIT on windoze , either .
+Removed new lines
+Changed build tools version to 23 . 0 . 3 , don ' t use rc version
+Remove Yaml and JSP tabs from " Other languages "
+Updated proguard config
+fixing Junit dep scope to test
+Disable cobertura travis portion ( # 3122 )
+add getCount method to BytesInputStream ( @ MysteryMachine )
+Upgrade maven - javadoc - plugin to its latest version 2 . 9 . 1
+add STORM - 2079 to CHANGELOG
+removed extraneous whitespace from pull request

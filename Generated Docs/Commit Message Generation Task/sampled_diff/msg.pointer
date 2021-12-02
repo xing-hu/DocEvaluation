@@ -1,0 +1,200 @@
+added test test to test test
+Add THREADS THREADS build to sirius 4 . 0 .
+update travis
+update linux - x86 natives
+Ignore gitignore
+Bumping commit - client to the version
+<UNK> the <UNK> <UNK> file
+Added httpcore httpcore httpcore 4 . 0 .
+Fix test case
+Added panda2 3 to run - all - examples
+<UNK> the <UNK> <UNK> when <UNK> is <UNK> .
+Delete README .
+LPS - <UNK> update jar
+Move test to the test package
+<UNK> the <UNK> <UNK>
+Move start to the <UNK> directory .
+<UNK> travis
+remove unnecessary library
+add a contributor badge to the README
+starting 0 . 5 . 5 - SNAPSHOT
+Added STORM - 412 to Changelog
+Remove import from Build . scala
+Removed slf4j from the pom
+Add settings . gradle
+Removed svg svg - module
+Fix <UNK> <UNK> bug in TextView view
+Change local SDK to 0 . 3
+added <UNK>
+update <UNK>
+Removed unused application
+Delete moco - core
+added missing today today
+prepare release checkstyle - 7 . 3
+<UNK> proguard to proguard
+<UNK> the <UNK> of the <UNK> activity when the <UNK> is not <UNK> .
+<UNK> the xd iz xd .
+setting version to 1 . 0 . 69 - SNAPSHOT
+Fix <UNK> <UNK>
+Fix typo in build . gradle
+remove unused build
+add logback test
+Bumping commit - client to the version
+Prepare version 29 - beta2 .
+Remove unnecessary line
+<UNK> <UNK> ' s <UNK>
+fixed typo in CompositeRunnerTest CompositeWithClass
+remove unused import
+remove README
+added leveloffset .
+Setting default name for multi - project
+<UNK> SDK SDK SDK SDK Tools SDK Tools SDK Tools
+Rebuilds libcivil . so for Windows OS X .
+Add missing import
+Add missing <UNK> to the plist of the <UNK> script .
+Added ignoreTrivial ignoreTrivial to the contributors
+added jar for <UNK>
+remove connect - js / connect
+Removed unused import
+LPS - <UNK> Remove portal - - build . gradle
+LPS - <UNK> - <UNK> SF should remove a <UNK>
+LPS - <UNK> Move icon
+LRQA - <UNK> Add new testray component
+updated RELEASE - adding months
+<UNK> <UNK> <UNK> test to NOPASS until it <UNK> .
+<UNK> microphone the <UNK> binaries for Windows .
+Changed version number to 2 . 1 - SNAPSHOT
+updated <UNK>
+Fix <UNK> <UNK>
+bumped parent version in 2 - SNAPSHOT to 2
+bump version number
+Fix <UNK> .
+LPS - <UNK> Remove unused alloy
+remove Disposer Disposer Disposer
+<UNK> the <UNK> file
+<UNK> platform platform jar ( IDEADEV - <UNK> ) .
+<UNK> <UNK> . jar ( ) .
+LPS - <UNK> Remove unused images
+<UNK> the <UNK> of the <UNK> encoder .
+updated version
+Bump common ref for <UNK> <UNK> fix .
+Remove unused @ message
+Set default gradle gradle to MaxPermSize MaxPermSize MaxPermSize MaxPermSize
+add STORM - 1254 to CHANGELOG . md
+Add googlecode urls googlecode to build . gradle
+<UNK> the <UNK> of the <UNK> activity when the <UNK> is destroyed
+Bump common ref for <UNK> <UNK> fix .
+Bump version to 1 . 0 . 0 - beta . 2
+bump scala version to 3 . 1 . 0
+Remove redundant 19
+<UNK> the README
+add <UNK>
+Ignore test - output
+<UNK> . <UNK> ( ) if it ' t draw PyDBDaemonThread PyDBDaemonThread
+<UNK> <UNK> params
+Updated FAQ
+Delete unused files
+Added ' progress ' to ' progress '
+Create README . md
+Fix typo in UserManager static .
+add cache to Travis build
+Fix <UNK> <UNK>
+set previousMinor 8 8
+Ignore library files
+Fix <UNK> <UNK>
+Fix log4j log4j log4j log4j
+adding WEB . md to <UNK> . md
+Ignore eclipse files
+DskipITs DskipITs script for now
+Updated <UNK> asset to reflect <UNK> <UNK>
+added <UNK>
+Add <UNK> to AudioAttributes <UNK> <UNK> <UNK>
+add moment - timezone to vendor graylog2 - web - interface
+LPS - <UNK> Fix typo
+setting version to 1 . 0 . 123
+bump to 2 . 0 beta 11
+Fix quality flaw
+Adding process - process module to the deploy
+<UNK> <UNK> . lowLevelConsoleIO ( ) in Process <UNK>
+Fix <UNK> <UNK> .
+SONAR - <UNK> Fix typo
+add image for <UNK>
+update server - metrics to 0 . 2 . 2
+update gif
+<UNK> 0 . 0 . 7
+Add a changelog to the contributors .
+Removed pomPropertiesFile pomPropertiesFile pomPropertiesFile >
+<UNK> <UNK> ( IDEADEV - <UNK> )
+Added vcs - log - graph - graph remote to build . gant
+bump version for hbase - hbase
+JAL - 35 Add image notes to non - proprietary licenses
+update location module
+<UNK> mSceneInitialized protected to protected
+Removed unused <UNK> .
+Changed the version to 1 . 4
+LPS - <UNK> Add locales . enabled to the locales of the <UNK> . enabled
+add <UNK> <UNK>
+<UNK> <UNK> . jar .
+<UNK> <UNK> to be <UNK> <UNK>
+updated icon for the <UNK>
+<UNK> the <UNK> <UNK>
+<UNK> <UNK> ' s <UNK>
+add missing tl
+LPS - <UNK> update jar
+Fix typo in apidoc docs .
+Change server to 100
+Added gh - 46 Fixed to changes
+<UNK> 0 . 0 . 6
+bump pegasus version
+add <UNK> . properties
+updating readme
+Change submodule to git
+<UNK> off <UNK> to 0x00040000 <UNK>
+Updated SampleTitlesWithListener sample to .
+Add missing PROPNAME_PARENT statement
+<UNK> the access of the <UNK> <UNK> when <UNK> access .
+Removed unused Roboto Roboto ttf
+remove unnecessary call
+add jar
+add TODO
+<UNK> . so
+Added tabWidth name to checkstyle . xml
+Rename demo4 . gif to demo4 demo4 .
+Fix <UNK> <UNK> bug .
+<UNK> . native
+Fixed test error
+Fix typo in install . md
+Removed unused libtightdb
+update gif
+Fixes the <UNK> sound .
+Add ant <UNK> to travis config
+Add a note to the import of the import
+Updating Alloy to rev . <UNK>
+remove unnecessary semicolon
+Delete junit jar
+Updating Alloy to rev . <UNK>
+<UNK> <UNK> <UNK>
+Fix <UNK> <UNK>
+setting version to 1 . 0 . 154 - SNAPSHOT
+added setproxy port to the setproxy port
+update location module
+Fixing transitive - ness of provided
+Ignore build /
+<UNK> <UNK> <UNK> <UNK> <UNK>
+setting version to 1 . 0 . 115 - SNAPSHOT
+remove unused code
+<UNK> <UNK> <UNK>
+Fix bug with <UNK> notification appearance .
+Removed javadoc from javadoc . css
+set CHANGELOG . txt to release <UNK>
+fixing test test
+added note to the contributors
+set <UNK>
+<UNK> a <UNK> of the <UNK> of the <UNK>
+added com . yalantis . ucrop * keep
+Added junit scope to the junit of the junit
+fixed test script
+<UNK> <UNK>
+Add detectOfflineLinks detectOfflineLinks plugin to maven - javadoc - plugin
+add STORM - 2081 to CHANGELOG
+<UNK> the <UNK> callback

@@ -1,0 +1,200 @@
+added test to index . list
+make THREADS configurable through environment
+Fixed indentation in .
+update linux - x86 natives
+Removed bin from .
+Bumping module .
+Add an empty WEB - INF / classes dir to the WAR for testing WebappClassLoader . getURLs ( )
+Commit missing lib .
+Fix NPE in the test code
+wait more and push more elements in to flume
+Fix off - by - one issue when removing from Iterator
+removed unneeded file
+LPS - 43575 Copy new jar from shared
+Fix filename
+Fix bug 43236 .
+renamed bin scripts
+update travis . yml
+Remove buildToolsVersion from v7 / palette / build .
+added other implementations
+starting 0 . 5 . 5 - SNAPSHOT
+Added STORM - 412 to changlog
+removed warning
+Removed log4j from comment in pom
+Added empty settings . gradle so that Gradle does not search for it in parent dirs .
+remove svg interpreter
+Fix bug # 5544127 TextView regression in ICS when setting TextSize dynamically
+Fix NSInvalidArgumentException
+Adding 30001 and 30002 entry to list of errors
+Updated splash screen
+Remove allowBackup property from manifest
+removed dependency for slf4j - simple
+Added a link to how JavaFX bindings work .
+prepare release checkstyle - 7 . 3
+enabled proguard
+Fix Yahoo MUC .
+Fix the merge for forge
+setting version to 1 . 0 . 69 - SNAPSHOT
+fix uninitialized variable in DisplayHardware
+Only show public members in Javadoc .
+cleaning up dist
+adding logback - test file ( disable logging in tests )
+Bumping git reference
+Prepare version 29 - beta2 .
+Remove duplicate register call
+Fix a problem with some hardware devices .
+Removed CompositeRunner constructor with just a class
+remove unused import
+Delete line
+Added jmx example to the manual .
+Setting default name for multi - project
+update travis conf
+Fixes a memory corruption in lti - civil on Linux which causes SIP Communicator to dump its core on startup .
+Fix missing Date import in Restore . java
+Fixing Mac installer ( OF - 431 ) Not only for installing , but also upgrading .
+test coverage ignore private constractor
+add notes about JDI
+now removed connect - js submodule
+Removed unused import
+LPS - 67469 LRDOCS - 2841 remove build . gradle since that project is now empty
+LPS - 54278 Fix JS error
+LPS - 54105 moves icon
+LRQA - 16444 Add mentions property to collaboration component in test . properties
+Fix bug when adding months
+Bring back the test from NOPASS .
+Adding 64bit bullet dll
+upgrade the antlr plugin version used 2 . 0 - SNAPSHOT - > 2 . 1 - SNAPSHOT
+update background image to material style
+Fix bug with bad state in animators
+bumped parent version from 2 - SNAPSHOT to 2
+set correct version
+cherry pick " Fix build " a227db53f0cd30214c393b400436d1e0863396ef into master
+Removing alloy 1 . 0a zip
+DomModelTreeView disposing fixed
+Renamed NN sample
+Added jna platform jar .
+Improve debug logging for unknown services comming from yahoo server /
+LPS - 68344 Delete old images
+Fixes an ArrayIndexOutOfBoundsException which causes a conference focus to not send any audio .
+updated version
+Update SpongeCommon for DestructEntityEvent cause fix .
+improve speed of message detail action
+Increase java permgen to 512m for our builds .
+Added STORM - 1254 to Changelog
+add custom elasticsearch repo on google code
+FredrichO / JonathanL - fixed issue with views not recycling on media grid
+Update SpongeCommon for player slot restore fix .
+Bump version to 1 . 0 . 0 - beta . 2 .
+Added explicit version to Scala plugin
+Fixing Travis
+Renamed package
+LPS - 54927 Remove settings
+Added test - output to .
+Fixed debugger process termination in case of daemon threads .
+add filter and scope parameters when creating terms stats facet
+Fix typo
+Keep tmp / cache .
+add external link to test page
+Create README . md
+Migrate UI to supportsMultipleUsers ( ) .
+disable travis cache
+Added nil check to RCTModuleData
+Updated gradle . properties to newest Gradle release version .
+Updated the git ignore file .
+Actually set the autobind flag with the specified value ( # 1038 ) .
+revert log4j change , again
+Adding building web placeholder
+Add more locations to gitignore
+gh - 31 - Removed integration tests from travis
+Integrating new ADB USB debugging asset
+Added Screens
+hide AudioAttributes . usageToString ( ) method
+Include moment - timezone in vendor modules to prevent double loading .
+LPS - 56976 CounterTransactionExecutor does not need the BaseTransactionExecutor , just directly implements TransactionExecutor
+setting version to 1 . 0 . 123
+beta version = > 2 . 0 beta 11
+SONAR - 5329 - Added activity table to DatabaseVersion for cleaning .
+Added process validation module to root pom
+initialize lowLevelConsoleIO member of ProcessOptions during construction
+Enable strict mode assumption for those using ecmascript 5 .
+Update deprecated link
+Replace image for layout practice session 3
+update server metrics
+update vertical_stepview .
+Added tag 0 . 0 . 7 . 3 for changeset 98cb7e78cfaf
+see CHANGELOG . md
+Fixed pom . xml making a ' true ' file .
+IDEA - 95867 please map an " XML Catalog " topic
+Add vcs - log - graph - api to root build modules
+prepare for next development iteration
+JAL - 35 Add image notes to non - proprietary licenses
+update location module
+Allow subclasses to fiddle with mSceneInitialized
+Remove unused image .
+prepare release v1 . 4
+LPS - 34599 Update the DTD , because it ' s documentation for non IDE developers
+Add icon files for neo4j - desktop
+reverting r12099
+allow dots in hostnames ; ) # NO_ISSUES
+Updated app icon
+Restore default favicon when page loads so as to prevent a favicon from the last webpage being used
+add module settings action to dependencies trees
+Added Esperanto translation for Tagalog ( tl = . . . )
+LPS - 44908 Copy new portal - settings libraries
+build apidoc during package , not during install
+bump local threads
+gh - 46 Fixed typo in RedisClient
+Added tag 0 . 0 . 6 for changeset 9361e645790f
+Release new version .
+Add test_metrics .
+missing colon
+Fix git submodule permission
+Fix flag value collision
+Fix incorrect Activity declaration .
+Fix Visibility transitions canceling when nothing has changed .
+Add constant for premium sms screen
+Removed Roboto fonts from assets .
+Fix NPE in volley stream fetcher
+Added jar file
+added some issues
+adding missing library
+LPS - 67352 Set tab width
+Rename demo_4 .
+VolumePreference . onActivityStop only stops playback
+Fix warning . png file
+force AST Injected property check with staticCheckerVisitor
+Add g + + and zlib1g - dev to the set of required packages to install Bazel on Ubuntu .
+delete generated files
+Updated gif
+scrollbar image caused an exception and now is repared .
+update travis build ant target
+missing import
+LPS - 11911 - Add application search input does not get focus in IE ; Updating Alloy to rev . 59820
+fade scroll bars for status fragment
+Removed old junit jar
+Updating Alloy to 98ddb6e
+IDEA - 119515 ( Tip of the day contains null character and unclear screen shot )
+Changed min_adapter_stack to < =
+setting version to 1 . 0 . 154 - SNAPSHOT
+Remove extra line at end of document that was accidentally added
+update location module
+Fixing transitive - ness of provided
+tools shifting sands
+Updated JBQ ' s original SurfaceTexture stubs to make webkit MR1 buildable
+setting version to 1 . 0 . 115 - SNAPSHOT
+Remove unused boolean parameter
+disable groovyc temporarily
+Fix issue with ellipsizing OH in POI UI
+remove custom project site css .
+Remove unneeded version property .
+don ' t set RLIMIT on JRuby .
+Fixed typo .
+update min sdk support to 9 , fix async execute not call doInBackground when api version > 9
+Initial support for I18n ruby find usages support + fixed tests on yaml backend
+Keep uCrop classes in proguard
+fixing Junit dep scope to test
+activating travis test script
+add method GraphTableCell . getRefsToThisCommit ( )
+Fix javadoc plugin errors
+add STORM - 2081 to CHANGELOG
+fixed issue # 199

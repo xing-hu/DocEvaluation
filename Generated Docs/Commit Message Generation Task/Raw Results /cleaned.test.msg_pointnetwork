@@ -1,0 +1,2521 @@
+updated changelog for 2 . 1 . 1 release 
+update changelog for STORM - 513 
+add <UNK> icon 
+LRQA - <UNK> Set test property to test 
+<UNK> joscar <UNK> ( <UNK> ) 
+Fix bug in sample snippet 
+bump engine . io - client - client 
+<UNK> the <UNK> tgz tgz . 
+<UNK> the <UNK> <UNK> to be <UNK> 
+Fix <UNK> <UNK> ( ) to <UNK> . 
+Fixed typo in readme 
+prepare release checkstyle - 7 . 1 . 1 
+Fixed prettyVersion 4 . 0 . 4 
+bump version to 0 . 5 . 0 
+Fixed test data 
+adding <UNK> <UNK> 
+Ignore reference for reference 
+remove unused import 
+Fix typo in migration snippet 
+setting version to 1 . 0 . 133 - SNAPSHOT 
+Remove unneeded file 
+<UNK> <UNK> - INF <UNK> 
+Add a comment 
+LRQA - <UNK> Fix typo in test . properties 
+add applicationLifeCycles skinparam to applicationLifeCycles acra 
+add Protocol - Overview . 
+<UNK> . 
+Fixed test data 
+ignore project directory 
+Add a index file for the <UNK> 
+Added a deny the deny of deny of objects 
+Remove unused <UNK> . 
+Changed the version to 1 . 4 
+bump engine . io - client - client 
+<UNK> <UNK> <UNK> <UNK> 
+Add Sets release version to build . gradle 
+<UNK> SDK SDK SDK SDK Tools SDK Tools SDK Tools 
+remove unnecessary line 
+updated wiki snapshot 
+Updated <UNK> asset to reflect <UNK> <UNK> 
+Fix bug in <UNK> 
+<UNK> the <UNK> jar 
+Add <UNK> . gradle to spring - web - reactive 
+<UNK> should - Owholemodule SWIFT_OPTIMIZATION_LEVEL <UNK> 
+<UNK> <UNK> <UNK> <UNK> 
+add STORM - 816 to CHANGELOG . md 
+update support to latest version 
+<UNK> to 1 . 3 0 . 
+Fix mvn clean clean in jsonschema2pojo - upload - release - release 
+add migration for unregistered_email_contacts ON 
+Fix typo 
+Remove unnecessary 6 
+Added missing height 
+remove <UNK> 
+Add listener to <UNK> 
+Testing build . gradle 
+added OSGI - INF to build . properties 
+setting version to 3 . 0 . 1 - SNAPSHOT 
+update version code 
+add CHANGELOG 
+added <UNK> 
+<UNK> <UNK> in Solo <UNK> ( IDEADEV - <UNK> ) 
+Updated NEWS 
+added a submission submission 
+Bump version to 0 . 4 . 0 - SNAPSHOT 
+add materialtabs apk 
+Added missing file 
+Ignore build / build dir 
+added <UNK> . png 
+update linux - x86 natives 
+<UNK> flyway . 
+Fix typo in DebugLevel <UNK> . 
+Added STORM - 166 to Changelog 
+<UNK> <UNK> ' s patch 
+<UNK> <UNK> <UNK> <UNK> to be <UNK> <UNK> 
+<UNK> <UNK> ' s <UNK> 
+LPS - <UNK> Fix SF 
+Updated version to Dev Build 
+Fix incorrect <UNK> in <UNK> 
+prepare for next development iteration 
+add STORM - 2081 to CHANGELOG 
+update travis 
+<UNK> - <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> on <UNK> 
+<UNK> - <UNK> - Updated <UNK> - core - java - java . jar . 
+Add skipTests skipTests properties to pom . xml 
+Bump version number to 3 . 1 . 1 
+fixed typo in <UNK> 
+Updated changelog for 2 . 14 . 1 
+remove dead code 
+remove unused file 
+add TODO 
+Updated todo 
+Set <UNK> to <UNK> 
+fixing a bug in the example 
+Add travis CI file 
+Bump common ref for <UNK> <UNK> fix . 
+Add reviewboardrc - pegasus to reviewboardrc project 
+Add Travis CI config 
+<UNK> . so 
+Added allowHeavyFilters ( ) method to PythonDebugLanguageConsoleView Python table 
+Update travis tools tools to 23 . 0 . 3 
+<UNK> <UNK> . 
+Updated auto version . 
+add install pointer to install - packages 
+Update gradle tools to 2 . 2 . 0 - alpha3 
+add djinntonic README 
+Added test for <UNK> 
+add STORM - 1872 to CHANGELOG 
+update nexus - nexus - plugin to 0 . 3 
+add jar 
+Bump version to 1 . 8 . 3 
+Fix init test 
+Delete tablet . png 
+add todo 
+update libwebp 
+LPS - <UNK> Create build . gradle 
+MinecraftForge / FML @ c2b919d339e5f63271cfb67a77235c21c5c3b80e Fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+try the build for now 
+fixed <UNK> <UNK> 
+LPS - <UNK> Add missing @ Override 
+update CHANGES 
+Make <UNK> executable 
+remove connect - js / connect 
+Prepare next development version . 
+<UNK> EditDistanceJoiner . jar . 
+added migration for VARCHAR sql 
+Setting default name for multi - project 
+starting 0 . 5 . 5 - SNAPSHOT 
+Fix <UNK> <UNK> . 
+Updated version in README . 
+Smack 4 . 2 . 0 - alpha1 
+Fix typo in Notification Notification . 
+Add missing typeName to CreateTestSuite scripts 
+updated test 
+Updating Alloy to rev . <UNK> 
+<UNK> the <UNK> to be able in the gendoc gendoc Daggregate - <UNK> 
+prepare for release 0 . 2 . 2 
+Remove the note of the CHANGES . 1 . 13 
+Change attach to jar since it ' s <UNK> 
+added test to travis build 
+remove openjdk6 from travis 
+Ignore IntelliJ files 
+added my vote 
+Fix typo in pom 
+Removed cases from pom 
+Removed unused application 
+Removed unused bolts jar 
+LPS - <UNK> Ignore SF for now 
+Fix <UNK> . txt 
+Fixed bug with <UNK> . 
+fixed test data for <UNK> ( PY - <UNK> ) 
+Removed module from pom . xml 
+Add a divider for the <UNK> <UNK> . 
+Fix test data for <UNK> 
+update demo gif 
+Added missing test 
+setting version to 1 . 0 . 62 
+Removed unnecessary 3 . 5 . x from Travis CI 
+<UNK> mac mac for <UNK> 
+<UNK> <UNK> to false <UNK> <UNK> 
+added missing permission 
+Added gitignore 
+Delete aapt / aapt and aapt 
+removed unused import 
+Fix <UNK> <UNK> 
+<UNK> roboguice roboguice - 1 . 1 . 1 
+add STORM - 548 to CHANGELOG . md 
+add STORM - 567 to CHANGELOG . md 
+Added STORM - 414 to Changelog 
+Added httpcore httpcore httpcore 4 . 0 . 
+Add missing @ AndroidIncompatible to LineBufferTest class of the <UNK> 
+make <UNK> obj - - obj obj . 
+Ignore IntelliJ files 
+<UNK> <UNK> ' s <UNK> 
+update gradle - wrapper . 
+Add missing import 
+update gradle - wrapper . jar 
+trying the <UNK> <UNK> 
+remove <UNK> from ServerMain . hpp 
+removed unused jaxen jar 
+Add note to gitignore 
+Updated crash to 0 . 4 . 0 
+<UNK> 0 . 3 for changeset <UNK> 
+Make cql3 - bit - plugin - exec - bit - x - bit - x - bit - bit - bit - bit - bit 
+Fix deploy - run script in oryx - run 
+update sample lib 
+Bump version number 
+Added relative path to the parent pom 
+add <UNK> icon 
+Added isVisible ( ) method to BaseObject3D <UNK> <UNK> 
+Change proguard SDK to 21 
+LPS - <UNK> Move icon 
+Prepare next release v0 . 91 . 1 - SNAPSHOT 
+add words suggested by users 
+Fix typo in yuicompressor yinst . 
+Set default semicolon to <UNK> 
+Add <UNK> operation <UNK> . 
+<UNK> off <UNK> <UNK> 
+Add TERM matrix to travis 
+Added a new contributor to the contributors 
+Prepare version 25 - beta1 . 
+Fix typo in pom . xml 
+remove Cannot line 
+<UNK> <UNK> 
+<UNK> the <UNK> of the <UNK> to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it to be it
+Delete netscape . jar 
+added ndk - build to README 
+Added empty files 
+Add support - support . 
+ignore plugins / plugins from . 
+LPS - <UNK> - Remove duplicate line 
+Add missing @ document annotation 
+<UNK> <UNK> bottom for bottom - bbb - left 
+Set buffer to buffer <UNK> <UNK> 
+Add missing <UNK> to the build . 
+<UNK> smackx - debug debug ( <UNK> ) 
+Set version to version File File 
+Added yarn yarn . version to spark spark pom . xml 
+update samples 
+<UNK> <UNK> <UNK> <UNK> to NOPASS until it <UNK> . 
+add logback test 
+added logo 
+<UNK> <UNK> ' s <UNK> ( ) 
+added <UNK> jar 
+added missing today today 
+Remove obsolete dependency 
+<UNK> <UNK> ( ) 
+LPS - <UNK> update sdk 
+JAL - 35 Add image notes to non - proprietary licenses 
+Fix bug in <UNK> . xml 
+Added jira . codehaus . org / browse - 9 - - - - - - - - - - - - - - - - - - - - - - - 9 to maven - release - plugin 
+ignore blogs - demo 1 . 0 . 1 prep next 
+adding a few line 
+Added gitignore . 
+<UNK> <UNK> . jar ( ) . 
+Ignore eclipse files 
+remove echo echo echo echo 
+add <UNK> 
+Remove debug code . 
+Move test to the correct resource 
+Delete raylib raylib jar 
+added favicon . ico 
+Fix <UNK> <UNK> 
+<UNK> <UNK> ' s <UNK> 
+update spring dependency to provided 
+<UNK> the <UNK> for the <UNK> . 
+set CHANGELOG . txt to release <UNK> 
+Removed import 
+Ignore test - output 
+Bump the version number . 
+Updated jar for Spider 1 . 0 . 0 
+Added STORM - 1191 to Changelog 
+fixed test data 
+Add <UNK> to <UNK> 
+updated WinLauncher64 exe 
+bump version for hbase - hbase 
+Fix typo in <UNK> . 
+Fixed typo in Contributing docs . 
+<UNK> <UNK> 
+Updated <UNK> asset to reflect <UNK> <UNK> 
+remove sdk sdk from droidgap - sdk - mac_86 
+Updating Alloy to rev . <UNK> 
+Prepare version 16 - beta2 . 
+Upgraded maven - dependency - plugin to 2 . 8 
+updated <UNK> 
+update version to 21 . 0 . 2 
+Removed unnecessary user 
+Ignore eclipse files 
+Fix typo in pom 
+Added missing file 
+Added STORM - 1393 to Changelog 
+Rebuilds the JNI JNI . jnilib encoder for Windows OS X . 
+Fix typo in junit . 
+Added STORM - 1206 to Changelog 
+LPS - <UNK> Set the visible of the item 
+<UNK> the <UNK> to NOPASS until it ' s <UNK> 
+Fix test on <UNK> 
+Added license to license 
+Updated readme 
+remove comment 
+Removed unused import . 
+Added formats formats to the contributors 
+Removed unnecessary groupId 
+update <UNK> version 
+add DukeChoice 960x90 DukeChoice - 960x90 - lm - lm - lm 
+added apply plugin to demoofui <UNK> 
+LRQA - <UNK> Add new property 
+Delete unused files 
+updated test for <UNK> 
+Fix typo in minSdkVersion name 
+added cmake . - OFF to install_fbthrift tools script 
+remove unnecessary semicolon 
+Added gh - 50 Switch to changes 
+update minidns - keychain submodule 
+updated runnerw exe 
+Added missing uses - sdk to AndroidManifest . xml 
+add STORM - 1344 to CHANGELOG 
+Add set_java_opt set_java_opt to alluxio - fuse . 
+set ack ack - timeout to minutes minutes 
+LRQA - <UNK> Add new property to testray ' shield ' shield shield shield shield shield property 
+set the memory of the groovy test to 2 . 8 
+Delete keystore 
+adding WEB . md to <UNK> . md 
+removed sonar - cpd - plugin 
+Remove 111 111 off 
+LPS - <UNK> Ignore files 
+Fix typo in README 
+add <UNK> 
+Added gitignore for ignoring files 
+added a framework - specific from SomeClassFactory . 
+Add missing public 
+Add a isScreenOn isScreenOn to LocalPowerManager <UNK> . 
+Removed javadoc from javadoc . css 
+Added a <UNK> check to AQUtility <UNK> . 
+<UNK> <UNK> <UNK> <UNK> to <UNK> 
+<UNK> 2 . 8 . 1 . 1 . 
+add <UNK> 
+Removed unnecessary <UNK> - attachments 
+added Additional components to travis 
+add STORM - 1464 to CHANGELOG . md 
+add <UNK> <UNK> 
+Fix <UNK> <UNK> 
+Add more files to editorconfig <UNK> 
+<UNK> the <UNK> 
+<UNK> <UNK> ' s <UNK> 
+Fix checkstyle 
+Added check to travis for travis 
+LPS - <UNK> - Updated <UNK> <UNK> 
+prepare release storm - hdfs - 0 . 1 . 1 
+Move test to the test package 
+Fix msn <UNK> with msn . 
+Fix <UNK> <UNK> bug . 
+added lib / lib to . 
+Upgraded parent version . 
+fixed typo in <UNK> 
+<UNK> platform platform jar ( IDEADEV - <UNK> ) . 
+Upgrade <UNK> to 3 . 2 . 3 
+ignore files 
+Travis build branches for Travis CI 
+remove openjdk8 
+ignore target 
+Add gen to gitignore 
+Delete 9gag_v1 9gag_v1 9gag_v1 . 
+Removed unused <UNK> . 
+<UNK> the <UNK> of the drawer title . 
+updated README . textile 
+added manual to docs 
+add BCV Icon 
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+add <UNK> 
+add icon for <UNK> 
+Added ignoreTrivial ignoreTrivial to the contributors 
+update CHANGES . txt 
+<UNK> - <UNK> <UNK> - > astrid astrid astrid astrid astrid <UNK> - <UNK> <UNK> 
+Added cobertura <UNK> to the pom 
+<UNK> doesn ' t overwrite disconnect disconnect . 
+Add create method 
+add <UNK> 
+updated wiki snapshot 
+remove extra line 
+<UNK> <UNK> <UNK> <UNK> <UNK> 
+Updated toc textile 
+Testing Travis tests 
+LPS - <UNK> moves icon 
+<UNK> <UNK> <UNK> <UNK> <UNK> 
+LPS - <UNK> Add excludeDirs + classes to the root 
+Remove executable bits from <UNK> 
+add README . md 
+Added testEnums ( ) method in CythonParsingTest python ( PY - <UNK> ) 
+LPS - <UNK> - <UNK> <UNK> links links will have vertical elements 
+Fix typo in <UNK> 
+Added globalScope scope to YUICompressor scope . 
+Added new <UNK> 
+<UNK> . <UNK> should use TEXTURE_2D - <UNK> target 
+Added gh - 46 Fixed to changes 
+Fix bug . 
+Fix log4j log4j log4j log4j 
+<UNK> <UNK> . 
+Added testng - sources to sources 
+<UNK> OSGiBundleInfo jar 
+Fixes the <UNK> sound . 
+<UNK> the <UNK> . png file . 
+Add master to travis build 
+Fix test data 
+<UNK> Diffutils <UNK> 
+Add javax . inject . * . * . 
+ignore ignore files 
+Updating Alloy to rev . <UNK> 
+<UNK> the <UNK> of the <UNK> 
+remove import 
+Ignore DS_Store files 
+LPS - <UNK> - <UNK> - <UNK> <UNK> links will not have a <UNK> 
+add demo2 . gif 
+Added missing @ test to test 
+Set <UNK> to <UNK> 
+LPS - <UNK> prep next , use latest 
+Set CAP_BLOCK_SUSPEND OsConstants . CAP_BLOCK_SUSPEND , ) 
+<UNK> off <UNK> to 0x00040000 <UNK> 
+<UNK> <UNK> ' s <UNK> 
+Added missing test 
+<UNK> application tomcat tomcat to 1 . 2 . 3 
+Ignore derby . log 
+LPS - <UNK> Move icon 
+update applet zip 
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+add beta beta jar 
+Add proguard to <UNK> 
+add release <UNK> to release - docs 
+<UNK> the <UNK> 
+update screenshot 
+add STORM - 1253 to CHANGELOG . md 
+added jar for <UNK> 
+Add xxhdpi icon for xxhdpi 
+Removed gradle . properties . 
+Bumping commit - client to the version 
+Fix elasticsearch <UNK> in elasticsearch . help 
+<UNK> the <UNK> . swf file , <UNK> , <UNK> , <UNK> , <UNK> , <UNK> , <UNK> , <UNK> , <UNK> ,
+LPS - <UNK> prep next , use latest 
+Changed the javadoc to javadoc 
+make EventBus public 
+Fixed test logging in test logging . 
+fixed test 
+Add missing MEDIA_PROJECTION_SERVICE to Context . interface 
+Change travis to oraclejdk8 
+Fixed typo in CheckerTest checkstyle 
+Added STORM - 611 to Changelog 
+<UNK> . LabelField LabelField LabelField LabelField . 
+remove unused import 
+<UNK> a <UNK> of the <UNK> of the <UNK> 
+bump gremlin version 
+update package version 
+fixed <UNK> in css 
+Fix typo in <UNK> 
+<UNK> <UNK> . 
+LPS - <UNK> update xuggle 
+added icon 
+Missing language key 
+Fix <UNK> <UNK> <UNK> 
+Fix <UNK> <UNK> 
+Update travis tools tools 
+Add missing <UNK> <UNK> to <UNK> 
+Prepare next development version . 
+Fix typo in framework plugin 
+Built the latest snapshot 
+Added resource to the graylog2 list 
+Fix bug in <UNK> 
+add hibernate - validator 
+Change target to 18 
+Ignore bin bin files 
+Prepare next release 
+adding words suggested by users 
+<UNK> doesn ' t re <UNK> 
+added SuperFinalize name to checkstyle build 
+Updated sample APK 
+bump pegasus version 
+fixed typo in README 
+added junit junit to the project 
+Fix quality flaw 
+Removed unnecessary code . 
+Fix <UNK> <UNK> 
+add nb - configuration . 
+add changes entry for user - defined 
+Testing Travis tests 
+<UNK> the docs . 
+Fix <UNK> <UNK> 
+Fix <UNK> <UNK> . 
+Removed package from the <UNK> 
+Added missing email 
+<UNK> - <UNK> <UNK> should use master for now 
+Fix typo in <UNK> 
+remove unnecessary call 
+Fix build . gradle 
+Make <UNK> executable 
+<UNK> the <UNK> for the v8a v8a 
+add resolveDeps resolveDeps resolveDeps resolveDeps to bbb - conf 
+Update gradle tools version to 2 . 1 . 0 - alpha4 
+<UNK> 1 . 9 . 0rc1 
+add a newline to the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the end of the
+SONAR - <UNK> Fix regression 
+Removed unused 1 . 8 
+Remove rmarkdown rmarkdown * from install - rmarkdown 
+Add a <UNK> to the <UNK> ' s code 
+Added rmnet_usb0 output to network_interface <UNK> <UNK> <UNK> 
+add <UNK> 
+Remove tez_smb_1 tez_smb_1 . 
+Change the default of the default flag to the 9042 of the <UNK> 
+Add <UNK> to AudioAttributes <UNK> <UNK> <UNK> 
+Set mLastTime mLastTime currentTime currentTime currentTime <UNK> 
+bumped version to 2 . 2 . 0 
+<UNK> <UNK> ( IDEADEV - <UNK> ) 
+Removed unnecessary code 
+add code to groovy - webdriver 
+add missing project project 
+Fix test 
+updated icons 
+Added STORM - 757 to Changelog 
+cat stacktrace to be <UNK> 
+Fix test test 
+Updated FAQ 
+<UNK> a leftfactor leftfactor leftfactor . 
+Added buildViaTravis cache to travis . sh 
+Push version to 12 - beta6 , 221 
+Bumped version number to 0 . 3 
+update CHANGES 
+update xsoup version 
+Set default variable to 0 . 0 ( ) 
+add - v - v travis to travis build 
+added Template as a <UNK> to the list of supported 
+Updated library reference 
+Fix typo in AppModule Application annotation . 
+Added TODO 
+SONAR - <UNK> Fix typo 
+Delete tmuxinator_gl2web . yml 
+prepare for next development iteration 
+Ignore files 
+<UNK> the <UNK> file . 
+updated <UNK> 
+update openssl 
+updated version 
+Bump version to 2 . 0 - BETA 
+Added missing file 
+adding NOTICE file 
+<UNK> <UNK> . jar . 
+<UNK> the xd iz xd . 
+Add new Zou Zou to README . md 
+<UNK> the shutdown shutdown 
+Fix lint for <UNK> 
+Fixed a bug in ForgeHooksClient <UNK> ( ) 
+updated <UNK> 
+update dependencies to 22 . 0 . 1 
+Fix typo with Gradle - 8 
+Update doc commit pointer 
+Fixed typo in shaders of <UNK> 
+HHH - <UNK> Fix <UNK> 
+update linux - i386 . 
+LPS - <UNK> - Remove unused <UNK> 
+Change compileSdkVersion 22 to 22 
+Fix <UNK> <UNK> 
+Fixed typo in <UNK> . 
+Prepare version 29 - beta2 . 
+Ignore gitignore 
+Updated gif to show the new room 
+ignore JmeVersion - core 
+Updated CHANGES . txt 
+add <UNK> 
+Prepare next development version . 
+deployment deployment 
+<UNK> the help of the <UNK> <UNK> to be it to be <UNK> 
+Added STORM - 468 to Changelog 
+remove runit_NOPASS_Rdoc_nfoldextractor testdir_docexamples . R 
+ignore gen at gen dir 
+Add oraclejdk8 to travis matrix 
+added <UNK> 
+updated readme 
+add missing da 
+Fix <UNK> . hashCode ( ) . 
+LPS - <UNK> Add missing comment 
+<UNK> the <UNK> of the <UNK> to the branch of the <UNK> 
+Added STORM - 762 to Changelog 
+Fix <UNK> <UNK> 
+<UNK> . kl axis axis axis <UNK> . 
+<UNK> doesn ' t use <UNK> . 
+Added toString ( ) method to @ <UNK> . 
+<UNK> <UNK> 
+remove <UNK> . md 
+fixed typo in application - job script 
+Fix ScrollViewPropTypes nativePropType nativePropType . 
+Removed unused coming 
+Fix coverage ' s coverage for coverage 
+LRQA - <UNK> Add new property for portal . acceptance 
+Add Travis CI to travis build 
+fix failing test 
+<UNK> <UNK> <UNK> ( <UNK> ) <UNK> . 
+Add install to travis 
+Fix <UNK> <UNK> test . 
+Updated version number 
+update file 
+Updating Alloy to rev . <UNK> 
+updated LeonidsLib jar 
+<UNK> the <UNK> of the <UNK> to be <UNK> . 
+Fix crash in LinkProperties routes . 
+remove <UNK> 
+Added panda2 3 to run - all - examples 
+Add missing <UNK> <UNK> to AccountManagerServiceTest <UNK> . 
+Fix <UNK> <UNK> 
+<UNK> the <UNK> . GIF 
+enable clean task for task 
+Remove unnecessary code . 
+add constant for <UNK> 
+Fix <UNK> <UNK> 
+Added STORM - 298 to Changelog 
+try travis tests 
+Fix <UNK> line . 
+Set group for Java to fix build . 
+Updating Alloy to rev . <UNK> 
+updated rajawalilib zip 
+Added <UNK> <UNK> icon . 
+Fix <UNK> <UNK> to <UNK> 
+Add a <UNK> <UNK> to the <UNK> <UNK> 
+Add a README file to the redisson - tomcat README . 
+try travis tests for Travis 
+bump version to 4 . 0 . 3 
+add Xmx6g JAVA_OPTS JAVA_OPTS to travis 
+updated test 
+removed freeboxos - 0 . 2 . 0 . 
+use all site tests 
+Add a <UNK> to the build . 
+Prepare next development version . 
+Added missing file 
+Updating Alloy to rev . <UNK> 
+Fix bug in LFWDataFetcher LFWDataFetcher next 
+updated svnkit jar 
+bump to version 3 . 0 - rc - 1 
+<UNK> the <UNK> ( ) . 
+<UNK> should release release 
+ignore maven_repositories central files 
+add init . gradle 
+update gif 
+Add Travis CI file 
+<UNK> <UNK> ' s <UNK> <UNK> 
+Upgraded parent version . 
+Remove unused code . 
+Add travis config 
+Ignore - Emacs - Ignore files 
+Added encoding to <UNK> 
+Fix typo in Sphere final 
+Fix uninitialized <UNK> . 
+Updated jar for Spider 1 . 0 . 0 
+Add setId ( ) to SugarRecord <UNK> 
+Upgraded parent version . 
+Updated version in README 
+Bump common ref for <UNK> <UNK> fix . 
+Add key to the wildfire_i18n_en of the end of the file 
+update nebula version 
+add CHANGES 
+Add file_glob file_glob to travis config 
+LPS - <UNK> Remove unnecessary line 
+add LICENSE for <UNK> 
+<UNK> the <UNK> of the <UNK> to be <UNK> . 
+<UNK> the <UNK> of the <UNK> to be set 
+removed TODO 
+bump pom tools to 3 . 0 . 1 
+Remove debug <UNK> 
+<UNK> the <UNK> of the <UNK> encoder . 
+update trove4j . jar 
+Removed unused code 
+bump commons - pool2 to 2 . 3 
+Add googlecode urls googlecode to build . gradle 
+Added fileSets fileSets ' fileSets fileSets - distribution - distribution 
+Fix test case . 
+Add version for <UNK> ( ) to version of version of version to . 
+add STORM - 1416 to CHANGELOG . md 
+use the <UNK> ' s ' <UNK> ' 
+Added sleep to test test 
+<UNK> the <UNK> file 
+Fix typo in PackageParser setUse32bitAbi 
+<UNK> <UNK> ( ) 
+Delete pop3 . jar 
+add Kyle to contributors 
+Built the latest snapshot snapshot 
+Fix <UNK> <UNK> <UNK> . 
+Fix config 
+Prepare next development version . 
+Remove unused import 
+Updated icon for <UNK> . 
+add <UNK> <UNK> 
+updated bbb_banner images to reflect <UNK> 
+Fixes <UNK> ' s <UNK> 
+Added STORM - 1395 to Changelog 
+<UNK> the <UNK> . jar file to the yuicompressor . 
+add screenshots 
+Fix groovy - test in groovy - test 
+add words suggested by users 
+Removed background background from layout layout 
+Updates the <UNK> of the <UNK> <UNK> to be <UNK> <UNK> <UNK> . 
+Create README . md 
+remove nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe / nodeprobe /
+Added comment to <UNK> 
+prepare release acra - 4 . 6 . 0 
+adding tachyon_version . yml to ignore <UNK> 
+fixed typo in readme 
+Removed unused code 
+<UNK> to 1 . 3 . 1 
+added <UNK> diagram 
+<UNK> 0 . 0 . 6 
+Ignore buildout buildout buildout 
+Delete gradle - wrapper . 
+<UNK> library to library 
+upgraded netty to 4 . 0 . 23 
+Add Gradle . npm . args to the build . 
+LPS - <UNK> Fix settingsClass formatting 
+bump version to 1 . 8 . 0 - beta - 1 
+<UNK> <UNK> ' s <UNK> 
+Fix <UNK> <UNK> 
+Delete README . 
+Removed sequence - split - merge from pom . xml 
+update release to 1 . 2 . 0 
+<UNK> the <UNK> of the <UNK> encoder . 
+bump bukkit version to 1 . 1 
+updated keystore to 0 . 0 . 0 
+Delete <UNK> . properties 
+Remove unused @ SystemApi 
+add readme 
+Remove executable bits from <UNK> 
+Delete unused files 
+ignore calevent - importer 1 . 0 . 4 prep next 
+Ignore IntelliJ files 
+<UNK> <UNK> to be <UNK> <UNK> 
+update win32 - x86 natives 
+update <UNK> - support jars 
+Add missing jdk 
+Removed unnecessary code 
+remove errant code 
+update sparc natives 
+Fix typo in build - tool - plugins 
+setting version to 1 . 0 . 105 
+add junit jar 
+<UNK> <UNK> jar to jar 
+Add missing import 
+updated packrat icon 
+fixed codegen codegen codegen 
+fix bug in <UNK> 
+Set dependencies to runtime for the astyanax - compiler jar 
+update CHANGES 
+LRQA - <UNK> Add new component 
+<UNK> . <UNK> ( ) call if 1000 1000 1000 <UNK> . 
+Make <UNK> executable 
+Added test to MainActivity <UNK> . 
+<UNK> <UNK> <UNK> <UNK> 
+Fix typo in bin / plugin script 
+update <UNK> jar 
+Set MaxPermSize - record to ' MaxPermSize ' ' argLine ' MaxPermSize ' <UNK> ' 
+removed unused <UNK> 
+Updating Alloy to rev . <UNK> 
+Upgraded parent version . 
+<UNK> the <UNK> lib to the RTP identifier . 
+<UNK> should use a <UNK> . 
+add STORM - 1590 to CHANGELOG . md 
+Smack 4 . 0 . 5 - SNAPSHOT 
+Updating Alloy to rev . <UNK> 
+Removed unused code 
+Removed slf4j from the pom 
+Use the <UNK> ' s ' always ' secure ' 
+Added optional to the contributors list 
+add STORM - 1835 to CHANGELOG 
+Don ' t loop the <UNK> <UNK> when <UNK> is not <UNK> 
+Fix <UNK> . 
+<UNK> <UNK> to be <UNK> 
+removing password code 
+Removed todo 
+Delete IMG00001 IMG00001 GIF GIF 
+<UNK> off <UNK> to be <UNK> 
+add <UNK> 
+Changed version number to 2 . 1 . 0 
+Add missing JsonLibJsonDatabind . 
+update bytebuffer - collections to 0 . 2 . 1 
+updated <UNK> . docx 
+<UNK> <UNK> <UNK> <UNK> . 
+prepare for next development iteration 
+Fix typo in sample example 
+Set <UNK> to GCThread <UNK> <UNK> . 
+build build build 
+<UNK> <UNK> ( ) 
+Change version number to 1 . 0c 
+Removed application application 
+Rename DrawHelper . java to DrawHelper <UNK> . 
+Bump common ref for <UNK> <UNK> fix . 
+added test test to test test 
+Bumping commit - client to the version 
+Fix typo in <UNK> 
+Updated readme 
+bump pegasus version 
+<UNK> the <UNK> of the <UNK> 
+<UNK> the inner final 
+add missing tl 
+Create README . md 
+corrects the <UNK> to file 
+Add openjdk7 to travis build 
+<UNK> ( ) should <UNK> ( ) 
+Updated version number 
+add <UNK> icon 
+Add missing check_deskshare to config . xml . template . template . template . template . template . template . template . template . template . template . template . template . template . template . template . template . 
+remove NativeDecimalFormat text 
+add shields - arsenal badge to README 
+fixed <UNK> ( ) in <UNK> ( ) 
+enable security manager 
+<UNK> <UNK> <UNK> <UNK> 
+Remove unnecessary code 
+add linux so a <UNK> <UNK> 
+Set default source to 1 . 5 
+Add screenshot 
+updated librobovm x86_64 to <UNK> 
+<UNK> the reset <UNK> in JCMediaManager 
+Added missing file 
+Added a note to the Xposed might the XPrivacy of the XPrivacy 
+add image for preference 
+<UNK> <UNK> to be <UNK> 
+release version to 2 . 0 . 1 - final 
+Prepare - <UNK> prep next 
+remove forkMode forkMode forkMode forkMode pom 
+Remove mms mms mms - common library 
+ignore keystore files 
+fix a bug where the <UNK> is not <UNK> 
+fixed typo in docs 
+bump pegasus version 
+Set jar to stdout for jar 
+Modify submodule 
+Updated readme 
+Removed unused libtightdb 
+Fix test for <UNK> . 
+<UNK> the <UNK> <UNK> . 
+update build tools 
+LPS - <UNK> update jar 
+<UNK> README file 
+<UNK> <UNK> <UNK> 
+Remove build . dependsOn webpack task from build 
+Bumping commit - client to the version 
+Removed unnecessary <UNK> - java - - - - - - - - logback for the <UNK> 
+Fix readme 
+add <UNK> 
+update sparc jars 
+LPS - <UNK> update sdk 
+update encog - core to 3 . 2 . 0 
+Added missing del of <UNK> . 
+bump version for hbase - hbase 
+Prepare version 13 - beta2 . 
+remove unnecessary code 
+Fix <UNK> <UNK> 
+Added icon on icon 
+Fix msn <UNK> with msn . 
+Fix bug in Box Box extendToEncompass 
+<UNK> the <UNK> <UNK> when <UNK> is not <UNK> 
+remove unnecessary code 
+add README . md 
+add <UNK> 
+Set thrift to thrift for <UNK> 
+updating favicon 
+add STORM - 1478 to CHANGELOG . md 
+Add notification to travis build 
+set default min to max 0 . 8 
+<UNK> - <UNK> <UNK> - 1065 - 1065 - runner - runner - runner - runner - runner - runner - runner 
+help topics ( IDEADEV - <UNK> ) 
+Updated changelog for 1 . 8 . 24 
+updated copyright 
+<UNK> 0 . 9 - rc - daemon - build 
+Fix test error 
+LPS - <UNK> Move icon 
+add screenshots 
+Added STORM - 412 to Changelog 
+<UNK> <UNK> ( ) method 
+add STORM - 1481 to CHANGELOG . md 
+revised <UNK> icon 
+SONAR - <UNK> Fix line of <UNK> 
+updated header 
+Fix <UNK> <UNK> 
+<UNK> the <UNK> of the <UNK> of the <UNK> of the <UNK> 
+DO NOT MERGE - Updated <UNK> <UNK> <UNK> <UNK> <UNK> 
+Removed unnecessary code 
+Fix <UNK> . 
+Updated <UNK> 
+Fix build . xml 
+remove unnecessary code 
+<UNK> <UNK> . lowLevelConsoleIO ( ) in Process <UNK> 
+Add InstallingStabilizer . 
+Updating Alloy to rev . <UNK> 
+ignore portal - profile 1 . 0 . 0 prep next 
+Added a task for the moco runner 
+<UNK> proguard to proguard 
+Added ID_ varchar varchar to activiti . h2 . create 
+Fix build version 
+trying CircleCI tests for Travis 
+Make stress executable 
+bump version to 0 . 6 . 1 
+Add missing case to <UNK> 
+LPS - <UNK> Add getUserId ( ) method to UserScreenNameException <UNK> 
+setting version to 1 . 0 . 89 - SNAPSHOT 
+Updated readme 
+<UNK> . initAnimator FPSAnimator set <UNK> 
+Add the <UNK> . 
+Fix <UNK> <UNK> 
+LPS - <UNK> Remove unused alloy 
+Ignore IntelliJ files 
+fixing test tests for <UNK> 
+Add <UNK> . md to License <UNK> 
+<UNK> roboguice roboguice - 2 . 0 - ignoreme6 
+added TODO 
+bump version of plexus - component - metadata to 1 . 6 
+LPS - <UNK> - Remove unnecessary font 
+remove Disposer Disposer Disposer 
+Updated build tools 
+Changed to version 1 . 2 - 1 . 2 
+add cdh4 cdh4 jar 
+add <UNK> 
+<UNK> <UNK> . h ( ) in DrmSupportInfo <UNK> 
+<UNK> <UNK> 
+trying the build for the project project . 
+Add new empty empty section 
+add hibernate - ehcache to lib 
+MinecraftForge / FML @ 852710962a9b6d7c8e2ca188c715eebb2da44c2a Fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+Updated version number 
+Fixed typo in OngoingStubbing OngoingStubbing 
+<UNK> <UNK> . 
+LPS - <UNK> Add missing Override 
+<UNK> . <UNK> ( ) instead of <UNK> ( ) . 
+update bullet bullet bullet natives 
+Add APP_PLATFORM APP_PLATFORM to jni build . 
+Add notification to travis matrix 
+<UNK> Dockerfile <UNK> 
+Updated <UNK> 
+Push version to 11247 . 
+Fix test with test with test 
+update CHANGES . txt 
+remove unused icon 
+ignore iml files 
+update pom 
+Use Gradle 2 . 7 . 1 . 
+Set <UNK> to <UNK> 
+Add changelog for github CI 
+Added a safety . 
+Add runtime - core dependency to 2 . 0 . 5 
+Add categorical_encoding categorical_encoding " to DeepWaterV3 <UNK> <UNK> . 
+bump version for x - x - zkclient - bridge - bridge - bridge - bridge - bridge - bridge - bridge - bridge - bridge - bridge 
+Bump common ref for <UNK> <UNK> fix . 
+Fixed typo in README 
+added a css to the <UNK> 
+update screenshots 
+Add ensureOpen ensureOpen to Publication <UNK> . positionLimit ( ) . 
+update reference 
+added missing note to PluginManager license 
+Add missing @ Override annotation 
+Removed scope from support - v4 
+LPS - <UNK> update sdk 
+Fix bug in ExpressionUtils ExpressionUtils <UNK> . 
+Fix <UNK> <UNK> when <UNK> is not <UNK> 
+update demo gif 
+setting version to 1 . 0 . 115 - SNAPSHOT 
+added NOTICE . txt 
+remove <UNK> 
+<UNK> the <UNK> file . 
+prepare for next development iteration 
+Removed unnecessary jsp21 
+<UNK> <UNK> ' s <UNK> . killbill . notificationq . 
+Ignore bin / bin dir 
+Add missing import . 
+Updated library reference 
+Set plugin to WEVERSIONMACRO WEVERSIONMACRO <UNK> 
+adding a list of the <UNK> 
+Fix typo in README 
+<UNK> the <UNK> . md file 
+Updated the CHANGELOG 
+remove unused code 
+Updated build tools 
+adding h2o jar 
+<UNK> the new version number . 
+Fix worker worker worker worker worker 
+Added refresh to <UNK> . 
+Ignore IntelliJ files 
+bumped gradle version . 
+Prepare next release v0 . 87 . 4 - SNAPSHOT 
+ignore pom . xml file 
+Fix build tools 
+Fix typo in build . xml 
+Updated SampleTitlesWithListener sample to . 
+updated junit - 4 . 5 . jar to fix <UNK> 
+Fix <UNK> . 
+add local . properties to gitignore 
+Added a comment 
+update rngom <UNK> 
+update <UNK> 
+LPS - <UNK> prep next , use latest 
+added todo 
+Add a <UNK> note to README 
+bump version for hbase - hbase 
+prepare release astyanax - 0 . 8 . 9 - SNAPSHOT 
+LPS - <UNK> Remove unused favicon 
+added ISchemableSpout interface for ISchemableSpout ISchemableSpout 
+Fixed typo in benchmarks . properties . 
+prepare " Bump version to 0 . 9 . 11 - SNAPSHOT 
+Fix <UNK> version in support 
+updating readme 
+Fix typo in install . md 
+Updated <UNK> asset 
+updated <UNK> 
+LPS - <UNK> update sdk 
+Fix <UNK> <UNK> 
+<UNK> the plugin of the <UNK> to be <UNK> 
+Fixed test case 
+<UNK> <UNK> ' s <UNK> 
+<UNK> the <UNK> 
+add mysql user to reference 
+Updated version code 
+added getAssociatedObject ( ) to BaseAdapterHelper adapter 
+<UNK> . <UNK> ( ) - > queue queue queue queue 
+update location module 
+removed test 
+Add sudo to travis 
+Change minSdkVersion to 8 
+add Logo <UNK> 
+Add jcenter to repositories . 
+Fix typo in query . 
+Fix <UNK> <UNK> bug . 
+Fix <UNK> <UNK> to <UNK> 
+Added relative path to the parent pom 
+Updated changelog number 
+add screenshots 
+<UNK> the <UNK> pdf . 
+Ignore files to ignore files 
+Updated <UNK> - <UNK> 
+update gdx jar 
+Fix demo rules 
+add missing hive_logo . 
+added note to the contributors 
+remove note to NEWS 
+add gif 
+Add Tom Morris to README 
+add <UNK> 
+LPS - <UNK> Add missing @ Transactional 
+renamed the <UNK> to the correct location 
+add scalastyle . 
+Updated <UNK> . index 
+<UNK> the <UNK> of the <UNK> <UNK> 
+Fix typo in JavaWriter JavaWriter . 
+bump version to 0 . 3 . 10 
+Removed unused Depends Depends 
+updated page_white_get images to reflect <UNK> 
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+added init . 
+Remove import from Build . scala 
+removed 7 
+Prepare next development version . 
+Ignore IntelliJ files 
+missing archivesBaseName - lib 
+<UNK> <UNK> in <UNK> 
+add a changelog 
+<UNK> the <UNK> <UNK> 
+<UNK> the build script . 
+<UNK> should use toString 
+remove layout from <UNK> 
+updated gwt jar 
+Added SortedHashMapTest . java to the pom . 
+<UNK> . <UNK> should set Surface <UNK> 
+Fix typo in <UNK> 
+setting version to 1 . 0 . 154 - SNAPSHOT 
+Bump dnsjava dnsjava 2 . 1 . 6 
+Add Ruby port to README 
+bump version to 1 . 0 . 8 - SNAPSHOT 
+add README . md 
+<UNK> the <UNK> file . 
+add README for <UNK> 
+<UNK> the build 
+Fixed project . properties 
+LPS - <UNK> Fix typo 
+Ignore OS X stuff 
+<UNK> the <UNK> <UNK> 
+update changelog for STORM - 461 
+Added todo 
+Removed margin of <UNK> 
+remove unused import 
+bump engine . io - client - client 
+add moment - timezone to vendor graylog2 - web - interface 
+Updated changelog for features 
+<UNK> <UNK> . 
+Remove - - - daemon - daemon - daemon - - start - daemon - daemon - - - - start - daemon - - - - - - start - - - - - daemon - - - - - - - daemon - - - - - - - daemon - - - - - - - daemon - - - - - - - daemon - - - - - - - daemon - - - - - - - daemon - - - - -
+update screenshots 
+remove unnecessary library 
+Fixed typo in sql migration 
+Added user - transaction to the pom . 
+LPS - <UNK> Move ViewAction . java to the portlet 
+Add missing <UNK> for <UNK> 
+add <UNK> 
+<UNK> the <UNK> <UNK> 
+help ID ( PY - <UNK> ) 
+update screen 
+<UNK> <UNK> ' s <UNK> 
+update location module 
+LPS - <UNK> prep next , use latest 
+remove unused rule 
+<UNK> the build for the Xss320k - compiler script . 
+Set jdiff jdiff tag to jdiff jdiff jdiff jdiff 
+Removed unnecessary code 
+Added bug2527998 . css file to the <UNK> . 
+remove unused Import - Package 
+Fix typo in Identity <UNK> . 
+<UNK> . native 
+Add missing <UNK> to 161_164 <UNK> 
+Prepare version 23 - beta4 . 
+setting build tools to 1 . 0 . 1 
+update gradle plugin 
+added mysql <UNK> 
+Fix msn <UNK> with msn . 
+Delete unused files 
+Updated <UNK> - <UNK> 
+Create CHANGELOG file 
+updated xoo sample 
+Add apply plugin to hystrix hystrix ' osgi - javanica / hystrix - javanica ' hystrix hystrix <UNK> 
+Updating Alloy to rev . <UNK> 
+updated <UNK> 
+Add <UNK> <UNK> for <UNK> and <UNK> . 
+add demo gif 
+Added unbind ( ) to GLib GLib GLib GLib 
+added <UNK> <UNK> 
+Add ant <UNK> to travis config 
+update gradle plugin 
+<UNK> the <UNK> <UNK> file 
+Fix test for test 2 . 8 . 
+Add targetCompatibility targetCompatibility targetCompatibility sourceCompatibility plugin to plugin . gradle 
+Add sudo to travis matrix 
+Prepare version 15 . 0 . 4 . 
+set previousMinor 8 8 
+LPS - <UNK> Add locales . enabled to the locales of the <UNK> . enabled 
+Fix typo in InitializeJavaScriptAppEngine setUpConsole 
+Added dependency to the example of the example 
+add <UNK> 
+do not use a <UNK> 
+Add travis ci file 
+LPS - <UNK> Ignore SF for now 
+<UNK> jgroups <UNK> . jar . 
+LPS - <UNK> update jar 
+add STORM - 764 to CHANGELOG . md 
+updated <UNK> 
+add HDFS - 4953 to CHANGES . txt 
+Fix fieldGraphs id handling in field 
+add image for <UNK> 
+set <UNK> 
+Fix pom . xml 
+<UNK> <UNK> <UNK> <UNK> 
+set cglib cglib cglib cglib 
+Fix typo 
+Updated <UNK> 
+Fix test 
+build # 8 
+update gradle to 1 . 1 . 1 
+LRQA - <UNK> Add new property 
+Fix <UNK> <UNK> 
+bump version code to 1 . 3 . 0 - alpha 
+Added mvn_settings - scripts to travis . yml 
+LPS - <UNK> Move js files 
+Fix ActorSerializer actor actor 
+adding placeholder . txt 
+added toString ( ) method to FastArray <UNK> 
+updated pdf 
+LPS - <UNK> Move test file 
+<UNK> the <UNK> ' s README . md 
+Adding process - process module to the deploy 
+Fix <UNK> ' s <UNK> . 
+add " unanimously " to " unanimously " 
+added migration to migration environment 
+Testing <UNK> to be <UNK> with forked 8 
+Fix <UNK> . 
+LRQA - <UNK> prep next , use latest 
+Delete pickerdemo pickerdemo gif 
+Added a IllegalArgumentException check to the <UNK> <UNK> 
+Upgraded maven - dependency - plugin to 2 . 10 
+<UNK> mSceneInitialized protected to protected 
+Add getTime timeSinceLastFPS to new <UNK> 
+remove unnecessary assembleDebug 
+Fixing test warning in testing 
+update sample jar 
+Removed prerequisites maven maven . 0 . 5 . 5 from the pom . 
+adding a Java contributor 
+Fix test case 
+Fix typo in apidoc docs . 
+updated todo 
+Fix typo in pom 
+Remove unused @ SuppressWarnings 
+Added dependencies of <UNK> to ProjectBuilder of <UNK> 
+<UNK> <UNK> <UNK> <UNK> <UNK> 
+<UNK> jar with <UNK> . jar . 
+Changed maps to 9_r2 version of <UNK> 
+Fix typo in docs . 
+<UNK> <UNK> . jar . 
+add README 
+<UNK> port port to port 
+<UNK> . withoutSource withoutSource withoutSource static . 
+added testdata to <UNK> 
+add image for preference 
+fixing test test 
+ignore intellij files 
+Added wiki . 
+LPS - <UNK> Move menu file 
+setting version to 1 . 0 . 139 - SNAPSHOT 
+<UNK> the <UNK> . 
+Added missing constant 
+<UNK> <UNK> . jar . 
+Changed maps to 16_r3 version of <UNK> 
+Ignore commons / build / build 
+add <UNK> 
+Move travis to testing 
+<UNK> <UNK> <UNK> <UNK> 
+Added StreamingGZIPInputStream StreamingGZIPInputStream StreamingGZIPInputStream . 
+Updating Alloy to rev . <UNK> 
+Removed unused print 
+Fixed typo in unixWrapperScriptTail . txt 
+updated version 
+Ignore IntelliJ backup files 
+Add gitignore for NetflixOSS tracking 
+ignore generated / finalOutput / finalOutput / finalOutput / finalOutput / finalOutput / finalOutput / finalOutput / finalOutput / generated / finalOutput / finalOutput / finalOutput / <UNK> / <UNK> / <UNK> / <UNK> / <UNK> . 
+LPS - <UNK> update dll 
+<UNK> <UNK> ( ) in CachingHiveMetastore <UNK> <UNK> <UNK> 
+missing git - dev 
+<UNK> . zipOnly File . zipOnly File . 
+Fixed typo in EnvironmentClassLoader static field 
+Add README 
+updated icon for the <UNK> 
+Add Travis CI file 
+Bump common ref for <UNK> <UNK> fix . 
+update jackson jar 
+update to latest android gradle tools 
+Add ShadowViewMeasureSpec . class to the ShadowViewMeasureSpec of the <UNK> file 
+update example 
+Rebuilds libjnopenssl . so using <UNK> . so . 
+add missing import 
+Fix <UNK> <UNK> <UNK> 
+updated <UNK> 
+adding ' SGML ' ' to ' SGML ' ' 
+Added a see to the see of the <UNK> 
+Fix <UNK> <UNK> bug in TextView view 
+add gradle - wrapper . 
+<UNK> 2 . 9 . 3 
+Updating Alloy to rev . <UNK> 
+missing regex 
+Added import to fixGetpass python - <UNK> 
+add " Micropost " to dictionary 
+Add screenshots 
+<UNK> the <UNK> <UNK> 
+updated TODO 
+<UNK> <UNK> <UNK> <UNK> 
+<UNK> <UNK> <UNK> <UNK> 
+Added tabWidth name to checkstyle . xml 
+remove JVM_ARGS JVM_ARGS JVM_ARGS 
+MinecraftForge / FML @ ac994e178a3533aa3c2ad8359aef9e5852c27a72 Fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+updated RELEASE - adding months 
+turn off <UNK> timeout to 50 parse 
+ignore buildSrc buildSrc files 
+Try - compilation <UNK> details for now 
+LPS - <UNK> Fix incorrect logic 
+add debug keystore 
+remove print print 
+Add the query - query - lang - lang - lang . 
+updated rajawalilib zip 
+updated art 
+<UNK> . destroy should not destroy destroy 
+Fix <UNK> ( ) ( ) 
+Removed unnecessary maven - staging - staging dependency 
+Fixed package package 
+Fix typo in comment 
+Fix <UNK> <UNK> 
+Removed unused import 
+add flashbuilder plugin to build . gradle 
+Release version code 
+Removed unnecessary Phase 
+updating copyright 
+update gradle plugin 
+remove unnecessary code 
+Remove debug test 
+added local . properties to gitignore 
+update multiwords . txt 
+Delete logo - footer . 
+Updated library reference 
+Set default gradle gradle to MaxPermSize MaxPermSize MaxPermSize MaxPermSize 
+updated DMG_background DMG_background 
+Fix small small small type in README 
+Added httpasyncclient - httpasyncclient module to the deploy list 
+<UNK> should not have a default value 
+Add lint . xml to lint build 
+Fix typo in pom . xml 
+Fixed typo in server2 example 
+add NEWS to NEWS 
+setting version to 1 . 0 . 62 - SNAPSHOT 
+Added invalidateMaster invalidateMaster ( ) method 
+enable <UNK> ( ) in <UNK> ( PY - <UNK> ) 
+Add travis CI config 
+Add bower <UNK> to Makefile 
+Update travis config 
+adding app_konference . 
+added <UNK> 
+Fixed typo in testing . clj 
+Fix <UNK> stop issue in graylog2ctl 
+Add jslayoutjs jslayoutjs " to the list of the file . 
+Don ' t use <UNK> to setBuckdRunning <UNK> 
+<UNK> the <UNK> of the <UNK> to be it to be <UNK> 
+saveOnRunAction saveOnRunAction controller controller on Python 
+Added missing break 
+add STORM - 1715 to CHANGELOG . md 
+Changed maps to 9_r2 version of <UNK> 
+<UNK> <UNK> ' s <UNK> 
+Don ' t show <UNK> menu by default 
+ignore bundle / bundle / bundle 
+removed presto - example - http - http . 
+added the toc textile to the toc . 
+add link to reference 
+<UNK> the <UNK> of the <UNK> activity when the <UNK> is destroyed 
+Push version to 237 . 
+Fix test 
+Change camQualityPicture camQualityPicture camQualityPicture to 50 50 50 50 
+add screenshots to README 
+Ignore Emacs backup files 
+Change BUCK test to intellij to intellij intellij test 
+Add detectOfflineLinks detectOfflineLinks plugin to maven - javadoc - plugin 
+Ignore all files 
+Remove unused @ XmlType 
+Fix typo in shippable . yml 
+add <UNK> 
+<UNK> the <UNK> JNI . 
+remove Server line 
+Adding lang - python module 
+Ignore build files 
+add <UNK> <UNK> 
+<UNK> <UNK> to be <UNK> <UNK> 
+Fix typo in AudioPolicyManagerBase libs . 
+bump version number 
+Remove tez_smb_1 tez_smb_1 . 
+Fixed typo in actor 
+Removed unnecessary call 
+updated <UNK> python 
+removed import from <UNK> 
+Added pre pre <UNK> to bootstrap 
+Add vcs Git to build . gradle 
+removed tehuti tehuti jar 
+Delete useNERRestriction_allpatterns useNERRestriction_allpatterns ser ser ser 
+<UNK> FnExpr public 
+Removed @ Override from AbstractTFS of <UNK> 
+added missing font - break 
+Fix build 
+Added javadoc to the sources of the javadoc 
+update location module 
+added missing <UNK> 
+Added missing application . 
+<UNK> the NOTICE 
+Add travis config 
+Fix <UNK> <UNK> 
+Prepare 2 . 0 . 4 release 
+add gradle - wrapper . 
+Prepare new development version . 
+set the release <UNK> to the release 
+<UNK> - <UNK> <UNK> should use master for now 
+Add diogo to Travis CI 
+updated javac2 - all . 
+add <UNK> 
+setting version to 1 . 0 . 140 - SNAPSHOT 
+<UNK> <UNK> <UNK> <UNK> to NOPASS . 
+Add <UNK> to <UNK> 
+Removed test from test 
+Removed unnecessary margin 
+<UNK> <UNK> ' s <UNK> 
+fixed background of <UNK> 
+Make <UNK> executable 
+Add new <UNK> 
+Rename BikeParkUpdater . java to BikeParkUpdater . java 
+<UNK> <UNK> <UNK> <UNK> 
+bump version of doxia - module - markdown to 1 . 5 
+Fix test name in contextMenuBuilderInput - tests 
+Added exclusion to zkclient <UNK> in the contributors 
+Remove unnecessary dependency 
+ignore main xml files 
+<UNK> server to jersey 1 . 3 
+<UNK> <UNK> 
+Added unistd . h to the example of the gdx . 
+LPS - <UNK> Add Infinite lock to messageboards lock . expiration . time . liferay . messageboards . liferay . messageboards . messageboards . messageboards . messageboards . messageboards . messageboards . messageboards . messageboards . messageboards . 
+add sample apk 
+Updated <UNK> . index to include <UNK> . index 
+Fix typo in server2 storm 
+add missing lastRenderedText_ 
+Increase minSdkVersion to 7 
+add STORM - 1467 to CHANGELOG . md 
+Adding jetty - jaas module 
+Bump common ref for <UNK> <UNK> fix . 
+Adding examples to examples 
+<UNK> changes fix 
+LPS - <UNK> Move icon 
+Add travis config 
+bump version number 
+add STORM - 1254 to CHANGELOG . md 
+<UNK> <UNK> ' s <UNK> 
+Change local SDK to 0 . 3 
+enable <UNK> 
+update sample lib 
+update device - 2015 - 08 - 08 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 - 123103 -
+removed irc jar 
+<UNK> the <UNK> of the <UNK> . 
+Add import to import 
+Add release - notes to release - notes . 
+Add missing <UNK> <UNK> 
+Remove Vendor_0a5c_Product_8502 Vendor_0a5c_Product_8502 . kl \ 
+Fix grails test on mappings 
+LPS - <UNK> Ignore SF for now 
+Add missing @ RemotableViewMethod to TextView . 
+fixing a missing import in the packager 
+Add travis CI config 
+Add a check file to the check . 
+Removed unused import 
+SONAR - <UNK> Fix style of <UNK> buttons 
+remove openjdk6 
+add <UNK> 
+add <UNK> are <UNK> to gitignore 
+Fix typo in README 
+LPS - <UNK> Fix incorrect error 
+<UNK> the <UNK> of the <UNK> 
+Fix <UNK> for DaoExample - <UNK> 
+Updated library reference 
+Fix build script 
+remove optional 
+Add <UNK> . err . println to the Unexpected of the call of the call 
+Fix typo in makeSureBackupCanBePerformedFromNonExistentCluster test 
+update support to latest <UNK> 
+<UNK> stupid coding variable . 
+<UNK> . zip for <UNK> 
+<UNK> WARN WARN <UNK> 
+Fix <UNK> <UNK> 
+Fix build 
+added including URLs to README 
+LPS - <UNK> Move DeleteAfterTestRun to test 
+set number_of_shards number_of_shards number_of_shards 5 
+bump changes for release 
+Added org . openhab . core to the build . 
+Add extra - android - m2repository to travis 
+update appcompat library 
+LPS - <UNK> Move packageinfo to the blogs 
+update CHANGELOG . md 
+<UNK> <UNK> ' s <UNK> 
+upgraded netty to 4 . 1 . 1 
+LPS - <UNK> - <UNK> <UNK> <UNK> not not have a <UNK> 
+Create README . md 
+Added junit scope to the junit of the junit 
+Fix Travis build 
+<UNK> jar 
+removed debug line 
+<UNK> <UNK> <UNK> test to NOPASS until it ' s <UNK> . 
+<UNK> the <UNK> of the <UNK> encoder . 
+removed unused @ ToBeFixed 
+Added a request line 
+fixed issue with <UNK> 
+Removed obsolete comment 
+bump build tools to 1 . 0 . 0 . 
+<UNK> . getGroup ( ) ) 
+Removed debug code . 
+<UNK> shutdown shutdown when shutdown properly properly 
+add HadoopGremlinPlugin plugin to the static 
+Bump build tools to 2 . 9 . 3 - aar 
+<UNK> the <UNK> of the zap 7 . 
+Removed disconf - web from the pom . xml 
+Added includeTestSourceDirectory includeTestSourceDirectory to the contributors of the <UNK> test 
+Add task to task for task . 
+Fix <UNK> <UNK> . 
+<UNK> the <UNK> height when it is not used . 
+added support jar 
+remove comment 
+<UNK> implemented implemented . 
+Changed version to 1 . 0 - SNAPSHOT 
+Fixes <UNK> <UNK> ( ) to <UNK> . 
+LPS - <UNK> Move the entire to the correct folder 
+Fixed test data 
+<UNK> the <UNK> 
+update jar 
+MinecraftForge / FML @ 4981aa3421262c3c1c4705468fe202df8198b9f0 Fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+Added sample app app 
+<UNK> doesn ' t overwrite null if it is not used . 
+add openssl - lssl - lcrypto - lcrypto openssl to CMakeLists CMakeLists - lssl - lcrypto - lcrypto usr - lcrypto - lcrypto 
+documented charset issue in moco doc 
+Removed SeriesGuideX SeriesGuideX ' SeriesGuideX ' pagerslidingtabstrip settings . gradle 
+ignore patch files 
+Removed @ Ignore annotation 
+Removed <UNK> from <UNK> 
+Remove unused @ message 
+added _layouts _layouts to gitignore 
+Fix a typo in the method 
+<UNK> the <UNK> of the <UNK> to be <UNK> . 
+update screenshot 
+Bump common ref for <UNK> <UNK> fix . 
+LPS - <UNK> - This is not break style bar Admin 
+Fix bug in ExpandableListView ExpandableListView <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+add kannotator - plugin to gitignore 
+Fix bug with <UNK> notification on <UNK> . 
+<UNK> zip <UNK> . zip 
+Testing Travis CI 
+<UNK> the <UNK> of the <UNK> encoder . 
+add <UNK> <UNK> 
+update gradle - wrapper . jar 
+Added STORM - 126 to Changelog 
+Fix typo in Loader found . 
+<UNK> the <UNK> package 
+bumped parent version in 2 - SNAPSHOT to 2 
+<UNK> jnsapi <UNK> jar 
+<UNK> the <UNK> of the <UNK> to the list of the <UNK> 
+Smack 4 . 1 . 6 - SNAPSHOT 
+Add a note to the import of the import 
+Change ActorApp FABRIC_BUILD_SECRET . xcworkspace to FABRIC_BUILD_SECRET FABRIC_BUILD_SECRET . xcworkspace instead of ActorApp - <UNK> 
+add buildnum . txt to h2o - r 
+Move cli to bootstrap 
+Add chat notifications to travis 
+Fix typo in ComparisonFailure junit . 
+added a year to the LICENSE 
+<UNK> <UNK> ' s patch 
+added twine twine requirements to requirements . txt 
+Bump version number to 1 . 5 . 1 
+remove debug line 
+prepare for next development iteration 
+Add a few line to the build . 
+Fix <UNK> <UNK> . 
+fixing typo in iOS example 
+<UNK> index to examples . list 
+<UNK> <UNK> . getAll ( ) is called 
+update <UNK> to 1 . 10 . 16 
+Add Batch off bug to Makefile 
+update screenshot 
+<UNK> the <UNK> <UNK> 
+add <UNK> . properties 
+remove right right float 
+Fix permissions 
+Rebuilds jdirectshow - <UNK> for 64 OS X . 
+remove unnecessary p . 
+update bullet bullet bullet natives 
+Fix test data 
+Gradle gradle 1 . 10 . 
+added shippable . yml 
+Fix <UNK> <UNK> . 
+Updating Alloy to rev . <UNK> 
+add <UNK> to the provision local 
+Remove unused import . 
+Add graphhopper - parent relativePath to pom . xml 
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+DskipITs DskipITs script for now 
+Fix stop crash in EthernetDataTracker stop 
+Add missing import 
+added <UNK> jar 
+LPS - <UNK> - Add description for description in portal - oracle 
+Fix typo in build . xml 
+renamed LiveDatabaseTest . java to test - integration 
+Delete junit jar 
+added mail gitignore 
+updated TODO 
+Added jOOQ - test - utils to the deploy profile 
+bump the version to 0 . 9 - rc - 1 
+Testing travis config 
+<UNK> <UNK> ( ) 
+upgraded logback to 1 . 1 . 9 
+Add settings . gradle 
+Added missing <UNK> <UNK> ( ) to CurrentUser <UNK> <UNK> 
+Rebuilds libjnopus . 
+Fix <UNK> completion . 
+added a header to the <UNK> example 
+add image for preference 
+Bump version to 2 . 2b2 
+updated audio test 
+Fix typo in UserManager static . 
+Add missing <UNK> to postinstall plist . jivesoftware . openfire . 
+<UNK> now ' s inner GroovyClassLoader GroovyClassLoader 
+Fix Readme 
+<UNK> <UNK> to CNAME <UNK> 
+Fix typo in dbinit - $ - $ 
+Setting default name 
+Fix <UNK> <UNK> 
+Updated dexguard project 
+Add main task to sample - kotlin 
+<UNK> the NOTICE file . 
+<UNK> the <UNK> instantiation instantiation . 
+Added missing file 
+updated icons to <UNK> 
+Fix pom . xml 
+<UNK> the <UNK> of the <UNK> to the <UNK> . 
+add missing test 
+Remove unnecessary dependency . 
+Fix <UNK> <UNK> . 
+Fixed bug in XmlNode context 
+Add gradle . properties to . 
+Set default semicolon to <UNK> 
+remove unused classLoader classLoader 
+<UNK> <UNK> 
+LPS - <UNK> prep next , use latest 
+Prepare next development version . 
+update screenshot 
+Removed unused code 
+Updated version to 22 . 0 . 1 
+update server - metrics to 0 . 2 . 2 
+add yui jar 
+update <UNK> 
+Fix typo in ant . properties 
+Ignore dependency - reduced . xml . 
+remove api - common from pom 
+Added vol GlusterfsMount GlusterfsMount to the pom . 
+Delete unused files 
+LPS - <UNK> Move SaveAction to note 
+remove jetty - nested - deployer 
+add STORM - 2092 to CHANGELOG 
+LRQA - <UNK> prep next , use latest 
+Add missing href href 
+added missing test case 
+Ignore releaseBackup . 
+enable <UNK> ( ) in django_test_manage ( PY - <UNK> ) 
+Set IndicesRequestCache IndicesRequestCache . INDICES_CACHE_REQUEST_CLEAN_INTERVAL , ) to ClusterSettings <UNK> <UNK> 
+Fix build . 
+Added ' progress ' to ' progress ' 
+<UNK> <UNK> <UNK> <UNK> <UNK> 
+Fix typo in build . gradle 
+update parent pom 
+<UNK> <UNK> test 
+added markdown4j jar 
+Bump the version number to 1 . 2 . 7 - dev 
+Fix PY - <UNK> of Django <UNK> 
+bump imapstore version to 0 . 3 
+<UNK> <UNK> . <UNK> ( ) . 
+Fix <UNK> ' s <UNK> 
+<UNK> , not throw a enclosing <UNK> 
+Fix typo in PluginDescriptionFile <UNK> 
+setting version to 1 . 0 . 136 
+<UNK> the <UNK> of the <UNK> activity when the <UNK> is not <UNK> . 
+updated <UNK> 
+<UNK> the <UNK> . 
+added AtomicReference version to hazelcast - documentation 
+Add mavenCentral ( ) to maven . gradle 
+Set default templateGenerator to grailsApp 
+update blueprints test 
+update cache module 
+Ignore files in . 
+Fix compileSdkVersion 17 
+<UNK> - <UNK> <UNK> - bigdata <UNK> - bigdata - integ tests to pass module 
+<UNK> the <UNK> file 
+<UNK> the <UNK> 
+added bin . pyc to . 
+Fixed disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu disableContextMenu <UNK> . 
+<UNK> 1 . 5 . 1 release 
+Delete sc_01 sc_01 <UNK> . 
+added reloadwe - <UNK> to config build . yml 
+<UNK> the <UNK> of the 80 of the 80 of the 80 
+bump jackson - jaxrs version to 1 . 9 . 7 
+<UNK> the <UNK> of the <UNK> . 
+<UNK> zip <UNK> . zip 
+Fix typo in build . xml 
+update sample - flexibledivider 1 . 0 . 0 
+ignore gitignore 
+Added project project 
+Use the latest test 
+Remove unnecessary dropdown 
+Modify minidns minidns minidns <UNK> 
+Remove version from plugin - ssh - machine 
+Removed svg svg - module 
+setting version to 1 . 0 . 69 - SNAPSHOT 
+adding aapt file 
+<UNK> travis to travis on JDK7 
+Added consoleOutput checkstyle to the contributors of the <UNK> config 
+update ws 0 . 4 . 31 
+added note to the contributors 
+<UNK> the <UNK> - server . 
+Removed unused import 
+Add new notifications for Travis CI 
+MinecraftForge / FML @ e1529845384f4935b7c11d4d36d25db51c0b9a31 Fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+<UNK> . 10 ( ) should return energy energy - <UNK> 
+Fix test script 
+Remove unused build . dependsOn 
+Fix typo in AggregationOptions - compat 
+Prepare version 15 . 0 . 3 . 
+Ignore build / 
+Added runtime - api to grails - hibernate . validation . GA to the test of the test 
+ignore dist directory 
+<UNK> 0 . 0 . 7 
+Make <UNK> executable 
+updated gl_list gl_list 
+<UNK> <UNK> ( ) in <UNK> ( ) 
+Added BytecodeGenTest * * * to pom . xml 
+Remove unneeded <UNK> . 
+remove unused code 
+Fix test 
+Updated CHANGES . txt 
+update support to latest <UNK> 
+LPS - <UNK> Move icon 
+<UNK> the <UNK> of the <UNK> to be <UNK> . 
+Fixed typo in lti - lti - For - For - For - For - For - For - For - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto - Proto
+Bump version to 3 . 1 . 0 
+Remove layout from Installation - server . 
+Fix typo in <UNK> 
+Bump ivy version to 2 . 2 . 0 
+Fix typo in build . gradle 
+Added STORM - 69 to Changelog 
+Fix build 
+<UNK> <UNK> ' s <UNK> 
+updated sc logo for <UNK> ( PY - <UNK> ) 
+Add jcenter to the repositories of the <UNK> repositories 
+Add THREADS THREADS build to sirius 4 . 0 . 
+Added missing font font in _misc of <UNK> 
+bump VERSION version 
+Fix msn <UNK> with msn . 
+<UNK> the <UNK> <UNK> when <UNK> is <UNK> . 
+LPS - <UNK> Move icons 
+LPS - <UNK> <UNK> should use the <UNK> <UNK> 
+Fix build . 
+Add <UNK> to gitattributes web - vendored - web - web 
+Fix <UNK> <UNK> <UNK> . 
+Add a changelog to the contributors . 
+<UNK> the <UNK> of the <UNK> to be <UNK> 
+remove redundant lines 
+Make <UNK> executable 
+removed unused hazelcast log 
+Updated <UNK> libs 
+<UNK> <UNK> roboguice - 2 . 0b1 
+Add hosts required to travis 
+add deploy . 
+add container based to travis 
+update gradle plugin 
+add action_bar_icons action_bar_icons action_bar_icons action_bar_icons 
+<UNK> the <UNK> <UNK> when <UNK> is destroyed . 
+setting version to 1 . 0 . 123 
+<UNK> the <UNK> of the <UNK> to be <UNK> . 
+update myalias p12 
+ignore log . log 
+documented - 2702 add CASSANDRA tableName to 2702 
+<UNK> the <UNK> 
+Updated <UNK> asset to reflect <UNK> <UNK> 
+remove unused method 
+Prepare next release 
+Add 333 333 333 db 
+bump to version alpha - 6 
+added build . gradle 
+Fixed height on <UNK> 
+LPS - <UNK> Fix typo 
+update linux - i386 . jar 
+added setproxy port to the setproxy port 
+Fix syntax warning in ToStringExample_pre usage_examples 
+bump pegasus version 
+add todos 
+added push_buxs . bat file 
+add reference 
+bumped parent version in 2 - SNAPSHOT to 2 
+Add <UNK> to ARTSurfaceView <UNK> 
+update parent version 
+LPS - <UNK> Ignore SF for now 
+Removed unnecessary pgl 
+add compile compile 
+Add <UNK> <UNK> 
+remove inputStream inputStream inputStream 
+Fix <UNK> <UNK> 
+Fix test data 
+Add travis config 
+Added finalName finalName finalName source to web . xml 
+Change package to roboguice . roboguice 
+adding " Busenbrenner " to dictionary 
+remove unused gant_groovy1 jar 
+Updated travis 
+ignore eclipse files 
+added missing description 
+<UNK> NOT MERGE - <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+removed unused ChangeLogParserListener . 
+Move the test to the correct package 
+remove sourceDirectory sourceDirectory sourceDirectory sourceDirectory scala 
+add <UNK> 
+added nbm_alias nbm_alias nbm_alias to nbproject gephi - 3 . 0 
+fixing test name 
+Fix bug in <UNK> 
+Add build . properties to build . properties 
+Updating Alloy to rev . <UNK> 
+fixed <UNK> ' s <UNK> 
+add a contributor badge to the README 
+Preparing release notes . 
+add link to README 
+remove version 
+Move license to json - json . 
+Delete junit jar 
+updated api images to reflect <UNK> 
+Don ' t use bazel - tools to bazel . 
+Fix quality flaw 
+Delete bg . 
+Added Sam Pullara Pullara to the list of developers 
+fixed failing test 
+setting version to 1 . 0 . 68 
+ignore tachyon properties 
+<UNK> the <UNK> of the <UNK> encoder . 
+Added consoleOutput consoleOutput to the main environment 
+<UNK> travis 
+Fix typo in pom . xml 
+removed BrowserLauncher2 BrowserLauncher2 <UNK> 
+<UNK> the <UNK> file to the correct directory 
+add the CHANGELOG for 362685 
+setting version to 1 . 0 . 73 
+Delete storm - core . js 
+added <UNK> <UNK> 
+<UNK> the <UNK> of the <UNK> 
+Remove unnecessary line 
+added words to <UNK> 
+added @ Deprecated 
+<UNK> <UNK> <UNK> <UNK> to <UNK> 
+added new example 
+added travis CI config 
+Add missing catch tag . 
+Fix <UNK> stop bug . 
+update <UNK> 
+<UNK> the <UNK> to use <UNK> - <UNK> 
+Added break to Extractor <UNK> <UNK> <UNK> 
+Fix permissions 
+remove <UNK> from CacheUpdater of <UNK> 
+add <UNK> 
+LRQA - <UNK> - Remove unnecessary code 
+ignore dictionary - web 1 . 0 . 2 prep next 
+bump version of SECONDARY_DEFAULT_DNS_IP 220 to 8 . 8 
+Add travis CI config 
+add missing logLevel 
+Added TODO to javadoc 
+adding <UNK> . py to ludirehak <UNK> . py 
+LEP - <UNK> - Add missing <UNK> 
+Change gradle to Wimer Wimer - 2 
+removed unnecessary line 
+added clover . license 
+bump version number for 4 . 2 release 
+update win32 - x86 natives 
+Changed version number to 2 . 1 - SNAPSHOT 
+<UNK> <UNK> ' s <UNK> <UNK> 
+add image for <UNK> 
+prepare for next development iteration 
+Fix <UNK> <UNK> . 
+Added <UNK> to <UNK> 
+Fixed typo in README 
+<UNK> <UNK> <UNK> 
+LPS - <UNK> Fix test 
+Removed pomPropertiesFile pomPropertiesFile pomPropertiesFile > 
+starting 0 . 5 . 4 - SNAPSHOT 
+<UNK> <UNK> <UNK> 
+Added <UNK> to Makefile 
+Add missing <UNK> to the plist of the <UNK> script . 
+<UNK> <UNK> . getOutputSymbols ( ) in SymbolExtractor <UNK> 
+Changed parent version to 4 . 
+Prepare library for development 
+Change type to percolator percolator percolator percolator 
+updated version 
+removed hazelcast jar 
+Add android android fullBackupContent fullBackupContent to rxlifecycle fullBackupContent mem 
+Delete CREDITS CREDITS CREDITS - IMSI - Catcher - Detector 
+MinecraftForge / FML @ 5d6dc5dce37e488188d6fc468c16e8a6183a3610 Fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+add image for <UNK> 
+Fix <UNK> <UNK> 
+<UNK> the <UNK> of the <UNK> 
+update linux - ppc64le natives 
+Fix typo in EmbeddedAppAndroid docs . 
+Fix log log 
+added missing task for <UNK> 
+bump pegasus version 
+Prepare next release v0 . 1 . 0 
+<UNK> the <UNK> script to be run . 
+<UNK> <UNK> <UNK> <UNK> 
+Rename demo4 . gif to demo4 demo4 . 
+<UNK> 0 . 0 . 7 
+Add setUniqueVersion names to the repositories of the <UNK> 
+add STORM - 1482 to CHANGELOG . md 
+add portal - web / aui to . 
+Fix typo in travis 
+remove unnecessary dependency 
+Added scope to test - classic 
+update CHANGES 
+updated <UNK> 
+update pdf 
+Remove unnecessary <UNK> . mSystemWindowInsetsConsumed ( ) 
+Added mk to <UNK> 
+<UNK> <UNK> ' s <UNK> <UNK> 
+removed ic_launcher 
+LPS - <UNK> Remove unused file 
+updated version 
+Added missing comboBoxDp 
+Removed unnecessary code 
+Add smaldini <UNK> to the contributors list 
+Smack 4 . 1 . 0 - rc3 
+Add missing <UNK> <UNK> to DomainValidator <UNK> <UNK> <UNK> 
+Fix heap spec for <UNK> 
+Updated version to 1 . 0 . 2 
+LPS - <UNK> Remove unused images 
+adding gradle . properties 
+LPS - <UNK> - Add clearCache property to interface 
+Added STORM - 274 to Changelog 
+added parcour @ parcour to travis build 
+Updated ioutils 
+Ignore node_modules node_modules node_modules node_modules 
+Add morganchen12 morganchen12 to CONTRIBUTORS 
+Ignore iml files 
+Set classpathScope compile to compile 
+Change the build of the build . 
+remove unused fontawesome ttf 
+Fix typo in return curr curr 
+setting version to 1 . 0 . 72 - SNAPSHOT 
+Fix task of smack - core 
+Fixed typo in classes 
+<UNK> <UNK> <UNK> <UNK> 
+Ignore library files 
+Fixed typo in README . 
+<UNK> the <UNK> 
+<UNK> <UNK> <UNK> 
+Add jdk8 to travis build 
+LPS - <UNK> - <UNK> <UNK> <UNK> <UNK> 
+fixed typo in reference name 
+update druid version 
+add script to travis 
+Add missing import 
+<UNK> changes to reflect <UNK> changes 
+LPS - <UNK> Ignore SF for now 
+updated CHANGES . txt 
+Add libs to the build library 
+Add a note to the XML file . 
+update xercesImpl version 
+Add new <UNK> 
+add screenshots 
+Fix typo in XMPPConnection smack annotation . 
+Remove unused code 
+added com . yalantis . ucrop * keep 
+LPS - <UNK> - Add new <UNK> to fit <UNK> 
+updated wiki snapshot 
+Push build . 
+Testing <UNK> with forked 8 
+set test to count 
+Fix typo in angular externs . 
+<UNK> - > 1 . css to 1 . field for <UNK> 
+LPS - <UNK> Add <UNK> to Shopping # <UNK> 
+Updated icon for <UNK> . 
+Fix <UNK> ' s <UNK> . 
+add hidden to ImageStylePropTypes . js 
+updated <UNK> 
+Fix build version 
+Removed debug code . 
+<UNK> the <UNK> of the <UNK> button to be <UNK> 
+add log4j jar 
+add screens webm 
+Updating Alloy to rev . <UNK> 
+Remove <UNK> . SkColor CURRENT_FRAME_COLOR 0xcf5faa4d <UNK> 
+remove unused View 
+Removed unused <UNK> . 
+Remove unused code . 
+removed @ SafeVarargs from testdata ( PY - <UNK> ) 
+Delete build . 4 
+Ignore project files 
+Updated CHANGES . txt 
+add jar for <UNK> 
+Add Trevor John to pairs 
+<UNK> <UNK> params 
+Added missing dependency for build . gradle 
+remove unused build 
+Change submodule to git 
+Added a hide tag to the <UNK> . 
+add a Boat interface for <UNK> 
+<UNK> the <UNK> of the <UNK> <UNK> . 
+Fix typo in webkit_notifications externs 
+Fix typo in chrome_extensions pushMessaging . 
+add STORM - 807 to CHANGELOG . md 
+Add missing @ Override annotation 
+Updated version to 5 . 0 . 0 - alpha2 
+Fix build . gradle 
+<UNK> d454ff4f6cf871ff741a669414aa7d61b5130c7a <UNK> 
+Ignore out directory 
+add missing changelog 
+graylog2alerts example . org example 
+Fix typo in webkit_notifications externs 
+<UNK> <UNK> ' s <UNK> 
+<UNK> the <UNK> callback 
+add GeneratedJava * . 
+Change server to 100 
+updated CHANGES . txt 
+LRQA - <UNK> Add new property 
+Add check to travis 
+<UNK> pom . xml to 1 . 0 . 21 - SNAPSHOT 
+add SNAPSHOT for deepwater SNAPSHOT 
+Updating Alloy to rev . <UNK> 
+update build to latest - core 
+<UNK> the <UNK> . pdf file 
+remove unnecessary code 
+Delete DeepLearningRVignetteDemo DeepLearningRVignetteDemo zip 
+Delete moco - core 
+add package . html 
+updated header 
+update classes library 
+LPS - <UNK> Move PGLogin testcase 
+added javadoc 
+Add minSdkVersion to the build . 
+remove unused code 
+bump version to 0 . 5 - RC2 
+LRQA - <UNK> Set new property to blacklist blacklist names 
+<UNK> the <UNK> . osgi . 
+Add GradleBuild task to the build . 
+fixed <UNK> ' s <UNK> 
+update reference for 1 . 3 . 0 
+ignore gitignore 
+Added STORM - 232 to Changelog 
+Ignore prj . el 
+Fix typo with <UNK> . 
+<UNK> the <UNK> <UNK> 
+<UNK> jar 
+Bump common ref for <UNK> <UNK> fix . 
+added <UNK> 
+Added translation using Weblate ( <UNK> ) 
+Add stats to <UNK> . 
+Fix typo in example script 
+added <UNK> 
+update unresolve_mv gif 
+update mac 
+LPS - <UNK> update alloy - taglib . 
+Fix typo in <UNK> . 
+MinecraftForge / FML @ 741e172ffe163f0dd3018e1474af46ef0696396a Fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+add jacoco_build . sh 
+Updated jar for Spider 1 . 0 . 0 
+Remove redundant 19 
+LPS - <UNK> - <UNK> - <UNK> - <UNK> links links will have vertical elements 
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> . 
+added class diagram for factory pattern 
+Updating Alloy to rev . <UNK> 
+Set version to 5 . 
+Fix typo in tachyon - dist . 
+Fix typo in <UNK> . 
+Add compile property to the build . properties file 
+Fixed min min min min 
+<UNK> <UNK> to be <UNK> <UNK> 
+Add <UNK> operation <UNK> . 
+Bump common ref for <UNK> <UNK> fix . 
+Prepare version 19 - beta3 . 
+<UNK> the <UNK> of the <UNK> 
+Fix bug with <UNK> . 
+removed example from Contributing - pull Awesome 
+update gif 
+remove spurious An Iterator 
+add STORM - 1268 to CHANGELOG . md 
+updated LeonidsLib jar 
+use <UNK> 
+Added a <UNK> icon to the mdpi icon 
+Removed unused code 
+Rename TODO to TODO . md 
+Added readerwriter - injection to the pom . xml 
+Bump version to 1 . 0 . 0 - beta . 2 
+updated studio 
+Add circle . yml 
+install - PreducedMemory - <UNK> travis the <UNK> ' s ' script ' 
+<UNK> <UNK> <UNK> 
+Change target to 19 
+remove parallel <UNK> 
+Rebuilds jndirectshow . dll for Windows 32 - bit . 
+Updated <UNK> to guava - jdk5 guava 
+Added twitter - search to the pom . 
+add <UNK> 
+Remove index . html 
+added missing test file 
+Fix <UNK> <UNK> bug 
+Fix <UNK> <UNK> ( ) 
+update maven - compiler - plugin to 3 . 0 
+LPS - <UNK> Add missing packageinfo 
+Delete unused icon 
+fixed python python python python 
+adding words 
+Added travis status badge 
+Create tempFile . txt 
+bump scala version to 3 . 1 . 0 
+set the <UNK> <UNK> to the <UNK> 
+<UNK> <UNK> <UNK> <UNK> 
+Added xstream xstream + to dsel 1 . 4 . 8 
+ignore tightdb - java 
+Removed redundant previousVersion previousVersion . 0 . 0 
+Bump common ref for <UNK> <UNK> fix . 
+add # 3479 to CHANGES 
+add tachyon . master file 
+bump version number to 2 . 0 . 6 
+Updated readme 
+Removed unused import 
+Prepare next release 
+Fixed typo in ColorChooserIntentionAction final . 
+Fix <UNK> <UNK> in <UNK> 
+<UNK> the <UNK> of the <UNK> ( ) method . 
+LPS - <UNK> update jar 
+Add new apt apt apt to Travis CI 
+Add truth jar 
+Prepare version 22 . 0 . 0 - beta5 . 
+Added a a " a " in " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a " a "
+Remove unnecessary print 
+Removed unnecessary semicolon 
+remove unused code 
+LPS - <UNK> Remove portal - - build . gradle 
+<UNK> topic message for <UNK> topic 
+Modify otr4j otr4j otr4j <UNK> 
+added API improvements to CONTRIBUTORS 
+LPS - <UNK> Remove unnecessary <UNK> 
+Fix <UNK> <UNK> 
+add STORM - 756 to CHANGELOG . md 
+ignore sandbox 
+Fixed typo in css bar 
+Bump version to 22 . 0 . 0 
+update aboutlibraries aboutlibraries 
+Removed unnecessary System . out . println from HttpBrowser httpRequest 
+<UNK> the <UNK> of the ci of the <UNK> 
+Removed ql leveloffset ql from docs . 
+<UNK> the <UNK> <UNK> when <UNK> the <UNK> . 
+updated hbase_datastore jar 
+Add missing list to helios list of <UNK> 
+Ignore MANIFEST . MF 
+Delete ecjsrc jar 
+Delete README . md 
+update delve 
+Fix typo in Jenkinsfile Jenkinsfile workspace 
+Fix typo in sonar - web 
+Ignore IntelliJ files 
+<UNK> PImage a a change of the change 
+Added missing file 
+Updated <UNK> version to 1 . 3 . GA 
+ignore rrd rrd rrd directory 
+update win32 - x86 natives 
+Add @ @ Test annotation to AbstractTestQueries <UNK> . testOuterJoinWithCommonExpression ( ) 
+Fix typo in build . gradle 
+Updated parent version . 
+LPS - <UNK> - <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+Add missing install - y - apis to yum - dependencies 
+bump engine . io - client - client 
+bump version to 2 . 15 
+update sparc natives 
+<UNK> the <UNK> of the <UNK> 
+add reflect - reflect dependency to 0 . 1 
+updated <UNK> 
+Add <UNK> to the <UNK> of the <UNK> of the <UNK> <UNK> 
+Add missing @ Override annotation 
+<UNK> <UNK> ' s <UNK> 
+added missing brew install 
+add image for <UNK> 
+Updated submodules to latest head 
+Add <UNK> operation <UNK> . 
+Removed html <UNK> 
+Fix <UNK> <UNK> . 
+fixed <UNK> 
+<UNK> the <UNK> jar for the <UNK> . 
+remove OWNERS OWNERS 
+Updated library reference 
+Add @ const const to ie_dom const const . external . showModelessDialog . 
+bump version to 2 . 8 - SNAPSHOT 
+Added license header 
+Change tests to 17 
+Removed jobqueue - <UNK> ' s ' script ' 
+Prepare next development iteration 
+Delete local file 
+LPS - <UNK> Add <UNK> to list of <UNK> 
+Removed extra line 
+LPS - <UNK> update jar 
+Add travis config 
+Fixing transitive - ness of provided 
+updated xxhdpi icon 
+add <UNK> <UNK> 
+Fix bug in <UNK> 
+<UNK> <UNK> <UNK> test to NOPASS until it <UNK> . 
+<UNK> <UNK> ' s <UNK> . txt 
+<UNK> to 1 . 4 0 . 
+update <UNK> 
+Removed unused file 
+<UNK> to SNAPSHOT release 
+<UNK> microphone the <UNK> binaries for Windows . 
+Prepare next release version 
+update ognl version 
+Removed unused application 
+setting version to 1 . 0 . 119 
+added <UNK> 
+updated AUTHORS 
+removed comment 
+Updated version to 1 . 1 . 5 
+Added translation using Weblate ( <UNK> ) 
+Rename LICENSE to LICENSE . txt 
+remove unused import 
+<UNK> <UNK> <UNK> <UNK> 
+Added Joachim Baumann Baumann to contributors 
+Fix build on <UNK> 
+Updated jar for Spider 1 . 0 . 0 
+Updating Alloy to rev . <UNK> 
+bump version number 
+<UNK> <UNK> . onClick ' t KeyguardPINView keyguard in <UNK> 
+Fix <UNK> <UNK> 
+Fix <UNK> <UNK> <UNK> to TYPE_TEXT_VARIATION_WEB_EMAIL_ADDRESS <UNK> 
+add package for package . 
+Removed unnecessary import 
+add extra - google - m2repository to travis 
+update asm 
+LPS - <UNK> update portal jar 
+<UNK> now ' t throw <UNK> 
+LPS - <UNK> update css 
+update libwebp 
+added clhm jar 
+add <UNK> 
+update <UNK> to 23 . 1 . 1 
+Fix install - boost - boost script 
+Create README . md 
+Added vcs - log - graph - graph remote to build . gant 
+Fix repositories for build - common 
+add <UNK> <UNK> 
+Make SubscriptionCallbackApi21 static static class 
+added React use React React to React use - native 
+Delete change - branch . 
+LPS - <UNK> Add 555 JARs 
+<UNK> the <UNK> of the <UNK> to be <UNK> 
+Fix typo in hibernate hibernate hibernate example 
+update <UNK> 
+Fix syntax error in zeppelin - web - web 
+Fix typo in Javadoc 
+<UNK> off <UNK> <UNK> 
+<UNK> <UNK> . jar ( ) . 
+Ignore test - output 
+Add a bin for the travisci_build / bin / env . 
+ignore versionsBackup . xml files to ignore <UNK> files 
+adding " Eurasian " to " Eurasian " dictionary " 
+<UNK> <UNK> 
+Fix test 
+Remove link of the <UNK> 
+LPS - <UNK> Move integration to test 
+Fix - <UNK> <UNK> margin on <UNK> 
+prepare release checkstyle - 7 . 3 
+Updated FML to FML with <UNK> <UNK> 
+update gif 
+Updated changelog 
+removed unused protobuf jar 
+Fix PY - <UNK> of Django <UNK> runner runner 
+Fix build 
+Add screenshots 
+Updating Alloy to rev . <UNK> 
+LPS - <UNK> - <UNK> <UNK> <UNK> <UNK> 
+<UNK> index to index . list 
+removed unused code 
+Fix <UNK> layout in <UNK> 
+updated nodpi nodpi 
+Setting default name for multi - project 
+Remove unused import 
+Add travis CI 
+LPS - <UNK> Move update . 
+<UNK> the row margin in row 
+<UNK> - <UNK> <UNK> <UNK> <UNK> 
+Updated <UNK> version 
+<UNK> the access of the <UNK> <UNK> when <UNK> access . 
+Removed unused code 
+Bump the version number . 
+bump to 2 . 0 beta 11 
+Fix typo in build . gradle 
+Upgraded parent version . 
+<UNK> the <UNK> of the <UNK> . 
+Bump the version to 2 . 8 . 8 
+Updated <UNK> . 
+Set mLeft 0 . 5 ( ) for <UNK> . 
+LPS - <UNK> - <UNK> <UNK> does not <UNK> <UNK> 
+add link to German languages 
+add <UNK> 
+Updates the chat room contacts icon . 
+Fix bug with <UNK> notification appearance . 
+<UNK> <UNK> ' s layout 
+fixed typo in readme 
+add demo gif 
+Add bin / bin to the translator list . 
+setting version to 1 . 0 . 107 - SNAPSHOT 
+update abs version 
+Fix typo in global - settings . 
+add cache to Travis build 
+Fix build 
+<UNK> <UNK> 
+update fastjson - 1 . 1 . 19 - jar 
+Removed unnecessary import . 
+added CHANGES 
+remove debug code 
+add <UNK> 
+<UNK> the <UNK> <UNK> . 
+<UNK> test test 
+Added missing @ Override annotation 
+Removed println 
+add notes 
+Upgrade <UNK> to 1 . 9 . 7 
+remove protobuf protobuf 
+Delete color_demo color_demo <UNK> . 
+LPS - <UNK> Remove unused @ SuppressWarnings 
+Smack 4 . 1 . 0 - alpha6 
+Set the default of the <UNK> to 14 
+Bumping commit - client to the version 
+Add Block type to the sample_missions of the sample_missions of <UNK> 
+update linux - x86 natives 
+Delete helloworld2 meta . meta 
+remove unused import 
+Fix tightdb dependency in pom . xml 
+Fix <UNK> <UNK> 
+Delete js . jar 
+remove local local srcFile local 
+add <UNK> 
+remove margin of p 
+<UNK> the README 
+Rebuilds libcivil . so for Windows OS X . 
+Fix typo in <UNK> 
+<UNK> ymsg_support <UNK> <UNK> <UNK> 
+Upgraded maven - release - plugin to 2 . 1 
+updated logo 
+Fix typo in jOOQ example 
+Add Travis CI config 
+Fix <UNK> . 
+Added Mike Dillon Dillon to contributors 
+<UNK> the <UNK> of the <UNK> of the <UNK> 
+added <UNK> 
+Prepare next release v0 . 0 . 0 
+Remove unused import 
+updating version 
+Removed unnecessary @ Override 
+Updated <UNK> - core - 2 . 4 . 0 - SNAPSHOT 
+Fix <UNK> <UNK> 
+LPS - <UNK> Fix <UNK> 
+remove kk kk 
+upgraded netty to 4 . 0 . 17 
+Removed unused @ Repeat . 
+Fix NPE in <UNK> . 
+ignore target directory 
+Fix <UNK> <UNK> <UNK> . 
+Fix typo in testGroupings testGroupings script . 
+add todo 
+<UNK> - <UNK> <UNK> the <UNK> <UNK> 
+add extra - android - m2repository to travis 
+<UNK> . sSystemRendererDisabled HardwareRenderer <UNK> <UNK> 
+update build tools 
+remove unused asset 
+add STORM - 1233 to CHANGELOG . md 
+<UNK> to 3 . 0 . 0 - SNAPSHOT 
+try sdk - build 
+Change version number to 1 . 0d 
+remove <UNK> <UNK> 
+Fix targetPackage tests in AndroidManifest . xml 
+Updated <UNK> 
+fixed typo in CompositeRunnerTest CompositeWithClass 
+Fixed console console ( Throwable - <UNK> ) 
+<UNK> the setFocusTraversalKeysEnabled setFocusTraversalKeysEnabled setFocusTraversalKeysEnabled . 
+add <UNK> <UNK> 
+Fix typo in pom . xml 
+Fix ViewPropertyAnimator <UNK> bug in ViewPropertyAnimator ViewPropertyAnimator 
+update cucumber - features to fix with <UNK> 
+Make <UNK> executable 
+turn off color 
+<UNK> the clear <UNK> when <UNK> is destroyed . 
+Fix <UNK> <UNK> in <UNK> 
+Fixed typo in <UNK> ( ) 
+<UNK> <UNK> <UNK> in <UNK> 
+<UNK> roboguice roboguice - 2 . 0 - ignoreme 
+Prepare release HikariCP version . 
+Change pullapprove team to team team 
+add notes for notes 
+Added a method to the due of the <UNK> 
+removed unused android - support - v4 . 
+Add target project to . 
+<UNK> fetchIdea 14 . 1 . 4 
+add image for preference 
+updated install_mongodb . 
+Removed unused Roboto Roboto ttf 
+<UNK> <UNK> ' s <UNK> 
+Delete spark . rar 
+<UNK> - <UNK> - data the example - info - data . 
+Removed unnecessary - parallel from the build 
+Ignore project files 
+Add Gradle dependency 
+ignore site / site dir 
+<UNK> the <UNK> of the response of the response . 
+update commons - collections to 3 . 2 . 2 
+<UNK> the <UNK> of the <UNK> . 
+<UNK> the <UNK> of the <UNK> to avoid the <UNK> 
+Remove unnecessary code . 
+Updated changes 
+added note to the contributors 
+Added Mike Rosseel to AUTHORS . 
+setup_clean_workspace setup_clean_workspace test <UNK> in test 
+<UNK> crash to 0 . 11 . 5 
+<UNK> the <UNK> <UNK> file 
+Changed neo4j - kernel to SNAPSHOT . 
+setting version to 1 . 0 . 110 - SNAPSHOT 
+update ColorPicker commit 
+LPS - <UNK> Move icon 
+Ignore files 
+remove libs / libs / cordova cordova cordova in <UNK> 
+Built the latest snapshot snapshot 
+<UNK> <UNK> <UNK> 
+Removed unused icons 
+remove commons - plugin - class dependency 
+update studio 
+add demo - release . 
+remove unnecessary prop 
+Rename LICENSE to LICENSE . txt 
+add changelog for 999 - 999 
+add german <UNK> 
+remove todo 
+added <UNK> Injection MsSQL MsSQL 
+turn off <UNK> 
+add library to the library 
+<UNK> the comment of the <UNK> . 
+updated studio 
+update TODO 
+Remove jetty - ssl . 
+update emitter version 
+add missing DEPRECATED DEPRECATED of graylog2 
+<UNK> the <UNK> <UNK> 
+LRQA - <UNK> Add new testray component 
+Delete super - csv jar 
+Updated config version 
+add <UNK> icon 
+Removed HdrHistogram / HdrHistogram . 
+Prepare next release 
+Ignore Generated by zeppelin - zeppelin - examples 
+<UNK> the build . 
+AsyncQueryBatchCursorSpecification waitForRelease waitForRelease connectionSource test 
+Add jdk to travis matrix 
+Fix typo in variants - binaries 
+renamed test to test 
+added ' 005 ' ' to ' xml ' 
+updated test test 
+LPS - <UNK> - <UNK> SF should remove a <UNK> 
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+Push version to 9 . 1 , 189 <UNK> . 
+Added a close method 
+Added STORM - 1196 to Changelog 
+updating readme 
+Removed opengl . jar 
+update <UNK> to 1 . 2 . 5 
+LPS - <UNK> - <UNK> - <UNK> - Print links links for IE8 <UNK> links 
+added leveloffset . 
+remove unused _blank 
+<UNK> - <UNK> - Set default default to yes yes yes yes yes yes yes forkmode forkmode forkmode forkmode forkmode forkmode forkmode forkmode <UNK> 
+turn off stream to Time stream 
+bump the version of pom . xml to 0 . 2 . 4 
+ignore file 
+Fix build . gradle 
+Add version to version of build . gradle 
+Updated version to 1 . 1 . 0 
+added disable disable monitor to sqllogictest <UNK> 
+add words to <UNK> 
+Missing _collections _collections 1 . 125 for Python python 
+Set <UNK> to env 
+Remove unused @ return tag 
+Fix spock spock test 
+<UNK> the <UNK> <UNK> 
+<UNK> <UNK> 
+trying CircleCI tests to avoid <UNK> 
+add readMoreTextViewExpanded screenshots 
+Add missing PROPNAME_PARENT statement 
+Fix typo in index 
+Added test - * . 
+Added lib 
+<UNK> statistics to 2 . 0 . 0 - SNAPSHOT 
+added travis CI 
+remove unnecessary tarLongFileMode tarLongFileMode tarLongFileMode gnu less <UNK> 
+Fix release of <UNK> 
+<UNK> the build of the groovy min min . 
+remove unused code 
+add <UNK> <UNK> icon 
+bump version to 1 . 0 - RC1 - SNAPSHOT 
+<UNK> - <UNK> <UNK> . java . <UNK> to android / ZLDialogManager . 
+Removed unused code 
+<UNK> should use a <UNK> 
+Removed unnecessary line 
+<UNK> - <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+updated todo 
+updated version 
+Fix mongo - java - driver 2 . 11 . 0 
+Fix build properties 
+added <UNK> 
+added another <UNK> <UNK> 
+<UNK> the initWebSocket initWebSocket public 
+add <UNK> <UNK> 
+Added CHANGES . 9 . 9 to CHANGES 
+Added missing include . 
+added gitignore 
+added debug for <UNK> 
+update demo 
+setting version to 1 . 0 . 134 - SNAPSHOT 
+Fix debug stream calculation . 
+Delete ic_launcher . 
+add missing constant 
+updated version to 1 . 1 
+remove pooled pooled pooled 
+fixed test script 
+add hg4idea " , ' hg4idea " to pycharm_build python 
+<UNK> the <UNK> of the <UNK> list of the <UNK> <UNK> 
+bump version of cqlsh to 3 . 1 . 6 
+add STORM - 898 to CHANGELOG . md 
+add <UNK> <UNK> ttf 
+added missing useTextureView xml 
+LPS - <UNK> Fix selection 
+Update travis tools tools to 24 . 0 . 2 
+Bump the version number to 1 . 8 . 25 
+added twitter . md 
+Added getChangeLogParameters ( ) to Liquibase <UNK> 
+updated MaterialDesignIconGeneratorPlugin jar 
+Add missing LOCAL_DEX_PREOPT LOCAL_DEX_PREOPT 
+Added a print for the svm_print_interface print 
+Fix <UNK> <UNK> 
+Add circle . yml 
+Bump the version number to 1 . 0 . 8 
+Add missing @ JsonSerialize to StopType <UNK> of <UNK> 
+Bump the version number . 
+Fix test for <UNK> 
+<UNK> <UNK> ' s <UNK> 
+<UNK> Store <UNK> 
+Set syncDoc syncDoc javadoc to avoid <UNK> 
+update internal framework to API 19 ( <UNK> ) 
+<UNK> CC 
+add cache to Travis build 
+<UNK> . <UNK> ( ) if it ' t draw PyDBDaemonThread PyDBDaemonThread 
+ignore sync - api 1 . 0 . 1 prep next 
+remove stopTableEditing stopTableEditing stopTableEditing 
+updated version 
+add thrift to <UNK> 
+add TODO 
+<UNK> <UNK> ( ) in <UNK> ( ) 
+remove unused PlanRewriter 
+<UNK> - <UNK> - remove comment for bbb - record 
+Remove the <UNK> file . 
+Prepare version 15 . 0 . 2 . 
+<UNK> <UNK> ' s <UNK> ( ) 
+Move start to the <UNK> directory . 
+add image for preference 
+add cd . . to install - dependencies 
+Use Gradle 2 . 2 . 1 snapshot 
+Bump common ref for <UNK> <UNK> fix . 
+Fix typo in YellowBox style . 
+Updated apk 
+add a README file 
+Revert " Added Maven Maven " 
+Fix typo in sql . properties 
+set memory to tests for <UNK> 
+<UNK> 0 . 8 . 0 - RC1 RC 0 . 8 . 0 - RC1 
+<UNK> test_c9_GLM_rc_fvec <UNK> . py . 
+Updated travis config 
+<UNK> memory memory when <UNK> is <UNK> 
+update CHANGES . txt 
+bump version to 0 . 4 . 7 
+remove README 
+added invoker properties for invoker - non - module 
+Add Corey Downing Downing to . 
+Fixed test error 
+Ignore cardview - v7 ' s cardview - v7 
+<UNK> <UNK> 
+set version for 7 
+Add apply plugin to the build file 
+Bump the version number . 
+Ignore gitignore 
+Fix typo in package . json 
+upgraded guava to 15 . 0 

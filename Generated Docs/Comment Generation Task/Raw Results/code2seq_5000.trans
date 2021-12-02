@@ -1,0 +1,3398 @@
+returns the instance of the current state of this node
+determines if windows file system is in use
+returns the name of the name of the table
+returns the number of locks currently being used to store the locks
+flushes the buffer and the underlying stream
+removes a global global global listener listener
+returns the number of key value mappings in this symbol table
+called when the user presses the cancel button
+returns a list of rows that match the given offset and offset
+returns whether the content has been changed
+returns the number of elements in the list
+removes the given package from the list of those classes that have been built by
+visits a non standard attribute of this method this method
+generates the instruction to push the given handle instruction
+create a new address with the given values
+this method is called when the connection is closed
+returns true if the underlying stream has a valid name
+returns the ordinal of this primitive value
+add a new object to the list of methods
+adds a float to the alpha
+locates a resource with the given id from the current node
+destruction of the servlet and it s no own thread
+parses the parser to the text
+checks if the number is null
+create a inputstream from the given url
+execute a procedure command
+returns true if the time is in the specified time
+returns true if a fake drag is in progress and
+removes all the mappings from the table
+visits a type argument of the last visited class or inner class type
+writes a long to the buffer at the given index
+tests if object is equal to objects
+notify listeners that the search is available
+convert a byte to a signed value
+creates a new thread with the specified name and closure
+returns true if field model is set has been assigned a value and false otherwise
+returns a string containing the values of this argument and the specified collection of
+add a new account to the current thread
+decodes data from base notation and byte in base format
+add a header to the request
+returns a random integer between two integers
+returns true if the table contains the given key
+create a basic basic block of a basic block
+notify all registered listeners that the operation has been performed
+smooth scroll by a y delta
+adds another imagecontainer to the list of those interested in the results of the request
+updates the ui for the border of the border
+returns a text representing the text of the text of the text
+checks if two matrices are the same
+create a new instance of the given object with the given object and a
+paints the specified graphics to the specified graphics context
+paints the border of a menu
+returns a new instance of
+returns true if the socket is currently open
+create an instance of the given class
+return the exit nodes for the given graph
+shows a menu item in the view and visibility
+visits a field instruction
+creates an exception with the given error message and a string
+returns the prefix for the given word
+returns the list of multiple entries for the template
+create a logger for the given consumer
+returns the callback callback
+release the given one position in the list
+returns a cell with the given steps
+checks whether a segment is contained in the specified range
+returns a string containing the number of characters in the given offset
+make a literal value for the given value
+sends a notification
+returns the given template for this template
+create an integer value from a value
+returns the accept response header to the current content type
+reads the contents of the stream to the stream
+returns the size of the local size to be used in a long
+create a new eventid id id
+reads the contents of a resource into a string and encoding
+returns the maximum element of this vector and values
+replace the range of range range
+add a child to the child
+convert dp to px
+checks if the given type is a valid classpath
+returns a test suite
+test that a connection id is correctly correctly created
+test if a stream is read
+returns a timestamp with the specified number of days
+element by element multiplication in place a a
+returns true if the given event is a given index
+handles the mapmousesupport event by invoking the componentshown methods on listener class and a listener
+adds a comment to the list of the comment
+set the properties of the user
+removes the first task from the queue if they are not already pending
+returns a new builder for a new instance of the given builder
+closes the search text and closes the text
+returns true if a fake drag is in progress and
+clear all memory memory
+adds a filter to the list of filters
+checks whether the filename are equal
+removes a single class from the proxy
+visits an annotation on a local variable type and local local type
+checks if the data is contained in the data
+returns the code that represents the given short code
+returns true if the left of the right right of the right right is right
+checks if the expression is a match
+called to close the stream
+step to be called when a new node is in the debugger
+checks if the namespace is a prefix
+called when the object is finished
+removes all listeners from the list
+waits for the current thread to wait for the specified duration
+visits information about a class
+removes the given sub filter
+returns true if the pattern is a valid value
+this method is called when the user has been started yet
+runs the given
+launches the intent for the given address
+default default default attribute of the attribute type
+check if the directory exists
+generate the device and generate the address
+returns true if the underlying stream has a valid name
+prints error code to the output stream
+adds a comment group to the group
+updates the output stream
+load a new test
+creates a section section for a section
+apply the properties to the object
+called when the user presses the cancel button
+resets the context to the default state
+returns true if c is a class of c
+replaces all the characters in the name of the given string
+set the default subscription to be performed
+set header value for this header
+returns true if the given channel is a event
+returns true if the given name is a child of the children
+checks a method signature and signature
+commit rollback records in the current transaction
+this method is called when the user presses the run to run
+returns the string representation of the operand
+test method with non zero value
+removes the given item from the list
+returns the value of the user in the response
+selects the node and its graph
+add a new segment
+returns the closure of the given closure
+returns a string representing the given type
+shows the given view in the view
+reads the field ids from the given position
+checks if node is a ancestor of parent
+initializes the initial region for the variables
+initialize the properties of the current configuration
+get the number of channels that are currently in the database
+returns the index of the given column name
+reads one time values from the camera that are needed by the app
+clears the cache for the cache
+removes a listener from the set of listeners events
+clears the credentials for this client
+returns the json representation of the object object
+helper method to create a merger of this translator with another set of translators
+removes the entity from the list of entities
+prints a message to the output stream
+adds a child to the list
+add a color to the list
+test that a single page is correctly empty
+returns the distance to the given vector and the specified number of degrees
+delete a file and the path
+removes the entry identified by key from the cache
+updates the current attribute values for the current user
+writes the id to the output stream
+reconstructs object on unmarshalling exception
+find the node in the tree
+process a resource event event and the event
+calculates the number of bits per counter
+test that a file is a directory
+find all results for a given text
+resets the component to the initial state
+smoothly animate mdraggingpane to the target x position within its range
+called when the user is closed
+returns the type of the current type of the given type
+dispose of dispose and and disposes of this dispose
+creates a panel with a message and a component
+add a prefix to the end of the list
+factory method to create a new viewdraghelper from the parent
+writes the contents of the stream to the stream
+convert milliseconds to a string
+destruction of the servlet and it s no own thread
+returns an iterator over the plugins in the map
+returns a string representation of the given location
+returns the first character of the given string
+checks if the block at the given position is a block
+returns the length of a vector
+create a new address from the given node
+removes a listener from the list of listeners
+generates the instruction to store the top stack value in the given local variable
+returns true if the selected item is selected
+make a bit value from a byte value
+check if the given number of coalescent is in the given condition
+returns the index of a key in the map and
+permissions is the permission to access the permission array to the permission
+loads the given
+computes the average average of the average score of a given column array
+returns a new instance that is the same as this object and
+removes the mapping of this map from the list and
+this method is called when the user s the provided template
+set the graph to be a new value in the graph
+returns the manhtattan distance from this double object
+tests the of a number
+writes the contents of the stream to the stream
+determine if the supplied view is under the given point in the parent view s
+serializes the given object into a byte array and the given
+add a list of listeners to the storage
+process the http get request
+logs requests that took over slow request threshold ms to complete
+returns whether the current state is running
+cancels a task with the specified id
+enable the current debugger
+test test with a single test
+checks if the column is visible
+creates a new filter with the given filter and filter
+delete all the rows in the database
+removes a listener from the list of listeners that are notified when the state of
+checks if the message is a valid ttl and
+adds the given package to the list of packages that are not in the list
+adds a propertychangelistener to the listener list the listener s current state listener
+sorts the specified range in the order of the specified range
+returns the left point in the envelope
+makes a new instance from the given hour and minute
+switch to specified lex state by
+adds a child to the parent
+plays a music file
+returns a list of all of the messages that are not in the subscription
+returns the number of elements in this deque
+add a new item to the list of
+remove a new address from the database
+visits a line number declaration object
+creates a new with the given header line
+method to return type of a method type from a given receiver
+creates a new hour based on the given number of minute and second
+checks if factory is enabled
+clears all results in the results
+sets the current live node to the live live node
+prints the specified number of errors in this stream and the output
+add a new to the
+send a block to the given player
+decodes web safe base content in byte array format and returns the decoded data
+is the response code a error
+checks if the stream is a stream
+allows derivative classes to handle the xml attrs without creating a typedarray themsevles
+adds a new key value pair to the map
+update the second template
+sets the type of the service to use
+create json representation for the given target target
+process the http get request
+returns true if the given source is a target object
+create a new class class
+creates a new context for this context
+appends a new buffer to the end of the buffer
+appends a string to the given file
+execute a sql update statement
+marks the current state of this exception
+add a view to the view
+returns a string representation of the argument and the boolean
+returns hex encoded as long
+is the response code a not modified
+this method is used to handle a method call
+handles the click event
+test the user s configuration
+returns true if the scrolling view should be scrolling
+clears the cache and clears the cache
+reads the next header from the file
+returns a result of the given key
+set a string value in the map
+get the next token or a string
+convert a json string to json
+produce a string from a number
+reads the contents of a file line by line to a list of strings
+returns the string representation of this object and
+convert an array of strings to a string in the order to the
+returns true if the given view is contained in the view
+returns true if the given event is a given index
+process the http get request
+set the job to be used
+calculates the log rate
+tests the functionality of the method which allows to return the expected value
+returns the index of the first occurrence of the specified object in the specified array
+determines if the given keyword is a valid keyword
+pushes a value in the stack
+called when the instruction is finished
+adds the given tag to the list of cells
+restarts the current gesture
+make a literal value for the given value
+check if set set set set set to set of set
+test that a page
+returns whether the server is destroyed
+checks if the expression is a match
+adds a new exception signature with the given signature type and the given type if
+remove a service from the service
+returns true if this task has been cancelled
+add a list of to the list of
+verifies the signature of a signature and verifies the signature
+returns the hash code for this lease
+load the given resources
+returns whether the editor is dirty
+this method adds the to the current component
+create a plugin from a plugin and a plugin and
+a factory method to build the appropriate luminancesource object based on the format of the
+process the request with the request id
+this method is called when the user has been stopped
+add a page to the output page
+removes the next line from the line
+adds a new list of to the current review
+returns hex encoded as long
+optional sets the value of the field to the given field
+returns true if the current expression is a valid expression
+returns the bit set of values in the array
+returns the sorted list of all the elements in the specified object
+checks if the state is in the state of the event
+creates a binary expression expression
+adds a list of rules to the group
+is this strategy not in the queue
+calculate the number of positions in the array
+adds a group of group uuid to the group
+check if a reply is present in the list of any available addresses
+add a new to the table
+start a post request to the given url
+returns true if the target is currently running
+converts a numeric character to a string
+returns a new translation result for the given operand and return the result
+removes a key from the cache and the specified schema
+registers the class for the class
+resets the current instance s instance
+updates the icon for the given component and returns the current position of the current
+returns an iterator over the children of the nodes
+notify all registered listeners that a free free has been removed
+create a new review for product
+generates a matrix with an arbitrary value
+reads the contents of a inputstream into a file and the
+resets the display state of the display
+draws a new image in the specified image to be in the image
+delete the directory directory
+sets the maximum number of pixels to be loaded
+generate a random probability of the given conditional steps
+adds a new value to the set of shadow shadow
+returns true if the component is the component
+add a item to the list
+test that a user s value is a json
+writes a byte array
+retrieve a charset from headers and content type
+returns the number of cells in the split list
+selects a non selected css node and a box
+creates a cache entry for the specified data and the given
+create a new instance of this object
+returns the string representation of the url
+returns a byte array containing the contents of this byte array bytes
+returns the vector of the given values from the given data set
+add a stroke line
+parse the content of the input stream
+draws a new row with the given row and color
+visits the type of a method parameter
+creates a packet containing the data of the given packet
+check if the function is a function to the given function
+escape the given string to be used in a url
+removes the given color from the document
+returns the average value of a unit
+returns true if the given type is a child of a given type
+delete the given key from the database
+set the value for the given json value
+formats the caller s provided message and prepends useful info like calling thread id and
+tests if object is a leaf
+get a fragment for a detail
+returns the minimum capacity of the buffer
+handler for when an image was successfully loaded
+create a temporary file with the given file
+show the view if the view is shown
+reset the progress spinner to default rotation start and end angles no offset
+create a new instance of
+removes all entries from the list
+cancels the specified entry with the specified id
+perform a http head request and track the android context which initiated the request
+converts a string into a json object
+returns a hash code value for this object
+creates a new interaction event that is a single value of the given location
+cast a object to a double value primitive value type of the java
+test that we are not a copy of the given stream
+updates the results of this instance
+appends a character list to the target
+updates the current data
+returns true if config files are enabled
+creates a new title with the given title and a string representation
+parse values for a column and column values
+creates a section section with a new address
+adds module module to the database
+write the image to the file
+remove a channel from the channel
+adds a new state to the state of the state
+returns the first element of the stack that is in the stack
+creates a new member of the given type
+test that the source code is correctly set
+tests the functionality of the method and
+loads a script from a string
+create a subject subject with the given key
+compares two dates for use in the same number and number of serial numbers
+set the permissions in the set of permissions
+checks if the plugin is a plugin
+returns true if the underlying stream has a valid name
+called when the user presses the finish button
+returns a test suite
+compute the values of the matrix
+attempts to prepare the request for a retry
+perform a http post request and track the android context which initiated the request
+removes the specified key from the cache
+checks whether the given object is a attribute type
+compares this container with another with another
+returns the next path in the list of points
+create a test compiler
+returns a literal that is a string literal
+determines if the visibility is visible
+create a temporary file from a file
+checks if the given class is valid
+print the sql statement to the current
+returns true if the record has any entries in the cache
+add the properties to the properties
+called when the user has changed the
+prints a text to the console
+turn off spin mode
+returns the value for a given type
+compute the full absolute array of absolute values in the given source array
+set the effect for a conditional
+adds a value to the set of delta
+loads the font file and fingerprint font file
+returns a copy of the given value
+decodes base content in byte array format and returns the decoded byte array
+returns true if the element is a end of an array
+runs the script in the given list of urls
+check that the directory server is not used
+paints the border of a scrollbar and the
+reads the contents of a given byte array into a new object
+set whether cache image should be cached on cache of cache cache cache cache
+writes a string to a file creating the file if it does not exist using
+returns true if the given reference is a java file
+generates a ret instruction
+determines whether a given node is a valid node that is a valid value of
+perform a http delete request and returns the result if it is already
+create a directory if it exists
+notifies the drawable that it s displayed state has changed
+destruction of the servlet and it s no own thread
+check whether the server is valid
+submits a topology to run on the cluster
+check if this other is in this set
+sets the name of the upload to be used in the process
+checks if the instruction is a conditional instruction
+reads the next byte from the stream and the byte array
+returns a test suite
+checks that the given string is a valid java identifier
+writes a long to the output stream
+returns a string representation of the separator string
+returns true if the index is matching the given template
+returns a new instance of the same value as the current position in
+moves the iterator forward to the next entry in the underlying map
+writes the jms data to the jms stream
+waits for the current thread to be interrupted
+returns the string representation of the given type
+this method is used to check the number of bytes that are used to be
+set to false if you don t want the link to use for link links
+returns the index of the given column name
+get the string representation of the given locale
+called when the user presses the cancel button
+create a new parser with the given text and text
+removes the debugger listener from the debugger
+returns true if this pattern has the specified pattern
+returns the matrix of the given rows in the specified row
+save the contents of the file to the file
+returns true if the specified row is selected
+add a file to the list of files interested in this file
+returns a test suite
+create a new object with the given id
+process the http get request
+destruction of the servlet and it s no own thread
+ensures the truth of an expression involving one or more parameters to the calling method
+returns whether it has the system console
+returns true if the receiver is private
+initialize the configuration
+removes the roles from the specified roles
+initializes the listeners with the data
+serializes the given node to the given output stream and the
+sets the separator of the separator
+called when a view is created
+writes the id to the output stream
+adds a new entry to the list of the given path
+adds a file to the path
+close the specified closeable
+creates a new entry on the entry
+sets the trigger state to be called when the current state is paused
+checks whether the file is equal to the specified filename
+prints a string to standard output
+skip characters until the next character is the requested character
+draws the font label
+tests that a host is a ping ping
+test that we are not a copy of the given stream
+returns true if this transaction is a parent of the given transaction
+compute a list of patches to turn text into text and diff
+attempts to prepare the request for a retry
+load the customer from the customer
+returns the current lexical state
+called by junit after each test method
+create a new prefix name and a prefix
+removes the current debugger listener
+check if the given string is a valid list of white list
+prints the output of the process
+returns the scan scan for the scan scan
+helper method to be used to determine if there is a badge or not
+reset the paint to its initial values
+convert a string to a localized string and locale and locale
+this method is called by the application to use the action to create a new
+calculate the color for a given color
+this method is used to calculate the differences of this diff to be used for
+creates a gradient for a given component and a color
+executes the query and return the result
+delete the lease for a given lease
+converts a matrix of doubles to a matrix
+returns whether the given resource is a resource
+calculate the speed of the download to be used in the
+process the http get request
+returns whether the device is camera
+visits information about a class
+show the ui thread and display it
+reads a byte array of bytes and returns the result
+destruction of the servlet and it s no own thread
+pop an array or object scope
+clears the cache for this index
+returns a clone of the object
+returns a cell with the given steps
+execute shell commands default return result msg
+returns a list of classes that are contained in the given file
+specialized variant of findnode to get first valid node
+returns the minimum value of a transaction
+generate a random probability of the given conditional approximation
+rotates the point by the specified angle by the specified angle
+called when the menu state has changed
+returns a list of all history spanned by this spanned object
+this method will be called when the mock mock control has been created
+returns true if the left of the right right of the right right is right
+this method will be called when the root of the tree is set to the
+check if the expression is a variable of the same type of the given type
+returns true if the data is a valid data
+zip a temporary file
+checks if the result is available
+checks whether the given object is a attribute type
+the entity is attacked by the entity
+scroll to the next scroll
+reset the state of the transition
+finds the first element in the list that is a tag of the given tag
+add a session to the registry
+create a new set of data set
+writes the next byte to the output stream
+called when the user is closed
+advances the current token if it is a valid token
+test that we are not a copy of the given stream
+returns a reference to the reference of the given type
+removes all nodes in the given node
+check if the lock is modified by the given transaction
+resolve the given context
+visits the type of a method parameter
+launches the intent if it is not already in settings settings
+compiles this predicate predicates from the given predicate
+reads the next bytes in the stream and returns the next byte
+parses a document from a string and the text
+is tinting enabled for the system status bar
+returns true if the given type is a valid source
+returns the number of parts in this body
+creates a sql command for the given query string
+set the maximum number of connections to the current connection
+this method is called when the user s onpause metadata is received
+adds a node to the list
+saves the current topic to the topic
+pauses the paused state
+called when the server is closed
+sets the value of the attribute value to the specified byte array
+mark the specified number of bytes
+return an iterator over the nodes in the list
+returns a string representation of the component
+notifies all listeners that have registered interest for notification on this event type
+convert the given byte array to a string
+creates a new dialog instance for the given type and set of the given
+cast an ibinder object into an org into the result set
+returns a string containing the properties of the specified property
+destruction of the servlet and it s no own thread
+removes a search search listener from this controller
+release the cached cached values
+sets the time to be updated
+returns a copy of the vector with the given vector
+returns true if the given classpath is valid for the given classpath
+add a template to the iterator
+returns the right of two objects and the same values
+get the read request for the given field
+adds the list to the list
+sets swipe in the time by a swipe time to be enabled
+adds a new aggregation to the aggregation
+paints the border of a text field and update the context
+returns true if the given string is defined in this class
+shows a edit edit dialog dialog
+set a json string of the event
+is the call call
+gets the value of the reverse property
+returns true if the node is a line
+checks whether the given code is a valid signature
+tests the functionality of the method method and one and one one
+writes the entire contents of this byte stream to the specified output stream
+returns true if the edge glow are visible
+adds an image to the list of images
+returns a intent that can be used to perform intent to show a intent
+creates the panel and the panel
+cancels the currently running queue
+returns a new instance of the given project id
+test that a class is a valid output
+returns the number of layers in the map
+sets whether to use application application application
+removes a listener from the list of listeners
+if rect is inside screen scroll just enough to get it or at least the
+this method is called when the peer is being accessed
+returns true if the given modifiers is contained in this set
+maps an int to a specific mode and mode
+returns an iterator to be used in the order to select the values in the
+process the http get request
+convert a file to a file
+waits for the process to be used to read the given command
+encodes a byte array into base notation any more characters
+returns the value of the given value
+returns an element builder for the specified element
+returns a name for the name
+writes a file to the file
+returns true if the given charsequence is negative or not
+renames the file rename to the file system
+throws a runtimeexception if the runtime exception is not supported
+process an event symbol
+add a list of users to the list
+creates a new request with a new one and the request
+marks the current code position with the given label
+saves the contents of this object to the given output stream and
+remove a session from the session
+cast a float value to a value for this
+returns a formatted string with the specified properties
+creates a new enter node with the given mouseevent and the given mouseevent
+writes the contents of the object to a writer
+this method is called when the current state is initialized
+checks if the string matches the given token
+creates a new priced event with the given id and the given timestamp
+this method is used by the
+returns a url object that describes a url with a url
+returns true if the component is visible
+write the gui to the output stream
+adds a new slider for a slider
+show the dialog to show the dialog
+execute a single key
+returns the number of values that have been evicted is not been used in
+returns a string representation of the class name for the given class
+returns the number of bytes that this cache should use the process
+returns an iterator over the edges in the given list
+closes all the slave in the current slave
+convert a basic graph to a
+upload file to file
+create a new set of
+create a new vector from a given vector and and
+creates a new instance of the given type
+removes the mbean object from the jmx interface notification listener
+visits an annotation of the class and the class
+returns a new table s table table
+visits information about a class
+compute the distance between two points
+called when the user is closed
+update the current value of the current value and updates the value with
+connect to the device and the device
+returns true if the action is a delete action
+sends a message to a stream
+this method is called when the thread is finished
+parse the next character
+prints a message at warn priority and the throwable
+check if the function is present in the list
+indicates whether this scrollview s content is stretched to fill the viewport
+it is called when the printer has been registered
+adds a new value to the list
+removes a listener from the graph listener
+used internally for adding view
+calculate views bounds and scroll them according to the current index
+checks if the given string is a null value
+starts the current thread
+finds the edge in the edge of this edge
+invoked when a component gains the keyboard focus
+adds a new name to the metadata
+this method is called when the message is closed
+prints the given number of characters to the output
+removes all entries from the list
+returns the number of elements in the buffer
+generates a dup x instruction
+checks if a registrar id is a valid registrar object
+check if the user exists
+sends a message to the intent receiver and sends the result
+returns the script in the given input input
+check if there is a connection in the database
+called by the main method when the delegate is started
+remove all remaining remaining remaining remaining remaining lines from the buffer
+close the statement without throwing an exception
+double value of the current value
+returns the prefix for the given word
+perform a single observable with the provided value of the specified order
+stops the thread pool
+returns a test suite
+prints out all the elements in the list
+runs the test command line
+add a listener to the list of listeners
+returns true if this protocol is supported by the protocol
+returns true if the user should be allowed
+converts a json node to json
+returns a new shape with the given width and height
+returns a string representation of the specified number of decimal places
+sets the label to use for the label
+closes the cache and deletes all of its stored values from this stream
+returns true if the class is a class
+asserts that the given value is equal to the value of this object
+add a value to the set
+creates a new member type
+converts a standard deviation into a double
+returns the namespace for the given prefix
+returns a string representation of this object
+calculates the number of values that are equal to the given value
+opens the gui for the given file
+shuts down the pool
+returns a hash code for this value
+creates a shape from a square style
+reads a file from the input stream
+returns a charsequence value of the given value if it is a parameter value
+writes the contents of the stream to the stream
+checks if a class is a class of the class
+method added by phil from the end of the encoded output stream
+parses the xml document from the given uri and the given
+this method enables label with fps value on the screen
+returns the larger of two integers
+create a binary value and a message
+returns the token value
+returns the group of the given button
+find a method that is defined in the class
+removes the current element from the stack
+this method is called when the context is not supported
+removes the given subscription from the subscription
+called when the server is complete
+copies the contents of the given stream to the output stream
+reset the progress spinner to default rotation start and end angles no offset
+returns true if this is a exception
+a factory method to build the appropriate luminancesource object based on the format of the
+test that a single page is correctly empty
+returns true if the specified number of sources sources should be ignored or
+returns a string representation of this object s value s and s values
+notify all registered listeners that the operation has been performed
+returns the current shared state of the current node
+returns the item at the given index
+creates a comment node with a given node
+adds a listener for the given listener
+check if the messages has been reached
+returns true if this header has a header header
+initialize the configuration
+converts a matrix of bits into a bitmatrix of the input
+returns true if the number of spans in the range of the specified range of
+called when the user is closed
+sets the label to use for the field
+delete all files in the directory directory directory of the file
+returns whether or not there exists a purchase of the given product
+use this factory method to create a new instance of this fragment using the provided
+shows a menu item in the view and visibility
+returns a hash code value for this object
+adds the node to the target node
+does the work of getting the path
+start a post request to the given url along with the query params
+emits a block to the output
+returns the transformation matrix for the given matrix
+sets the default settings to be signed
+create a new file
+paints the border of a scrollbar and the
+decode and sample down a bitmap from resources to the requested width and height
+checks if the user has access access
+returns a string representation of the object
+add view to the view
+this method is called when the size of the message is reached
+opens a dialog box and displays the message
+creates a new matrix representing the same values
+creates a string from a string pattern and the given pattern
+notifies that a header item is inserted
+checks if the value is a part of the string
+perform a http delete request and headers
+returns true if the element is a end of an array
+prints message to info
+find a symbol for a given string
+forwards event to discovery event
+returns a string representation of the receiver
+returns the current height of this line
+checks that a given tag is a valid class or not in the given
+reads the contents of the given file into a buffered reader
+returns the length of a vector
+add a trade to the trade
+checks if the attribute is a valid attribute
+read a line from the input
+ensures there is enough space in the buffer for the given number of additional bytes
+adds a new state to the queue
+creates the editor editor from the given file
+adds a new key to the table
+adds a list of sections to the section
+writes a short to the stream
+paints the image to the specified image
+ensures the truth of an expression involving the state of the calling instance but not
+returns true if the given type is a valid type or positive or
+moves the iterator forward to the next entry in the underlying map
+creates a new
+unbind the given key and removes it from the registry
+returns the string that is the first of the specified position
+returns true if the underlying stream has a valid name
+returns true if the given class is a method
+returns the number of entries for this set of entries
+converts a table to a string representation of the database
+sets the current properties to the current thread
+creates a value for the given value
+constructs and returns a valueanimator that animates between the values specified in the propertyvaluesholder objects
+called when the marker is clicked
+tests that all methods in the given class is a method that is a method
+creates a shape for the specified width and height
+creates the menu menu for this menu
+this method is called when the feature is initialized
+returns a list from a sorted sequence in a sequence of integers
+initialize the and set the state of the template
+send a notification to the current object
+called when the javascript object is changed
+force a force to the current state
+remove all the route addresses
+creates the underlying database table
+add a page to the output page
+parse key value pairs to map ignore space
+initialise the gaussian engine
+returns a buffered writer with the specified character in the specified file
+creates a storage storage data from a string
+returns the minimum number of two bitsets
+resets this rotation to rotation from the current position to the current position
+returns the json representation of the object object
+called when the total number of bytes have been written to the stream
+find the next integer value in the given array for the given value
+write a byte array to the given address
+creates the settings for the current settings
+serialize a short array into a collection of english objects
+prints the given object followed by a newline
+start a options request to the given url
+a hashing method that is sha md md sha
+formats a string to a new string using the specified length
+return a new topology
+returns the number of elements in this table
+check if the condition is equal to the first of the first or equal condition
+returns the number of elements in this list
+adds the specified int to the buffer
+returns a string representation of the view in the view
+reads the file from the given file
+returns true if the array is null or empty
+adds the buttons to the button
+returns a string containing the url url encoded string
+sets the default settings to be signed
+this method is called when the user has been stopped
+find an annotation on the given class
+sets the seconds to seconds for the schedule
+creates a new ui object for the given component and the current
+notifies that a header item is changed and the item position
+check if a file is a file
+indicates whether this element should be attributes
+returns whether the server is destroyed
+returns the maximum number of bytes that this cache should use to store its data
+exit the system and exit
+create a new closure of the closure of the closure of the closure of a
+constructs a new packet representing the given parameter value
+returns true if the database is external
+executes the given method in the database
+starts the current thread
+adds a new transaction
+sets the persistence id
+converts a binary address to a byte and and
+checks if file is read
+main method for testing
+returns the number of bits that are contained in the specified range
+returns a filter that filters the filter filter
+returns true if this type is the same as type
+compute a list of patches to turn text into text differences in
+checks if location is a location
+checks if the given method is a method to be used in the method
+builds the url for the toolbar and adds it to the builder
+initializes the window for the ui and value of the ui and
+suspends encoding of the stream
+read a packet from the input stream
+this method is used to handle the given class
+determines the height of this view at the given spec spec
+sets the interval to the interval the interval of interval
+checks whether the instruction is a instruction with the given instruction
+create a new instance of the given object with the given object and a
+writes the data from the given nbt tag
+returns true if the issue is empty
+updates the animation
+adds a node to the list of nodes
+creates the view for the panel
+returns the value for a given type
+writes a charsequence to a file creating the file if it does not exist
+loads the class from the given name
+adds the values to the map
+returns the text size of the text of the text
+add a new row to the table
+draw the current tile
+returns the types that are currently excluded from the given types
+removes the given category from the table
+release the scan scan
+compute the logarithm of a b
+add view to view
+returns true if the expression is a simple expression
+sets the settings to the settings
+this method is called when the current window is selected in the view
+returns true if any of the type of the given types are of the types
+close the connection
+this method is called when the progress of the is read
+logs a revision message and the specified id and the
+create a new instance of a new instance
+reads the entry from the input stream and reads the data from the
+load a tag with data
+returns true if the array contains the specified array
+returns a collection of collection values for the collection
+this method will decrement the maximum strategy of the current value of the current value
+returns the json object and the document
+gets the name of the given name and return the corresponding name
+sets whether memory that a cache is loaded
+handles the event events and the events
+test that we can parse the given string
+returns true if the control is visible
+returns true if node is web actions
+rolls back the current transaction
+removes a listener from the list of listeners
+adds a new alias to the alias
+puts the view on spin mode
+checks if the given node is a instruction with the given offset
+this method is called when the tab is being closed
+creates a description of the given frame and show the given parent
+element by element multiplication in place a a
+determines if the word is a valid word
+returns the current height of this line
+puts one byte and two shorts into the constant pool
+called when a new tab is closed
+multiply a matrix by a scalar in place a in a a set
+process the http get request
+returns the id of the given id
+initializes this rotation to rotation from the current position in the existing list
+opcode
+updates the instruction s instruction to be used for the given instruction
+reads the file and returns the path of the file
+adds a comment section to the list of comments
+convert an event to a single value
+check if the directory directory exists
+formats a date in a date format and format
+update the network either in the given network
+process the http get request
+returns the modified time offset in the format
+add a field type to the field
+invokes a method on the given proxy with the given parameters and arguments
+creates a dom element from the given html element
+convert a byte array to a string
+shows a confirmation message and shows the confirmation message
+returns true if the given set is currently running
+whether is fast mobile network
+checks if the value is a valid value
+returns the key value key
+returns whether the target can be accepted
+create a frame with the payload
+increments the counter counter
+returns the parent of the node
+returns the number of keys in this map
+set the object to be used for the target
+check if the bom contains a bom
+this method will be called when the user s has been changed
+returns the number of the elements of the builder
+returns a test suite
+convert a value to a string of the given value
+returns a new instance of this value with the given value aggregation
+update style and style of the current style
+destruction of the servlet and it s no own thread
+checks if a node is a node
+returns a new sample matrix from the given dataset
+set the bits set to the given parameter
+removes a listener from the list of listeners
+creates a thread for the given runnable
+convert a string to a string
+checks if the given object is a uuid
+checks the given instruction starting from the given instruction
+shows the user when user clicks the username
+adds a list of files to the list of nodes
+checks that a given tag is a valid class or not in the given
+returns true if the path is a java
+creates a filter for the given criteria
+adds the specified object at the specified index in the array
+parses the document from the given offset and the offset
+writes a message to the output stream
+deletes a comment with the given type
+this method is called by the input stream and the default value is
+returns whether the given flags flags are equal
+checks if the given column is a type of the type of the types of
+checks if the given object is a key in this table
+checks whether the filename are equal to the same case sensitivity
+used to avoid the subclass
+paints the border of a scrollbar and the
+indicates whether the underlying data is encrypted
+removes a listener from the list of listeners
+create a new input message
+returns true if the file name is a file name
+settle the captured view at the given left top position
+sends a packet to the server
+is the response code a bad request
+checks if this version is greater than or equal to the other
+stop the sensor
+adds the given view to the target container and target
+creates a new buffer with the given parameters and the given parameters
+resolves a simple path to the given dataset
+convert an ascii string into a string of ascii characters
+formats a string to a new string using the specified length
+returns true if the session was expired
+reads the input stream from input stream and returns the buffer
+returns true if the resource is a resource
+checks if the number of ranges are valid
+returns a new array with the specified values
+report an exception of an exception
+set the interval to be set to the interval
+returns a string representation of this object
+close a connection from the database
+add a contact to the database
+create a new swing menu item
+check if a page is transaction
+converts a double array into a double matrix
+exit the system and exit
+returns a formatted string with the given message and the given string
+create a route from a method path and method name
+returns true if the gesture is enabled or not
+creates a path from a path
+find a file name from the given pattern
+returns the response to the server
+returns the list of users for the given user
+show the dialog with the given activity
+if the minimum min is a min and the minimum
+return the set of attributes for the given supplier
+returns the number of bytes currently being used to store the values in this cache
+executes the script and returns the result
+process the http get request
+updates the preferred size of the current size of the current size of the current
+compares the values of the given object with the given value to the
+returns a string representation of this object
+returns true if this queue is empty
+returns true if the given event exists in the given event bus
+checks if the query is successful
+increments the count of bytes in the counter
+creates a ui for a jtextpane
+returns true if the given module is a reference to the given module
+execute shell commands default return result msg
+find the schema for the service
+check if this span is empty
+adds a filter to the last last search list
+disables the audio window
+returns whether the current value is quoted
+sets the value of this vector to be in x
+called when the server has completed successfully
+generates the instructions to insert a method
+check if the user is active
+returns a copy of this object
+test that the expected error error is not equal
+computes the average of the vector
+returns bitmap with specified width and height
+converts a string into a json object
+sets the location of this resource
+creates a new address in the data file
+close the module and close the module
+this method checks if the expression is a non null type
+convert a string to lower case
+replaces the given json object with the given object and another
+create a new adapter for a recyclerview
+make the badge non visible in the ui in the ui in the
+returns the string representation of the given object
+notifies that an existing footer item is moved to another position
+checks if a class is a platform or platform
+shows the given file in the settings
+returns true if this policy has attempts remaining false otherwise
+does this device have a system navigation bar
+compute the matrix for a given matrix
+registers a string register register to the register
+decode and sample down a bitmap from a file input stream to the requested width
+add a new group to the group
+inserts a key value pair into the map if the specified key is not already
+removes all the resources in the given resource
+sets the number of elements in the array to the underlying values
+find a class with the given name
+tests whether the current scroll is in the scroll scroll view
+removes all the address from the list of available addresses
+this method is called when the media is being activated
+returns the name of the given name
+remove a debugger from the list of listeners
+put bitmap to image cache
+appends an element to the list of elements in the list
+destruction of the servlet and it s no own thread
+add a new row to the table
+creates the menu bar
+create a operand that operand that operand is greater than
+appends a new line to the console
+call this method to prevent the current cancelled state
+returns the namespace name of this element type
+returns a new matrix containing the values in the specified range
+clears all the components of the current view
+convert a string to a string
+returns true if this is a default resource
+release the native library
+move the current record to the current record
+process the http get request
+converts the given json string to a json string
+sets the body of the body of the body
+send a packet to the remote interface
+copy the buffer to the buffer
+returns the value of an entry in the entry array
+returns the column name for the given column
+disables light of the top level
+checks whether a node is a child of a given node
+create a stream for a file
+this method is called when the resource has been set
+put a key long pair in the jsonobject only if necessary
+check if the given sequence is present in the list
+generates a method for the given regular expression
+adds the given resource to the pool
+removes the specified entry from the cache
+show the menu item
+read the contents of the file
+returns true if the field is empty
+reads the next byte from the stream
+find the first value of the given key
+removes all of the elements of the old members from this list
+create a mock response from the response
+set the flag flag for the flag
+creates a message router
+print the value of the current value in the list
+checks whether the given property is a valid reference
+calls the method on the given method
+writes a value to the file
+import a file with the given base file
+returns the string representation of the next character at the given position
+adds a string value to the request if the string value is null
+just make easier to understand
+starts a thread on the thread
+check to see if the current mode is primary
+execute the given sql statement
+creates a new view with the given module
+decode the uri string from the uri
+process the http get request
+reads the values of an annotation and makes the given visitor visit them
+removes all pending tasks from the queue
+returns an iterator over the resource ids
+returns true if the node is expanded
+write a string of the given string to the output stream
+returns true if the receiver is included in the receiver
+skips the next block and blocks until the next block is reached
+set the rates of the sample
+adds another imagecontainer to the list of those interested in the results of the request
+clears the current process
+scan the current file
+process the event
+show the menu of the event
+enable disable the process of the current selected state
+opens a file
+sends this packet to the server
+create a uri from the path
+returns a test suite
+checks the password for the password
+returns the given class name for the given class
+show a toast message
+returns the number of elements in the buffer
+updates the current progress bar
+creates a new exception with the given error message
+add the given panel to the table
+reset the current state
+sets the type of the service to failed
+adds a component to the component
+checks that the current method is not a longer in the process
+writes a character
+creates a new instruction at the given address
+creates a file with the specified number of files and the given file
+called by the backend when a new node is created
+saves a graph to a file
+generates a gaussian geometric kernel
+returns true if the temporal has a temporal value
+returns the predicate for this predicate
+wait for the execution of the given number of times
+returns true if the specified status is a valid value
+add a new entry to the set of entries
+shows the directory directory that is created by the user
+gets the value of the property is
+updates the current time and updates the current time
+starts the thread and starts thread
+possibly blocks awaiting root lock
+returns the position of the given position in the given position
+adds a new column to the list of syntax syntax
+returns the last modified modified file in the specified file
+sets the flag to false
+skips the given string in a string
+adds an image to the cache
+set the basic values for the
+check if the master is master
+returns true if the timestamp is the same as the timestamp in the current time
+factory method to create a new viewdraghelper from the parent
+opens a new database tree from the database
+merges the result in the given frame frame to the result
+writes a message to the output stream
+returns true if the given port is a valid address
+start a put request to the given url along with the query params
+adds the given value in this field to this node
+process the http get request
+copies a graph into a graph
+this method will be used to add the library library to the library
+generates a publickey instance from a string containing the base encoded public key
+adds an image to the queue
+request the user s request request
+returns true if the given class is a type type
+returns the long representation of the current byte of the byte array
+finds the next proxy that is the same as the given service
+return the next character in the queue
+returns the year of the year in the year
+convert drawable to bitmap
+change the specified value for the specified change
+creates a new matrix from the matrix
+test the presence of a basic address
+read and return a value from the input stream
+updates the current time
+this method is called when the end of the list of are running
+removes a child from the list
+adds a listener to the caret
+adds a new sql sql statement
+creates a new status object from the specified monitor
+commits the current transaction to the database
+returns a formatted string with the given message and the given string
+create a new project list of the project
+create a new view with the specified position in the layout
+test the functionality of the method which allows to verify the given char
+reset the message to the stream
+constraints the given method
+check if the file exists
+computes the mean of a vector
+this method is a recursive method for a given operator
+is this message length
+adds a new slave to the list of existing slave to be used in a
+creates a new account
+shows the selection event
+returns the index of a character of a method of code
+returns true if the buffer is empty
+smoothly animate mdraggingpane to the target x position within its range
+add a handler to the list of handlers
+adds a new key value pair to the map
+adds a listener to the list of listeners
+creates a new address with the specified address address
+if the start end trim are offset to begin with store them so that animation
+returns true if the high water water is valid or not
+add a view to the list and view it to be translated
+generates the instruction to jump to the given label if the top stack value is
+asserts that a file is a directory
+adds a list of files to the list of files
+generates a dup x instruction
+remove the given task from the given task
+add a commit of the commit
+returns whether this is a standard output
+add a request to the record
+creates a new review for the given product
+creates a new ui object for the given component and the current
+returns the item at the given index
+write the given string to the output stream
+convert a string to a date string
+adds a task to a schedule map
+test of method of class textio
+called when the paint is clicked
+returns a new instance that is the same as this object and
+create a header builder for a header
+checks if the given class is a class of the given type
+returns a list of all the results of the given results
+create a socket that can be used to create a new socket
+add a column to the table
+returns the of the radius of the specified radius
+delete a comment on the comment
+returns true if this request has been canceled
+this method is called when the shape is being rendered
+reset the progress spinner to default rotation start and end angles no offset
+returns true if the given pattern matches the pattern
+returns the index of a bit byte array
+visits a lookupswitch instruction
+creates a new file with the given panel
+determines the edge in the graph
+paints the border of a scrollbar and the
+sets all options image image to the options that will be used to use with
+settle the captured view at the given left top position
+add a key key to the given key
+get the server from the server
+returns true if the method is a method
+returns the corresponding modifier for this class
+check if the given table is a valid table
+prints out all the elements in the list
+uninstall package and uninstall the app
+gets the value of the property
+creates a new blockstate with the given mouseevent
+add a new name to the table
+returns a path for the given rectangle and height
+comment a comment to the given comment
+returns all the ids of the given project ids in the project
+execute a request on the server and port
+creates a new buffer with the given parameters and the given parameters
+sends this packet to the server
+updates the fade timeout for the timeout and timeout value
+returns the index of the username and the given name
+sets the flag flag
+clear the selection state
+evaluates the policy and start the policy for the given policy
+is device device a device
+removes the given resource from the pool
+checks whether a given character is a valid binary type
+test that a file with a write
+drops the underlying database table and the given result
+sets the end time for the end time to be sent
+reset the progress spinner to default rotation start and end angles no offset
+returns the number of rows in the given columns
+returns the total time in milliseconds
+sets the transformation transformation to be applied to the request
+returns the given charset or the default charset if the given charset is null
+flush the output stream
+verify that user is not a user in the repository
+adds the given values to the given node
+test if a stream is read
+this method is called when the fragment is fragment of the fragment
+set the state of the job to be shown
+this method is called when the user is closed
+prints an array of objects to the console
+release the current thread
+check the user with the given email and password
+toggle the visibility of the ui
+add a span to the end of the list
+add a new class to the object
+convert a class to a java object or long or long
+method to post the given request
+copy the contents of a file to a file
+calculates the average of the average of a clustering
+converts a string to a string characters and ascii characters
+reads the next integer from the json string and returns the
+put a key value pair in the jsonobject but only if the key and the
+clears the set of explicit sets
+convert a new error error into a single error and the
+returns true if the time is in daylight verification
+verify that the alias is authorized to use alias
+copies the values of the given array into the destination array
+adds another imagecontainer to the list of those interested in the results of the request
+tests if object is equal to objects
+indicates whether the specified column is numeric
+returns the closest double to the specified number of times
+if the current token is a token type
+returns the checksum of the current checksum
+returns the current authentication information for the authentication request
+generates a name for the trigger job
+set the default configuration to be used for the given session
+initializes the thread pool thread pool
+adds a value to the set of delta
+formats a given opcode into a string
+check that the number of all the elements are not present in the list
+sets the current time to truncate to this builder
+returns true if this node has children
+create a new list of segments
+returns the value of a uri
+creates a stream responsible for a stream stream and creates a new partitioner stream
+this method is called when the thread is interrupted
+destruction of the servlet and it s no own thread
+method to be called when the context is created
+is input a new input stream
+decodes base encoded data from byte array
+sets the attribute store attribute attribute attribute
+generates a method for the given type and generates the instructions for the
+delete a video from the database
+returns a new instance of this plugin
+returns whether or not the device has a flash
+smooth scroll to position using the specific duration
+checks if the transaction is a valid transaction
+process the http get request
+creates a new priced event with the given id and the id
+checks whether the path is a string
+writes the id to the output stream
+show a load and show a load
+perform a http head request without any parameters and track the android context which initiated
+this method returns a list of entries for the given path
+encode a byte array with a single float
+perform a http head request without any parameters and track the android context which initiated
+retains only those entries in the map for which the procedure returns a true value
+deletes all edges from the given node
+returns a new output stream
+adds a new state to the queue
+reads and returns the exception data for the jms stream
+creates a new task with the given filter and the provided filter
+search for a given text
+returns the number of elements in the list
+returns true if the path is a java
+removes a previously added footer view from this view
+sets the timeout of the cluster
+selects the current button
+this method is called when the user is attached to a controller
+notify the selection listeners that the selection selection changed has changed
+creates a copy of the parent node in a given parent
+writes a byte value at the given index
+returns the size of a directory recursively sum of the length of all files
+checks whether a given method is a valid signature
+writes a directory to the file
+adds the given node to the list and adds the child views to the given
+removes a target object from the list of rules that are available in the specified
+returns the predicate for this predicate
+check if a class is a class of a class
+returns the number of bytes in the given number of bytes
+returns true if this application has an application
+starts the current thread
+get an optional boolean associated with a key and true
+visits an annotation of the class and the class
+generate a random generator
+releases all resources in the database
+fills a range at the given index in the list
+adds a listener to the packet s audio packet
+process the http get request
+called when the user presses the cancel button
+create a from the
+returns the vector of this vector
+returns true if a fake drag is in progress and
+replace all occurrences of a substring with a given pattern
+returns a charsequence value of the given value if it is a parameter value
+returns the xml for the given element
+a hashing method that changes a string like a url into a hash suitable for
+adds a file to the list of files that were saved in the file
+returns a number of all elements of the specified number
+returns a string representation of the location location
+adds the specified list to the list if the list is not in
+checks if the current update is visible
+parse the json response
+calculates the log rate for a model
+creates the control viewer and action
+check if the given group is available
+creates a database database for the given url
+loads the font file and fingerprint font file
+prints the given message and prints a message describing
+returns the hash code of the current digest
+creates a new buffer with the given parameters and the given parameters
+delete view from the view
+called when the user is closed
+get the header of the header
+this method enables label with fps value on the screen
+start a put request to the given url
+closes the file and updates the counter
+locks the lock on the lock queue
+create a new record
+adds a section to the list of section ids
+registers the process process
+checks if the specified event is in the range of this sequence
+remove an object from the list
+update the config map
+returns true if the method is a method
+adds the buttons to the current menu
+returns a new project with the given id
+save saved state
+notifies all registered listeners that the given substitution uses the given substitution
+used internally for adding view
+returns a string representation of the given date
+returns true if this live sync has been registered
+increments the value of the counter by
+creates and returns a display of the display of the display
+add a trade to the trade
+returns true if the given value is an exact value
+returns true if the given input is within the input type
+creates a new event with the given row
+create a new lease
+a publish action has unsuccessful client client
+checks that the address has been received
+set the network to zero
+filters a files in a directory and directory
+writes a string to a string as a string
+starts a datagram connection
+asserts that an expression is null
+update the table with the given tag and tag
+launch the launch activity
+test that the address is not a valid server address
+add a diff to the end of the data
+checks if the given class is possible to be used by this class
+returns a string representation of this object
+returns the utf code for the given string
+add a listener to the list of listeners
+read from the read
+this method returns a new image with the given id
+post a post request
+pushes the specified amount of characters back into the input stream
+creates a tag for the given tag
+gets the value of the returnval property and
+returns the time elapsed time in the given nanos
+create a script object from a binding
+pushes a new frame into the stack
+called when the user is closed
+this method is called when the fragment is fragment of the fragment
+returns the current position of the buffer
+this method will be used to write the message to the output stream
+add a message to the matrix and the given level
+checks if the given entry is a partition
+sends a response to the server
+creates an image from the given xobject
+returns true if the given projection is a default detection
+called by the framework when it is initialized
+compares this object with another
+add a template to the iterator
+set start the current time to start the current task
+this method is called when the user has finished a new one
+decodes a string value from a string
+returns the id of the current instance
+visits an annotation on the type of the field
+the api access to the device device
+returns a new project with the given id
+calculate the length of a byte array
+this method is called when the class is created
+checks whether the filename are equal to the same case sensitivity
+add a section to the list of sections that are being used by this section
+find the tags in the given tag tag
+calculate the delta delta
+calculates the crc for the file
+adds a global global global id to the list of all the users
+menu menu for
+checks if the number of codewords and columns are correct
+returns the json array of the given object as a new object
+get id of request id for request id
+handler for handler handler
+saves the preferences in the default preferences
+creates a new string table for the table
+handles the first instruction of the
+checks that the specified duration is valid
+test for a connection to a connection
+returns a crc value representing the crc checksum of the current crc
+create a class with the given closure
+creates a new response with the given information
+show the menu item in the table
+release the scan scan
+this method is called when the link has been created
+checks the graph of nodes in the graph and the
+notifies that multiple footer items are removed and item
+reads a bit integer from the file
+adds an attribute to the ui
+find the object from the given container
+checks a method type signature class signature and signature the
+returns an iterator over the results
+returns a predicate for this predicate
+reads the offset from the underlying byte stream
+test the method
+called when the timer is finished
+adds a list of comments to the given node
+start the process of the main thread
+copies the given node to the content of the given node
+returns a string representation of the current date
+returns the manhtattan absolute value of the current value
+sets the length of the buffer to the specified length
+writes a zip file to the file
+returns a new date instance
+returns true if this pattern has a pattern
+called when the user s has been started
+stop the thread
+checks if the id is in the given config
+logs requests that took over slow request threshold ms to complete
+add a comment to the listener list
+method to create a user with the user
+lock the channel to lock
+checks if the given class is possible to be used by this class
+checks if the given character is in the input
+pops a number from the stack frame
+initiates a scan for all known barcode types with the given media type and default
+returns true if the specified character is a valid character
+sets a custom custom custom custom custom custom custom custom custom custom name to the
+reads the file and returns the path of the file
+adds a key value pair to the cache
+reads and returns the jms data from the jms stream
+kills a command from the command
+returns the object that is connected to the given connection
+this method is used to convert an inputstream to an input stream
+writes a tag list to the list of tags
+checks if the given component is visible to the given component
+returns the string corresponding to the given type
+updates the settings for the given settings
+writes the json document to a writer
+creates a new operand that is a single value with the given operand
+add a prefix to the end of the list
+tests that subscriptions have a filter
+accepts a socket and the specified timeout
+cancel a task in the future
+returns true if the specified timeout is available
+notifies all registered listeners that the current time has changed
+get the server server
+tests whether the connection id is equal to the same type
+finds the first element in the tree that is the same as the root of
+shows a dialog node in the gui dialog
+returns the minimum of the elements of the specified collection
+updates the time and time
+removes the key from the map if it is present
+create a metric metric for a given name
+this method adds the command to the command of the given matrix to the current
+returns true if the underlying stream is a new new
+convert int array to integer array conversion int int
+returns the version number for the given version version
+writes a new name and write it to the stream
+add a new listener for change events
+create a log with an array of headers
+inserts a comment on a given node in the given instruction
+add a graph object to bukkitmetrics that represents data for the plugin that should be
+returns a new real string with the specified number of bytes
+gets the value of the property
+called when the user is closed
+trigger trigger trigger notification that has been completed
+this method is used to create a new address with the given arguments
+enable disable the button
+reset the current matrix and reset the invalidate
+removes the object at the top of the list and removes the list
+check if a stream of raw data is not present
+gets the value of the property
+make a literal value for the given value
+returns the number of two numbers of the specified number
+returns true if the last is last last last
+adds a closure to the proxy
+add a page to the list
+visits a field instruction
+puts one byte and two shorts into the constant pool
+returns a list of the given string
+checks if node is a child of its node
+reads the serialized serialization of the given input stream
+method to handle a connection instance to the connection
+appends the string to the html set
+destruction of the servlet and it s no own thread
+adds the text to the buffer
+fills the specified range with the specified value in this one
+called when the user is closed
+returns the next action
+swaps the elements in the specified range from the specified array from the specified
+adds a new vector to the vector
+clears the value of this object
+checks if the given type is a child of a class
+returns true if the receiver is deprecated
+sets the end of the label
+log a message to output stream
+checks that the current live live live live live is live in the live live
+adds a session to the list of sessions
+this method is called when the index is closed
+add a listener to be notified when the user s listeners are added to the
+called when the user has been started
+delete a key from the database
+returns true if n has children
+returns a string representation of the string
+returns the sum of the current value in the given stream
+creates a new button with a label and a label
+removes the specified entry from this map if it is present
+returns true if the user is a move function
+join the given alias alias for the given alias
+adds a new bookmark to the list of bookmark which is a node to the
+this method should be called when the fragment is no longer needed
+adds a method reference to the constant pool of the class being build
+checks if the template is valid
+returns true if the user is currently open
+append a value to the set of this jsonarray s value
+gets the contents at the given url or url character
+returns the current node in the given node
+writes a message to the output stream
+method to handle a single file
+compares the two interfaces using the supplied object
+writes the contents of the given locator array to the output stream
+returns the segment index for the given segment
+adds a new connection to the pool
+creates a new document
+called when the view is attached to a view
+returns the number of active active members in the list
+convert a byte array to a string
+notifies that multiple footer items are changed and the start position
+called when the queue is started
+paints the border of a scrollbar and the
+checks whether the given class is a test class
+returns the first error of the annotation
+creates a text area in the given section
+adds a character to the buffer
+computes the inverse of the matrix
+pauses the paused state
+returns whether the master is currently master
+removes all the failed status
+paints the border of a scrollbar and the
+schedules a directory recursively for deletion on jvm exit
+parses a script object in a script and returns the script
+reads parameter annotations and makes the given visitor visit them
+checks that the given value is a boolean
+called when the timer is finished
+returns true if the current tab is empty
+create a new vector from a given vector and and
+converts a list of byte list to a byte array
+writes a text to a file
+this method is called when a timer has been received
+checks whether the job is complete
+calculates the sum of the matrix with the given matrix
+adds another imagecontainer to the list of those interested in the results of the request
+returns the offset of the first table of the table
+returns true if the given modifiers is protected or not
+this method is called when the user has been started yet
+checks if index is contained in this adapter
+set the timeout of the user to be used
+set the basic values for the
+initializes the namespace for this namespace
+removes a file system file listener
+checks if a given literal is a valid type of a given type
+returns the maximum number of values to be calculated
+writes a long to the output stream
+returns true if the problem is equal to another
+initializes the unit handler for registering the change notification
+sends a broadcast to a broadcast of the given intent
+called when a new closure is removed from the given notification
+returns the launch launch for the given launch
+create a table with the given name and column name
+create a operand that represents a long operand
+returns true if the date is in the date
+calculates the width of the text and the width of the text
+check that the session is not closed
+adds a name to the element
+stops the editor and stop the editor
+creates the underlying database table
+returns true if the node is a valid number of nodes
+called by junit after each test method
+writes a byte array to an output stream
+create a header builder for a header
+process the http get request
+creates a file with the given name and a file
+the first value for this object
+returns true if the given element is a statement
+restores the content of the content of the content
+returns a schedule schedule with no schedule
+returns the number of two numbers of the specified number
+get the number of instances of the given date
+create a new json value
+create a new address with a given value
+creates the revision for the current revision
+closure the given closure of the given closure
+log an audit exception message with the given error and a message with the result
+handle the target
+show the ui to show the ui
+draw the progress spinner and y value
+removes a listener from the list of listeners
+add a new channel to the channel
+add a warning to the given source and the warning
+parse the given string in the format of the rules
+create a solenoid that can be used to use a specific channel
+check if the job is running in the specified job
+check if the attribute name is valid
+checks if the given text is a valid text
+delete all database records
+creates a new style style style
+check if a method is a method that is a method type
+returns the number of key value mappings in this symbol table
+this method is called when the specified window is finished
+checks if the given column is a valid type of the given type
+returns the given charset or the default charset if the given charset is null
+delete a table from the database
+returns true if this is a append text
+execute a method call on a module
+check that the wrapped object is a terminated object
+creates a new array with the specified indices
+create configuration from configuration
+checks if the current source is valid
+registers the class for the class
+get the value of the current file
+converts the magnitude of the given angle to the specified angle in radians
+called when the user is closed
+this method is called when the user is clicked
+stops the entity s current entity
+creates a new node with the given comments
+destruction of the servlet and it s no own thread
+checks if the stream is not already in the pool
+update the database for a given id
+issue a request using the default context and the status of
+returns the text for the highlight style
+initializes the filter dialog to show the file
+sets the value of the result to be used to store the result
+registers an interface that can be registered to the class
+save the stub to be used in the application
+returns the index of the given index in the range
+add a new table to the table
+returns the shape of the given shape and the given coordinates
+show a trace with the given information
+initializes the given game and a new game
+returns the entries of the given entry
+call this method to prevent the current cancelled state
+start the start of the main thread
+returns true if this node is a leaf
+returns a crc value representing the crc checksum of the current crc
+returns true if the given word is contained in this text
+returns the string representation of the input input
+processes an incoming value instruction value value is an instruction to be
+adds the given string to the list of tokens
+method to be called by input input input
+returns true if the underlying stream has a valid name
+checks if an item is in the list
+indicates whether the specified attribute id is a valid attribute name
+update the document s document
+find the value in the array
+log a warning message
+a factory method to build the appropriate luminancesource object based on the format of the
+returns true if the update is update
+is this a unique id
+adds a request listener to this request
+close an input stream and the number of bytes that are not available
+removes the mapping of this map from the list and
+takes and rotates the it degrees
+replace the template in a given writer
+returns a string representation of the elements in the set
+returns an iterator to the list of annotations that have been set
+process the http get request
+creates a new priced event with the given id and the given timestamp
+called when the user s has been started
+destruction of the servlet and it s no own thread
+returns the schema
+draws a string to the specified color using the specified color and color
+parses the document from the document and the offset
+check that condition is true
+initialize the memory of this object
+add a child to the child
+returns the length of the vector
+returns true if the underlying buffer is a leaf
+close the device and releases the resources
+returns whether the given node is an action
+add a url to the list of classpath
+process the http get request
+returns true if the modifiers is a static modifier
+returns a buffered reader that reads in the file
+called when activity is activity
+returns the output stream to the given stream
+returns the integer value of the given integer
+called when a task is finished
+creates a class with the given class name
+removes the first element from the map if the given key is not
+returns a hash code value for this object
+inserts a key value pair into the map if the value is already
+adds a property to the builder
+checks if the string is a prefix
+show a toast message
+notify all running tasks
+starts the current thread
+removes a comment from the comments
+reads a signed int value in the given byte array and
+checks if the given charsequence is a valid string
+called by junit after each test method
+creates a new instruction that is a fixed value and the given
+notifies all listeners that the snapshot has been changed
+returns true if the scroll scroll is visible
+register a new instance of the given class
+method for computing the scroll view
+bind property to a panel
+checks if bytecode size is equal to this one
+this method is used to initialize the split list
+this method is called when the object is removed from the table
+verify that the filter filter is not a single row
+writes a message to the output stream
+updates the map with the specified capacity
+prints a message at warn priority and the throwable
+checks whether the given object is a attribute type
+load the memory in the given string
+resets the ui to its initial state
+creates a new authentication request
+checks whether a given string is defined
+loads the parse parser and the current line
+removes the global global manager from this manager
+returns the minimum of the stack and all of the specified values to
+creates a new instance of a section
+convert a marker to a kml file
+creates a new instruction with the given values and second operand and the given values
+called when the current thread is closed
+save the state of the given monitor
+updates the field changed field
+find all the views in the database
+count the job service
+helper method to notify the status of the given
+test that a byte array is read from the given byte array
+this method is called when a request is finished
+this method is called when the end of the file is closed
+reset the state of the drawer
+calculate checksum for a given file
+called when the bitmap has changed
+marks this dirty state by
+returns true if the node is a leaf
+create a state from a string
+asserts that a file exists
+send a notification to the notification
+this method is called when the queue is cancelled
+check if the transaction is currently active
+checks if a file is a parent file
+test that stream can t be deserialized
+verify that the filter is a single filter
+convert a string to a byte array
+verify that the filter is a single row
+reads a byte array from the given index
+called when the worker thread is finished
+removes a comment from the comments
+using some super basic byte array lt gt hex conversions so we don t have
+prints the given message and prints a message describing
+retrieve a charset from headers and content type
+check if a string is a class of a java
+parses a java object from the provided entry entry and the name
+call this method to connect to the database
+returns a list of annotation that represents the given annotation
+removes all the header values from the cache
+add a field to the given expression
+checks whether the given object is a attribute type
+update the current selection
+puts an array of bytes into this byte vector and length
+invoke the method method on the class method
+sets the executor to be used to create a new service
+returns true if the given instruction is a method
+returns a new value for the given name and field name
+disconnect from the service
+set content type header
+load the configuration from config
+set the flag of the request to be used for the request to be used for
+get the long value of the value
+reads the next words from the input stream and returns the first
+fling the scroll view
+reads a bit integer from the stream and returns the number of bytes in
+reads the next integer from the input stream
+cancels a confirmation and the user s visible mode
+return a string containing the base encoding of the given message and its
+checks that the given value is a signed short
+saves the object to the given file
+create a graph from a file
+returns the class that is used to generate a class that is a type of
+creates the underlying database table
+add a config to be used in the list
+creates a binary instruction with a given size and offset and return the first
+returns a string representation of this object the values of the specified depth
+create a new json object
+put a key value pair in the jsonobject if the value is not null
+returns a set of split splits
+returns true if this is a right name or a right name
+serialize a short array into a collection of english objects
+returns a hashcode for the specified value and
+allows derivative classes to handle the xml attrs without creating a typedarray themsevles
+returns a string representation of the object
+compute the last location in the location in the location of the text and the
+notifies all registered listeners that the given type has changed
+load the latest version of the given user
+compares the values of the given object with the given value to the
+checks if the character is a separator
+blocks from the json stream and the next character
+maps an int to a specific state and
+fills a range at the given index in the list
+replace all spannable from the spannable
+returns the settings object
+this method will be called when the transform rendering is in the original composite
+returns true if the two columns are equal
+returns true if the underlying stream has a valid name
+is the expression a binary expression
+generates a pop instruction
+add a value to the set
+called by junit after each test method
+initiates a submitted orderly tasks
+returns true if marker is in the tree
+test a binary index
+checks if the data is a role
+returns the index of the first occurrence of the specified string array
+creates a reference to a reference
+writes a long argument to the library
+sets the seconds to seconds for the schedule
+returns true if the given address is a valid address
+sets the current context of this context
+this method enqueue a response to the server
+creates a new shape with the given parameters and height
+determines if the given color node is a valid color node
+create a new app
+return the parent element type of the element s type
+removes the specified class from this proxy
+logs a message to the log and returns a message as a message
+creates a new graph with a new set of modules and
+convert the given byte array to a path
+compares the two entries and returns the index of the start of the start or
+test that a string can be read from a file
+returns true if the character is a valid xml document
+called when the engine is created
+returns a string representation of the object for the java source
+returns the matrix with the values of the elements in the array
+returns the keys of the map
+checks if the range contains all ranges in the ranges range
+this method is called when the user is closed
+convert a signed byte to a short
+tests the first offset of the first line of the array
+create the converter for the current context
+creates a new event with the given filter and the given filter
+removes the next entry from the iteration
+check if the given modifier is protected
+remove a comment on the list of listeners in the list
+reads a double from the input stream and returns a double value
+this method is called when the user is attached to a controller
+construct a observable from an observable with the supplied values
+is the instruction a branch on the instruction
+creates an instance of an address
+check if the specified property is in the registry
+returns the type of the current type of the given type
+adds all elements from the given array to the given array
+move the current record to the current record
+binds the activity to the custom tabs service
+serializes the given object into a byte array and the given
+initialize the thread pool
+check if array is a valid byte array
+this method removes all of the listeners from the tree
+returns a string representation of the output
+reads in a byte array into the given byte array
+write part of a multipart request to the request body and then returns the
+this method is called when the user presses the keyboard
+updates the current state of the current state
+resumes the currently currently active service
+checks that the expected variables are expected and expected
+check if a class is a class of a class
+calculates the active state of the current state
+performs the decryption for the given byte array
+returns the sentences in the string representation of the sentence
+returns the xml xml string
+this method is called when a node is removed from the table
+called when the tab paint is clicked
+adds key value pair to the map if not null
+sends this packet to the server
+find all references in the given node
+parses the given string using the given signature and signature
+determine if the view is inside the bottom of the bottom view
+updates the current settings and save the current settings
+called when the user presses the cancel button
+checks that a given tag is a valid class or not in the given
+interpolate the current targeted zoom and get the delta from the current zoom
+get the log log list of all the log filters
+test the configuration for the given properties
+copy input stream to the request body
+returns true if the class is a class suite
+removes the expiration from the given expiration
+returns the string representation of this object and
+adds module module to the database
+enlarge the data to the specified size
+returns true if a response is currently running
+add a module to the data stream
+removes all the elements from the given combo box
+called when a new entry is added to the server
+return the wire s wire type
+returns true if the message is complete
+removes and returns first element or null if empty
+set the duration of the user
+display a message with the given error
+add a filter to the map
+loads the given file and returns a list of a list of all the mappings
+flips the given bit in the current matrix to the x
+creates a new binary instance from the specified message and the
+increment the alpha of the specified value in the range
+logs the given error and logs the error status
+returns a webelement that is a valid webelement of a given text
+called when the is created
+checks if the given entry is a partition
+this method is called by the input stream and the default value is
+removes the specified component from the layout
+recursively edges for each edge of the children of the children of the children of
+this method is called to make the next value
+visits the annotation of the given class annotations annotations
+sets the timeout of the cluster
+log a log message
+writes the given string to the writer
+convert a byte array to a hexadecimal string string and
+this method is used by the object
+checks if the url is a url
+returns true if the pattern is a pattern pattern
+parse the given uri into a json object
+checks whether the given range is in the range of this set
+sets the y y coordinate to the y coordinate
+test that a single random string is a valid encrypted string
+checks if a given literal is a valid type of a given type
+disables light level if needed
+add a listener to the list of listeners
+adds all template templates
+removes the next line from the line
+returns a test suite
+returns true if the target file target file has been deleted
+checks the given database
+copy the contents of the domoutput into a text file
+called when a connection is destroyed
+removes the given subscription from the subscription
+indicates whether the user can be valid
+returns the number of cluster cluster member of the given member
+returns the properties of the properties
+returns a property list for the specified property predicate and
+creates a new state change from the given mouseevent
+writes an array of objects to the file
+returns a path from a rectangle
+splits the given block into a list of
+close the class
+converts the diff into html
+select the selected nodes in the graph
+converts a double array into a double matrix
+returns the number of sources of the specified list of sources
+calculate the text of text for the text text and text
+gets the value of the autoconnect property
+checks if the session is a transaction
+process the http get request
+generates a string representation of the signature
+hide footer when disable pull load more
+prints the current state of the given object
+cancels all requests in this queue for which the given filter applies in the
+checks if a perspective is currently open
+returns a string representation of this object
+adds the specified model to the list of plugins that are currently configured
+adds a new object to the engine
+searches the given class with the given index
+is the text at the bottom of the bottom rectangle
+returns a test suite
+decode and sample down a bitmap from a file to the requested width and height
+processes the given discovery event and all sites
+returns a test suite
+gets the current node
+throws a runtimeexception if the runtime exception is not supported
+proceed to the next available ring color
+compares this object with the specified object and returns the given object object
+returns true if the object is currently running
+check if a block is received
+removes the specified lock from the queue
+checks if this connection is disconnected
+creates default implementation of task executor
+returns true if the array is array
+add a sql to be used in a specific order
+create a new instance of the given
+returns a copy of the current keys and self
+called when a debugger is closed
+checks whether the node is a leaf
+apply the result points of the result points into the result set
+create a new module
+called when the user is destroyed
+returns a copy of the divider with the specified rectangle
+posts a new event to the event bus
+checks if the given factory is enabled
+ping the address
+update the statement of the given method
+starts the dispatchers in this queue and the
+sorts the elements in a list of strings
+create a header builder for a header
+hide the done button
+returns the hash code for this object
+returns the children of the node
+called when the table is closed
+converts a double value into a double
+checks if a type is a valid type
+tests that a number of a single byte array is not equal
+removes all types of the given type from the given type
+reads the marker from a stream
+creates a new instance of an object
+returns a trace of the given string
+add a child to the parent
+removes the given entry from the table
+returns a reference to a type parameter bound of a generic class or method
+sets the transformation transformation to be applied to the request
+returns the number of elements in this queue
+add a listener to be notified when the mode is pressed
+updates the current selection
+set the default listener
+exit the system and exit
+calculate the text of a rectangle with a text text and text width and height
+removes the item from the list
+creates a security context instance for this security context
+returns true if the given method is a valid
+checks the formal type parameters of a class or method signature and
+removes the given table from the table
+inserts a key value pair into the map if the specified key is not already
+returns true if the two numbers are equal
+initialize the current table and set to the current table
+find the source file for the given name
+check if the package is installed
+error error message
+this method is used to create a statement
+checks if the line is empty
+is this field a prime
+returns the current state of v
+updates the list of nodes in a graph
+registers a notification for mbean interface mbean to the jmx interface
+sends this packet to the server
+convert a nibble to a nibble
+removes buffers from the pool until it is under its size limit
+returns a new list that is the same as the first element in the list
+adds a new key value pair to the map
+puts an array of bytes into this byte vector and length
+put a key value pair in the jsonobject if the value is not null
+add a constraint to the list of constraint
+writes a byte array into the underlying stream
+prints the current number of times to the output stream
+appends a string to the buffer
+add a new action to the list of the given action
+remove a span from the graph
+creates a new instruction with the given values and second and the given values
+returns the number of elements in the buffer
+tests that the given exception is not already resolved for the given candidate
+creates a list of all required to show the given data
+called when the user s has been started
+returns the number of files in the list
+tests the properties of a property of properties
+execute a call on a method
+applies the component to the component
+create a function parameter parameter from a method parameter type and
+destruction of the servlet and it s no own thread
+returns true if the current platform library is library
+reads the input stream from an input stream
+checks if a service is a type of type and a
+adds a parameter value to the request by key
+returns true if the current database is visible
+calculates the log log of a word
+test the method
+adds a request to the dispatch queue for the current thread
+this method resets the counter to run the tick
+determines the height of this view and returns the result of the
+creates a new event with the given information and the given time
+return the next character in the queue
+extract the prefix from the given prefix and return the string
+adds an iterator to the list of lists that are not null
+drops the underlying database table and the given result
+called when the stop thread is stopped
+removes the specified string from this filter
+returns true if the token is a accepted token
+enables or disable debug logging through logcat
+returns whether this message has a message
+append a value to the set of this jsonarray s value
+start a head request to the given url
+paints the background of a slider and the view
+compares two vectors for equality
+get the content type header from the response
+create a new fact that is the same as the fact of this one
+removes all visible edges and edges that are visible
+closes the jms data
+tells the camera to stop drawing preview frames
+creates a new text area
+returns true if the entry matches the given entry
+encrypt decrypt a single byte
+remove the given range from the lock
+returns a copy of this object and the
+returns a string representation of the right right of the given value
+creates a composite composite
+set the accept encoding header to the given encoding
+this method is called when the start of the object is finished
+convert the given byte array to a path
+this method is called when the component is created
+returns the sha digest of the object
+creates a method for the given class and method
+returns a list of all of the messages that are not in the subscription
+skips the current position
+returns a string containing the string representation of the specified array
+checks if the given component is a component component type
+read the given string from the given string
+test for testing
+removes the given comments from the list
+sets the size of the builder to the given size
+asynchronously performs a call on the member and returns the result
+checks if task has completed
+set the progress of the progress message
+writes the items in the collection to the given collection
+execute a sql statement
+visits an annotation of the field if field is not
+returns the list of elements in the list
+add a json file
+moves the iterator forward to the next entry in the underlying map
+returns true if the array contains the specified object
+prepare the data from the pool
+returns a number that is a power of the given number
+this method is used to create a variable that is used to add a value
+removes a child component from the context
+update the value of a frame
+increments the value of the specified integer with the specified number of integers
+called when the user is closed
+creates a window instance for the given window
+check if the condition is equal to the given condition
+waits for all active readers
+adds the revision to the table
+reads the serialized serialization of the given input stream
+checks if a type is a target type
+perform delete request response
+checks whether the given object is a attribute type
+returns a string representation of the current date
+removes the actions from the specified state
+set the content length request header to the given value
+converts a list of byte list to a byte array
+determines if the page is a valid page
+returns the value if the string is null or null if the value is not
+performs a simple search on a single line of translation values
+returns a new object with cropped image data and height
+generate a random sample with a single probability conditional
+create a script
+add all the children of the graph to the graph
+returns true if the object is a primitive type
+mark the result in the future
+sets the maximum number of connections to the user
+visits an annotation of a parameter this method and parameter
+creates a pipeline for the given file
+returns true if the specified character sequence is a valid string
+returns a new event by combining a query string and the specified
+adds the given event to the list of events that are currently handled by this
+returns the next number of steps in the given set of steps
+this method is called when the main thread is finished
+determines if the passed handle is a handle for a method
+create a map of
+check if the bom is bom or bom
+translate the function to the given function
+delete all the relations in the given relation
+process the http get request
+returns the values of the specified column in the specified array
+sets a method for this event listener and this container method listener
+perform a http head request and track the android context which initiated the request with
+returns true if the buffer is empty
+checks whether the given object is a attribute type
+called when a node is encountered
+checks if the user is a user or not
+creates a new event with a given number of events and
+returns true if the expression is a wildcard
+updates the current button
+convert a string to a sql string
+writes the contents of a file to the given file
+returns true if the object contains a mapping for this object
+read a byte from the stream
+find the next token in the string
+tests if a string is a prefix prefix
+sets the back back to the back back of the list of parameters
+updates the current action and save the current data to the current view
+starts the specified connection
+compares two expressions using regex pattern
+destruction of the servlet and it s no own thread
+set the current session session
+checks whether a given array is in a given array
+adds the specified ids to the list of ids that are in the list of
+converts an array of extensions to suffixes for use with iofilefilters
+returns the id of this id
+parses a resource from the given project
+opens a dialog box and opens the dialog
+returns the next element in the list
+checks if a value is a valid value
+visits a field of the class and signature
+returns a map of objects from a json object
+registers the given receiver to be used when the user is ready to be used
+wait until the specified time is in the queue
+convert a class type into a service type
+delete a comment
+write a block to the file
+sets the current value of the expression
+returns a string representation of this table
+replaces all occurrences of the given string in the given string
+returns true if the message is success or not
+register a mbean to be used for the given mbean
+creates a new instance of a filter
+draws the line for the given graphics object
+returns the buffer with the signed bit from the buffer
+tests if this index is the two
+check if network connectivity is connected
+add a comment to the graph
+called when the user presses the cancel button
+returns the bom bom bom bom bom or null if it s not one
+removes an element from the list
+this method is called when the object is destroyed
+checks if match matches
+returns the error message for the error message
+check if a class is a valid test
+returns true if the file is modified
+calls the call phase to complete a phase phase
+returns the number of bytes in this queue
+appends the given string to the buffer
+returns a string representation of a property string and a string
+returns the hex value of the character character
+test the ability to make a new one
+reset the cursor position
+if the context is not a new context
+check if any of the currently currently currently currently were touched
+logs a finer message to the log logger with logging level
+checks if a register is a register
+wait for the service to be used
+returns true if the message is currently active for the given message
+removes and returns last element or null if empty
+checks if the given class is possible to be used by this class
+scrolls the line to the next line
+returns the column value of the column
+test that the user has a
+updates the user account for the user account
+sets the current fade index to be used
+adds the event to the cache
+checks if the given url is a valid database url
+filter the filter filter
+convert long array to long array int int
+sets the acl file acl
+generates a dup x instruction
+clears the credentials for this client
+generates the instructions to jump to the given type if the top stack of the
+executes the given method in the database
+adds a task to the task queue
+merge the result of the given frame into a one
+returns true if the value is greater than equal
+returns an iterator for the specified lease on the specified lease
+replace the range of range range
+an optional method is used to cast a type to an appropriate value of
+check if the route is in the route
+read a block from the file
+atomically removes all of the elements from this deque and and resets
+returns true if there is an undo to the undo
+adds a new key value pair to the map
+creates a source of a source
+check that all arguments are not null
+starts the jmx connector
+decrements the count of this resource in flight of the resource
+gets the default attribute type of the given name
+marks this dirty state by
+returns a string representation of this object
+returns true if the resource has been set
+returns an enumeration of the keys in this table and
+check if the object is a uuid
+writes a command line to the file
+this method consumes the token and returns the token
+this method is used to get the next element
+returns the dynamic proxy that is a stub object
+this method is called when the thread is finished
+removes a new address from the local pool
+add an error result to the output stream
+checks if the given bug is not valid
+creates a new equals condition for the given value
+if the event is not null returns the event
+collects all the entries in the specified list of keys and
+test ipv address with no addresses
+removes all nodes from the queue
+create a new basic basic basic block
+returns an enumeration of the values in this table
+process the http get request
+called when a row is pressed
+returns the delta of the delta
+initialize the dimension of the task
+add all module modules
+schedule a clock thread
+returns a boolean value for this address and the address
+swaps of a and b
+returns true if the stream is currently
+adds a new key value pair to the map
+removes the current line from the list
+this method is called when the method is invoked when the method is invoked when
+removes a panel listener from this panel
+returns the number of data currently in this font
+create a dialog dialog for the given user and
+returns true if the address is loaded
+this method is called when the tab is being shown
+returns true if the underlying stream has a valid name
+this method is called when the system is running
+called when the user is closed
+creates a text text widget
+returns the values of the matrix with the specified columns
+removes the mapping for the specified key from this map if present
+sets the current time to the current time
+loads the given file from the given file
+save a port to the registry
+prints the current thread to the system
+returns the number of elements in this list
+parses a list of files
+returns the number of bytes in the buffer
+this object that is a null and the given value the first value
+wait for the given supplier to be checked
+returns the index of the first occurrence of the given index
+removes all mappings from this map
+helper method to check the node and returns a node node
+adds a new attribute to the set
+returns the group group
+creates a new connection to the given node
+called when the engine is created
+sets the subscription to be used
+returns the sine of the specified number
+checks the permissions for the permissions
+adds the content of a node to the list of content
+call the given closure
+receive a buffer of from the given buffer
+increment field field by field field field field f field
+adds a element to a given double array
+paints the border of a menu
+get the next value and the next character
+is tinting enabled for the system status bar
+returns a predicate for this predicate
+generates a signature signature for the given class name
+returns the variance of a date
+reads a number offset
+this method is called when the start of the object is finished
+asks the user to ask the component
+transition to the state of the state
+encodes a byte array into a base encoded string
+resolves the path with the given path and returns the path
+prints the stack trace and prints the error message and throwable
+remove a page from the list of pages
+appends a text file to the file system
+this method is called when the user clicked the closed open button
+returns the name of the file
+check if the given array contains the given object
+test log log log log log log
+returns true if the operand is a literal
+create a table for the given database
+creates a new member type
+returns whether this message has an payload
+returns true if the current thread is currently running
+returns a new empty canvas that represents the current canvas
+check if the given timeout is valid
+returns an iterator over signatures
+test that all methods in the same iteration are correctly correctly
+removes the specified location from the list of removed files
+checks if a given type is a category type
+returns a long representation of the given byte array
+refills the input buffer
+returns the name of the given file name
+acquire a wake lock for a wake lock
+sets the current queue tag loader
+returns the next line in the current position
+append a value to a list
+this method is called when the directory server is created
+start a post request to the given url along with the query params
+this method is called when the task is executed
+returns the entry object representing the provided object object
+returns a string that matches the given string with the given replacement string
+reads a long value from an inputstream
+shows the menu item in the menu
+finds the location in the specified column
+returns all the queues for the given queue queue
+updates the time of the specified element
+releases interest in the in flight request and cancels it if no one else is
+test of method of class
+adds a list of filters to the set of filters
+check if the given exception is a valid exception
+add a new namespace to the list of duplicate names
+suspends encoding of the stream
+executes a callable on the server
+add a instruction to the instruction
+this method will return the list of multicast requests that are sent to the request
+returns the number of elements in the buffer
+returns a regular expression expression
+called when the captured view s position changes as the result of a drag or
+removes the style from the document style
+log a message with the given class and method and the
+tests the tests that a line is in the input
+removes the specified attribute from the list
+remove the given transaction from the list of transactions
+adds a list of analysis to the list of analysis
+paints the background of a separator and the
+check if the given handle instruction is a branch instruction
+add a new bookmark
+test for harmony when it is cancelled
+parse a byte array from a byte array
+closes the stream
+creates a policy definition
+reset the message to initial initial state
+set connect timeout to be used for a timeout
+load the database from the database
+read all properties from the configuration
+returns true if the underlying stream has a valid name
+ensures that a object is a valid value as a value is null
+returns a path from the path at the given location and the given parameters
+returns the degree of the node
+this method will be used to make sure that the movie is not null
+update the current layout
+performs a search on the search results
+returns the value of the given filter with the given filter
+returns the number of bytes that are not available in the response
+create a dim with the value of a single value
+swaps of a and b
+adds another imagecontainer to the list of those interested in the results of the request
+initialize the indicator view and
+check the map s map
+appends a new buffer to the end of the buffer
+this method is called when the type of an asset
+creates a list of objects that have been configured in the given project
+reads the next byte of bytes in the input stream
+runs the script
+throw an exception if the value is not null
+registers the plugin that are installed and plugin
+writes a message to the output stream
+adds a key value pair to the map
+accept the next node in the given list
+creates a cap stroke
+update the order of the given list of
+adds all the edges in the graph search results into the graph
+registers a new connector to this client
+prints the cause of the given exception
+create a new instance of a class with a class and a class that is
+paints the border of a slider and the view
+this method is called when the user is closed
+writes the data to the log stream
+returns true if the view is visible
+checks that the array contains the specified length of the specified length
+method to be called when a class is added to the list
+find the file in the path
+estimate the error error
+adds a new type to the list of types that are currently being
+returns a test suite
+logs the log message and log trace info
+checks if a start tag is found
+handle an exception instruction
+notifies all the data that the stream has been changed
+returns a translation of the given operand and load the given operand and return a
+checks if view is currently open
+called when the user is closed
+create a new socket socket
+returns the index of the last glyph of a text
+returns a list of the given dictionary with the given dictionary
+add all the to the list of all views
+returns whether the node is visible
+returns the for the given and
+returns a binary representation of the given binary binary value
+returns true if the channel is a valid channel
+called when the frame has been closed
+returns true if the given entry has a particular id
+ensures the truth of an expression involving one or more parameters to the calling method
+creates a dialog that is used to show the dialog
+parses a script object in a script and returns the script
+connects the device to the device
+returns the closest value to the given value
+filters all files in a directory and directory directory directory
+returns the keys of the map
+adds a new value to the request
+starts emiting particles from a specific view and second second and
+removes all the review and end of the review and end of the review and
+add a statement to the list of statements to be added
+this method is used to initialize the frame
+add a new row to the array
+removes the given list from this list
+convert a string to a string in a string
+removes the specified element from the list
+initializes the manager with the current instance of the current thread
+returns true if the array contains the specified object
+returns a string representation of this object and
+test ipv address with default address
+returns the next byte of the specified type
+this test for asserting that actual returns expected
+returns false if image is in initial unzoomed state
+removes the entry from the cache
+returns true if the current component is a root
+load the users and load the users
+returns a map containing the status of the status
+creates a new action and returns the resulting node
+show a new module with the given module and the given module
+return the point in the given motion event
+selects all nodes in the tree
+check if the table is valid
+returns a list of strings for a given string
+indicates whether this descriptor is a method
+splits the text in the given label and returns the resulting pieces
+remove the given range from the lock
+returns a new stage of the given stage
+check if the string is a prefix list list
+add a public class to the class
+load all the projects in the current project
+flips the matrix s coordinates to the current position and y
+wait for the first time to be a timestamp
+focuses the component in the component component
+remove a plotter from the graph in the
+convert a point to a list of points
+removes a listener from the list of listeners that are registered for the class
+returns a charsequence value of the given value if it is a parameter value
+tests the of the
+set the default image resource id
+check if the given list of template is in the list of names
+cancels the subscription for the given subscription
+test for a connection to the server
+checks if file is read
+check if a connection is closed
+test of rename method of the class
+prints the given message and prints a message describing
+creates a new event with the given information and the given id
+enable all the on the given view
+returns true if the comment is a last comment
+returns an iterator over the factory
+set the authorization header to given value
+checks whether the given report is a valid public address
+returns a string containing the number of characters in the given offset
+returns the float value of the current object
+updates the view view
+adds the content of a node to the list of content
+check that a byte array is a valid packet
+prints a message to the output
+create a new object
+sets the roles of the user to read roles
+check that a parent is a parent of a parent
+adds a new id to the list of ids of the given id
+returns true if the window is a window or not
+returns a new string with the specified number of characters
+called when the task is being started
+called when a connection is received
+add a new span to the managed list of managed objects
+convert dp to pixel
+reads a string from the underlying stream
+process the http get request
+saves the current settings to the given debugger
+convert a value to a string
+returns true if the given modifiers is contained in this set
+creates a new button with the given label and and sets the text label
+returns true if the specified string is a valid name
+get a copy of the log state
+invoked when a component gains the keyboard focus
+returns the number of elements the lock has
+this method is called by the login method
+reset the progress spinner to default rotation start and end angles no offset
+reads all available rows from the given cursor and returns a list of new imageto
+sets the current time to the current time
+wrapper method for classes
+registers a notification for mbean interface mbean to the jmx interface
+indicates whether this descriptor is a method
+parses the given options and returns the parsed value
+create a new address with a given value
+read the template from the template
+returns whether the current state is a property
+returns the current year in the year year
+filters the template in the list of pages
+removes the mapping for the specified key from this map if present
+notifies all registered listeners that the listeners has changed or not
+returns index for hash code h
+reads a bit integer from the file
+write a byte buffer to the stream
+returns the next byte array as a byte
+returns the uri for the http
+checks if the given class is an array class
+returns the current authentication information for the authentication request
+updates the search offset
+convert dp to px
+adds a field to this field
+test for seek to log
+validates the given class name and type
+moves a file to the destination directory
+returns the given charset or the default charset if the given charset is null
+generates the instruction to load an element from an array
+returns true if the given key is a child
+construct a observable from an observable with the supplied values
+returns the comments of the given string
+returns the larger of two integers
+returns true if the attribute should be generated in the xml attribute
+copies the values of the given array into the destination array
+returns the largest power of two divisor for use in downscaling a bitmap that will
+reads a signed int value in the given byte array and
+creates a new instance of the property type
+adds a cache entry to the cache
+add a task to the task queue
+writes a byte array to the output stream
+process the http get request
+test for verifying that we can be done
+process a start command
+removes the class name from the given path
+compute the smallest biginteger for the given biginteger
+create a directory if it exists
+method to animate view
+adds an index index to the type
+creates a new instance of the type
+adds the classpath to the list of classpath
+create the list of services that are currently used
+add a new segment
+returns the integer value of the given integer with the given parameters
+sets the interval to be used in the interval
+main method for testing purposes
+check if the condition is equal to the given condition
+cancel the lease on the lease
+returns whether a base type is valid or base type
+compute the full absolute array of absolute values in the given source array
+returns the process process
+add a listener to be notified when the user s listeners is clicked
+creates a gradient shape for a given component
+adds a new vector to the given vector
+clears all nodes in the given list
+this method is called when the user has been started yet
+enlarge the data to the specified size
+returns the next token
+undo the operation on the current edit
+checks if the given coordinate falls in the range
+smooth scroll to position using the specific duration
+writes the bundle and the bundle
+show the controller on screen
+called when a resource is added to the map
+get the string representation of the object
+resets the address to its initial state
+returns a class class descriptor for the given class
+reads the values of an annotation and makes the given visitor visit them
+unbinds the view for the holder
+add a new name to the list of duplicate nodes
+convert an error into a sql exception the given error code
+creates a new tracevisitor instance
+draw the current tile
+returns the source array of destination array of source arrays
+prints the text constructed by this visitor and the
+asserts that two byte arrays are equal
+update the job s data to the session
+returns true if this object is equal to the other
+starts a datagram connection
+returns the text value of the element
+checks whether the given object is a attribute type
+invokes the given method on the object
+returns the number of characters in the array
+closes the camera driver if still in use
+reads a signed int value in the given byte array and
+performs discovery discovery for discovery discovery
+process the http get request
+check if the query is not a valid query string
+set bounds for the right textview including clip padding
+returns true if the x and the given index is in the range of this
+returns true if this is a valid byte buffer
+is input a new input stream
+generates a string representation of the signature
+add a new event to the current thread
+removes the specified resource from the registry
+checks that the given instruction is in the given value
+register a new config
+paints the border of a menu
+returns the index of the first occurrence of the specified string array
+detatches the bitmap container from the request and cancels the request if no one is
+sets the text to the ignore text changes
+check if the given public key is a valid public key
+creates a new value with the given arguments
+is this java java java
+returns the string representation of this object
+creates a new with the given module and the given module
+adds a marker to this log with the specified name
+this method is called when the dom manager has changed
+this is called when the operand of the operand is not equal
+creates a test file
+enlarge the data to the specified size
+sets the vector to the vector of this vector
+returns true if the edge is visible
+get the string representation of the object
+test the creation of a property property
+select the given graph from the graph
+this method is used to convert a dictionary into a dictionary object
+returns the title of the title in the title
+adds the list of level
+test the range of method
+get a header header from the response falling back to the given name
+adds a list of files to the given file
+returns true if this is a unique type
+prints the usage code for this server
+returns the output stream for a given object
+prints a message to system and if there are no more print
+clears the cache for this index
+determines if the given handle handle is in the handle
+if the target is still a drag and a single drag is not yet been
+add a method to the graph
+convert a sql column to a sql column
+reads the contents of the given url from the given url
+generates a dup instruction
+returns true if the model has changed
+create a set of storage and files and the given
+returns true if the lock is locked
+process the http get request
+reads the next byte from this byte stream and returns the next byte
+converts a object to a byte array
+updates the widgets of the given widget
+returns true if the given modifier is set
+removes the image for the image
+returns a list of all the files in the given archive
+convert a method signature to a java string
+append mode info
+add a new attribute to the map
+convert an iterable to a collection
+formats the json content and print it and if there is no
+create a view view that will be used to animate the given action
+adds a settings listener panel
+get charset parameter from content
+sets the transform to the given transform
+returns a string representation of this object and the server
+returns the line name for the start of the document
+convert milliseconds to a string
+returns the json string
+updates the auto compaction of the current auto compaction
+creates a new instruction that is a copy of the given operand array and
+highlights the text text
+creates the button with the action and the button
+create a random byte of the specified byte array
+checks the given start instruction
+returns a test suite
+check that the basic protocols is supported by the test
+returns a test suite
+creates a new result of the given resource
+called when the user is closed
+returns the index of the given size
+draws the text area
+adds the event to the cache
+serializes the given object into a byte array and the given
+creates a new instance of the given and the given set
+creates a new schema based on the provided xml schema
+check if array is empty
+deletes a user from the server
+inserts the next token into the current prompt and inserts the current position in the
+reads the number of bytes from the buffer
+returns a time time from the specified time zone
+generates a dup x instruction
+returns the index of the glyph to be drawn in the given glyph
+returns a json object for the user s
+start the asynchronous asynchronous task
+this method translates current image and translation delta to given value and then translate touch
+serializes a byte array into a byte array
+tests that the range is set
+this method is used to drop the drop from the current state
+this method is used to fill in the bit set of bit bit bit bit
+deletes a user from the user
+returns true if the connection is configured to use the given connection to the server
+initializes the worker and run the
+checks if the device interface is compatible with a device device and the
+returns the list of files that are currently contained in the list of files
+gets the value of the property
+add component to the list of types that are currently selected
+returns true if the request should be returned
+write part of a multipart request to the request body and then returns the
+increment the matrix by the given number of rows
+returns the list of interfaces interfaces for this node
+checks if the given field is a valid partition
+inject annotation with the given annotation
+convert an instruction to a short value
+enable disable the given text
+set whether the connection should follow redirects
+convert a given operand to a given operand that is a single value
+checks if the manifest file is already present in the file
+opens a file
+prints the contents of the class to the given class
+calculates the probability of the probability of the weight of the weight
+get id of request id for request id
+returns a new set of the specified modifiers with the specified modifiers and
+write a message to the output stream
+counts all pages in the list of pages
+used to check whether there is a specialized handler for a given intent
+shows the panel and adds the current tab
+returns the index of the first occurrence of the specified index
+parse a url object into a map
+returns true if the node is the default value
+returns true if the underlying buffer is a leaf
+adds a template listener
+returns whether the given resource is a resource
+method to handle dispose menu
+visits a non standard attribute of this method this method
+draws the line to the specified graphics context
+rename a new project
+update the view s data
+removes the specified delimiter from the list
+this method is called when the object is not started
+returns the first element or null if the is not found
+create the log file
+convert a new value to a long value
+creates a new instance with the given url
+returns a test suite
+parse a date string into a date
+checks if the given java class is a major version
+get the value of a handle from the given handle handle
+display a text node
+evaluate the script using the default javascript code
+removes a listener from the set listening to this animation
+this method registers the custom class creation class
+parse an annotation on a condition
+visits a non standard attribute of the field
+create a directories of the given file and the given file
+this method is called when the server is started
+called when the current state of the view has been changed
+compares the two files in the given file
+returns the given template for this template
+returns the index of the first character of the given character
+create a binary value and a message
+checks whether a given array is in a given array
+test for a connection to a connection
+closes the jms data
+indicates whether the specified string is a lower case letter
+adds a new activity to the activity s activity
+write the data to the file
+generates a map of all the indexes in the source source
+tests if object is equal to objects
+called when a single character is encountered
+converts a character sequence to a string and the
+returns true if the parameter is a parameter
+process the http get request
+create a message from a message
+this is called when the user has been received
+returns the accept response header to the current content type
+element by element multiplication in place a a
+returns the maximum of the specified column
+returns true if the user has a current user
+removes all the shards
+creates a new instance of the given edge
+returns the values of the bin in the given dataset
+throws an exception if the error is found
+creates a file with the given name and directory
+call this method to perform pull of a change
+check that the given instruction is long at the given instruction
+returns the number of elements in this deque
+add a listener for the current state of the current state of this view
+returns the number of version data for this version
+is this a mac operating system
+returns true if the node is a leaf
+adds a document to the list of documents that have been added to the file
+destruction of the servlet and it s no own thread
+calculate the speed of the download to be used in the
+create a instruction with a given address address
+checks whether the given object is a attribute type
+initialize the log file
+add a single edge to the graph
+multiply a matrix by a scalar in place a in a a set
+validates the given constraints with the given constraint
+marks the end of the visited method
+reads the next integer from the input stream
+find the function for the given function and all the functions
+serializes the given object to the given object
+create a new input stream for the given path
+returns the values of the given input array
+checks if the given text tag is a feature type
+this method is called when the end of the view has been changed
+checks if the request is a request
+gets the current version of the input
+check if node is a descendant of node
+removes a listener from the list of listeners
+loads the data from the given data
+check if the block is a block
+serialize a object to a pem string
+convert a date value to a double and
+returns a reference to the type of an exception in a throws clause of a
+checks if the stream is not already in the pool
+copy the children of a node in a node and add it to the current
+check if a id is a valid pattern
+returns the number of seconds that this node has been added to the current node
+pushes a new type onto the output frame stack
+sets the current context
+returns a new set of the specified modifiers with the specified modifiers and
+sets the timeout of the operation to be sent to the server
+create a topic for a topic
+returns a new connection to the class name
+returns whether this error is error
+removes a free address from the list of available links
+appends a text text to the text
+writes a json string to the given buffer
+accept the movie in movie
+create a map action map
+execute shell command default return result msg
+this method starts the animations for the zoom animation
+pop the current
+end a fake drag of the pager
+returns true if this is a instance of an instance
+returns true if this class is equal to the other
+called when a resource is added to the map
+create a new instance of
+removes the message from the console
+returns a filter that filters the filter with the specified cutoff
+test of write method of class write
+reads a long value from a byte array at a given offset
+checks the type of a service
+test for connection to log
+add all edges in the graph to the graph
+adds a value to the set of delta
+get the header of the header
+returns the time in the given date
+rotate the angle in radians and returns the result in radians
+parses the specified input source as a single file
+returns the event s event
+returns a test suite
+called when the shard is completed
+sets the current line to the specified line
+copy the xml data to a stream
+execute the given command
+returns the project name for the given name
+creates a list of properties for a property and the given
+compute a list of patches to turn text into text and diff differences
+returns a csv file from the given reader and the given reader
+converts a character array to an array of characters
+checks whether the given character is in the given character
+removes all views from the cache for the given type
+get the list of all the jobs
+execute a query and return a list of the set of nodes
+returns true if child is visible to the given child
+release a non null reference
+starts an animation animation for the first time animation
+returns true if this object is considered null
+generates the instructions to load the given method arguments on the stack of the
+gets the value of the property
+schedule the notification to be updated
+checks that the current object is a valid error
+adds a long to the constant pool of the class being build and and
+factory method that creates a new instance of transformgesturedetector
+creates a printwriter for the given stream
+append an object value
+add a route to the route handler
+adds a new block to the list of entries that are in the cache
+creates a new event with the given id and the timestamp
+this method is called to add the new key value pairs
+returns true if the result is set to be included in the result of the
+creates a graph of edges from a given node to the given target
+creates a new button icon with the given action and icon
+adds an event to this request s event log for debugging
+generates the instructions to load all the method arguments on the stack as a single
+is the operand of a given instruction
+log a warning message
+returns whether the server is a exit or not
+checks whether the given object is a attribute type
+called when the user presses the cancel button
+check if the given keys is a valid key
+move the target to the target
+this method is called when the node is being closed
+return the channel that the user has been sent to the channel
+moves the iterator forward to the next entry in the underlying map
+removes the component from the list
+rotates the view to the target
+start the content view
+called when the user presses the jit collection collection
+returns true if the visible indicator is visible
+create a new operation with the given parameters and the given parameters
+add an extension to the extension list
+returns true if the specified character sequence is a valid string
+adds a new complex number of complex data listener
+adds the given node to the list
+destruction of the servlet and it s no own thread
+removes a comment from the list of comments
+helper method to set the text of the view
+called when the view is clicked
+returns the length of the vector
+add a new array to the list
+sets the cluster cluster cluster
+calls the given class if it is missing
+wait for a resource to be executed
+notifies all registered listeners that the module has been added to the view
+create a ssl ssl ssl ssl settings settings and
+multiply a b by a b
+creates a new effect with the current value
+this method is called when the namespace is empty
+post the post request to the server
+creates a new change change change event from an edge
+convert milliseconds to a string
+update the module for the given module id
+sets the text to the ignore text changes
+returns true if the selection is currently selected
+called when the thread is started
+returns a map of objects with the values in the list
+closes the iterator
+writes the contents of the stream to the stream
+this method is used to add a new matrix to the current graphics object
+returns a new builder for a single entry and
+is the view selected in the middle of the view of the view
+the main thread for the thread is running
+add a header to the request
+processes a import call to the database
+compares two floats with the same value
+called by junit after each test method
+checks if the given string is a valid java object
+rounds to the given vector
+called when the user has started a deliberate drag away from one of the subscribed
+is the response code a not found
+called when the user has started a deliberate drag away from one of the subscribed
+is this a critical command
+sends this packet to the server
+plays a sound at the given position
+process the http get request
+get the number of elements in the jsonarray included nulls
+returns the optional object for the given key
+reads one time values from the camera that are needed by the app
+this method is called when the user is clicked
+returns a property list for the specified property predicate
+enlarge the data to the specified size
+returns true if the buffer is empty
+this method is used to initialize the context
+extract the prefix from the given prefix and return the string
+notifies that a footer item is inserted
+creates a new schedule based on the provided time
+adds the specified duration to this tick
+returns true if responses to this request should be cached
+counts the number of sentences in a number of sentences
+returns the format string for the given map
+returns the number of elements in this list
+returns if the year is a leap year
+process the http get request
+checks if the value is a valid value
+returns the date from the date of the date and a date
+is this message message
+add a graph listener to receive graph manager
+reads a byte array from the given index
+sets the size of the lru
+load the reference from the database
+invoked when an exception is encountered
+find the value in the array
+highlights the highlight text in the text view
+converts the map to a map string
+reads the contents of an inputstream into a byte
+sets the provider provider
+called by junit after each test method
+closes the pool and closes the pool
+reconstructs object on unmarshalling exception
+computes the number of candidates matching the given vector and the given tolerance
+checks if the given string is a literal
+deletes a comment with the given comment
+adds a new channel to the list of keys
+adds a listener to the list of listeners
+returns a string representation of this object
+writes out the current write output
+checks whether a string ends with the specified string
+add a function to the collection of functions
+loads and initializes opencv library from current application package
+checks whether a column is empty
+add a child to the node
+initialize the field and field that is currently declared in the class
+push a new request
+encode the encoded text as a byte array
+calls the method on class loader
+create a list of for given type
+returns the sort fields for this node
+saves the contents of the file to the file
+gets the value of the property
+task for all tasks in the current thread
+asserts that two byte arrays are equal
+creates and returns a sample that is a power of the given number of times
+checks whether the provided value entry is valid
+disables the current thread
+creates a new title with the given title and a string representation
+is this a empty transaction
+check if the system is a valid operation
+return the namespace name for this element s namespace
+draws a line line and frequency
+get the value of a resource
+adds the field editors to the editor
+returns the class that is a class of a list of type parameters
+process the http get request
+gets the value of the enabled property and
+gets the contents at the given uri for the given uri
+log a warning message
+checks if the given type is a child of a class
+gets the value of the trigger property
+reads all available rows from the given cursor and returns a list of new imageto
+prints the current output stream to the system
+returns the number of elements in this deque
+loads the object from the input stream
+resets the transient state of this object
+gets the value of the read property
+sets the character to be used in the parser
+process the attribute value and value
+write part of a multipart request to the request body and then returns the
+gets the value of the available property
+checks if two dates are equal
+check if a string matches the given pattern
+registers a string to the register
+removes the given filter from the list of tokens
+apply the given movie to the
+updates the list of categories that are currently in the list
+appends a text to the given file
+generates the instructions for the instruction and the instruction s instruction
+handle redirect location to the specified location
+writes the entire list to the output stream
+parse the attribute string
+creates the default manager factory for the given database
+returns the cumulative cosine between the given numbers
+generates a type dependent instruction in the type of the given type
+ensures the truth of an expression involving one or more parameters to the calling method
+remove a channel from the channel
+reads the next byte from the data and returns the byte array
+creates a new status object from the specified monitor
+checks if the given component is a valid message
+returns the entry for the given path
+creates a new schedule based on the provided time
+copies content from xml to a string
+writes a string to a file creating the file if it does not exist using
+returns the type of the given method
+parses the given character array and returns a new object
+creates a new instance of the given class
+returns true if the underlying stream has a valid name
+called when a token is added to the list
+set translation to the target value
+returns true if the underlying stream has a valid name
+removes a node from the tree
+method called when a node is removed from a tree
+destruction of the servlet and it s no own thread
+asserts that the given ints are not equal
+updates the state of the given bundle
+process the http get request
+reads the offset from the underlying data stream
+returns true if the engine is currently running
+returns an iterator over the factory
+update the list of classes that are in the given class
+this method is called when the server has been changed
+returns a copy of this message and
+destroys a new command
+checks if the stream is not already in the pool
+round a number of the given number of points to the given value
+returns the default context of this context
+subtracts two vectors from this vector and returns the result
+this method checks if a given node is a valid graph
+creates a new path from the given offset
+this method is called by the init method
+returns the values of the given array with the specified values
+converts all separators to the unix separator of forward slash
+returns the array of elements in the destination array
+writes a line of text to the writer
+creates a composite and returns a new composite
+called when a line is closed
+resets the value of this object to the initial value
+removes the given lock from the list of locks
+this method is called when the activity is finished
+release the scan scan
+return the next character in the queue
+returns the number of times the graph is in the graph
+sets the encoding of the given string to the given charset
+add a listener to the listener list
+adds a new audio device to the specified list of audio devices
+returns true if the child children are having the child values
+add a new phase to the current loop phase
+returns true if there are more than one
+add a new class to the list of classes
+returns a copy of the given value
+checks whether the node is an option
+this method will set the animation to the current view
+returns a method representing the given variable variable number and returns the var value
+removes a listener for the given discovery listener
+shutdown the database with the given name
+returns the name of the given type or a type if it exists or not
+loads the class loader with the given classloader
+adds a new observation
+compares this map with another map for equality of their stored entries and their
+test that test method
+adds a string value to the request if the string value is null
+returns the value of the value in the current value
+reads a stack map frame type and stores it at the given index in the
+parses a script object in a script and returns the script
+read a packet from the input stream
+set the handler to use for the message to be used
+called when the user is closed
+returns the vector of this vector
+wraps the specified observable with the provided other observable to this activity
+returns the number of elements in this deque
+creates a new builder for a new builder
+called by junit after each test method
+creates a new basic block with a specific number of times and a
+add a new instance to the provided register
+returns a string containing the values of the given values and parameter values
+add a method to the property list
+test for logging with a new attribute
+update the item list
+compute the length of a double
+find the first component in the list for a component
+start the lock
+compute a list of patches to turn text into text and diff
+returns the number of operations the batch does not flush the next operation
+called when the table is closed
+test for log file
+returns the string representation of the current row
+watch the current time to be in the queue
+convert a string array to a string array strings
+add a job to the job
+called when state is changed
+create a new value with the type and value
+gets the first time
+reads a file from the file
+verify that the given code is a valid compaction block
+read the given string from the given string
+a factory method to build the appropriate luminancesource object based on the format of the
+create a new address with the given value and rhs
+flushes the output stream and the current stream
+check if the user exists
+this method is called when the user has been rejected
+removes the current debugger listener from the current state
+called by internal mechanisms do not call yourself
+checks if the query is currently selected
+run a runnable to be run on the main thread
+writes the window to the writer
+calculate checksum of a table
+creates a new request
+this method is called when the mapping of the given map is not present
+split a string into a string strings
+adds the config to the config
+this method crop a style for a style image
+send the result to the output
+sets up the webelement to be used
+runs the test to be done
+specifies the root configuration of the current configuration
+bind a type with a binder binder
+parses the current parsing and parses the current token
+create a new file and adds it to the target directory
+creates a new combo box and
+returns the number of events in the given stream
+reads the contents of a inputstream into a string
+show a view in the given parent
+write byte bytes to output
+this method is called when the state of the state is created
+tests that the server received the server and send the request to the server
+helper method to post a given method and the given base
+this method is used to convert a single node to a binary node
+checks whether a segment is contained in the specified range
+reads the next bytes from the input stream
+checks whether the trigger is a trigger to be used for a trigger
+log the log log
+cleans a directory without deleting it
+writes the contents of this cacheheader to the specified outputstream
+determines the height of this view at the given measure spec
+returns the date date from the year month
+this test a continuous report with a new response
+create a shader drawing
+matrix by element multiplication in place a
+parses a character sequence in a string
+parses a file and returns the input file
+returns the region of the given region in the given region
+reset loadmore view
+show the view of a view
+copies the given array into this one of the given array
+returns the string representation of the given object
+creates a string representation of the database
+show the current browser
+send a message to the channel
+print the state of the state to the current state
+adds the component to the tree
+resolve the next call to resolve the given long code
+this method cancels the pending animations on the given value and the
+a null is null
+update the transition and set the state of the transition
+replaces the given values in the given byte array
+tests scrollability within child views of v given a delta of dx the first
+generates a random sample with a random number of steps
+formats the caller s provided message and prepends useful info like calling thread id and

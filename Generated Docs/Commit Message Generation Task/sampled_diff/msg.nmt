@@ -1,0 +1,200 @@
+Add random data benchmark to Flow examples pack .
+Make THREADS configurable through environment
+Removing unnecessary support extra for Travis
+Update linux - x86 natives
+Add * .
+Bumping commit of submodule
+Refresh wallet - template checkpoints file .
+Added back gtest . Zip
+Add view info to AtomicBoolean isStarted .
+Don ' t activate Chrome when debugger is already open
+Reset PooledUnsafeDirectByteBuf . NewInternalNioBuffer ( )
+Dropped META - INF / MANIFEST .
+LPS - 45009 Fix tests - > Update the jar .
+Move BeanDeclaration into ql package ( Navis via Ashutosh Chauhan )
+Fix NPE in IInputMethodSessionWrapper . ExecuteMessage
+Moved files into theme to fix broken pages .
+Update travis settings
+Remove targetSdkVersion from library .
+Activating isolate plugin
+Starting 0 . 5 . 5 - SNAPSHOT
+Add STORM - 1341 to CHANGELOG . Md
+Remove reference to querydsl - root
+Fix handling of new web . Xml - less war file
+Add Alireza as contributor
+Take wallettemplate out of the top level POM .
+Fix the missing break statement .
+Disable AMQP by default .
+Added new active scanner TestUserAgent to alerts . Xml
+Fix # 1173
+Always set clipToPadding ?
+Removed unused lovely . Sbt a it ' s git
+Add StringTemplate to the NOTICE file .
+Prepare release checkstyle - 7 . 3
+Updated library paths
+Fixes the synth function so that queue processing continues .
+Fix deadlock in remote debugger ( PY - 18546 )
+Setting version to 1 . 0 . 141 - SNAPSHOT
+Fix UIExplorer drawer list
+GRAILS - 7082 - removed wrapper target
+Remove binary files
+Scan lint warnings for unregistered activities
+Bumping rest - client .
+Prepare version 28 - beta2 .
+Do not send flush packet if explicit is false
+Add bytesReceived to getMaxSize .
+And remove the builder from the creative tab
+Remove unused import .
+Fix a bug in unification
+Improve clover . Dic
+Setting default name for multi - project
+Do not use the lastest tool on travis
+Fixing GLIBC 2 . 4 problem on Debian system .
+Turn off import .
+Add runit_NOPASS_pca_3_golden .
+Corrected the judge of jconsole ' s path
+Add notes about JDI
+Now removed connect - js submodule
+Move remaining CHM construction to the factory method
+LPS - 55274 don ' t need this in the project .
+LPS - 68556 Fix test failures
+LPS - 56199 moves icon
+LRQA - 16385 Add mentions component to testray
+Updated release_notes .
+Make pyunit NOPASS until hadoop namenodes created .
+Fix issues with video on linux .
+Restore version of maven - plugin to 1 . 0 . 9
+Add new default material images
+Use the resolved Context in ContentResolver .
+Bumped parent version from 2 - SNAPSHOT to 2
+Prepare release HdrHistogram - 1 . 0 . 4
+Fix build
+LPS - 40766 - Remove alloy - 2 . 0 . 0pr7 . Zip
+Don ' t call onAttach twice on v4 fragments
+Move H2OApp into a package
+Added code style settings for android studio
+Added debug printing content of all incoming packets
+LPS - 50757 why do we need this ?
+Handles hotplugging and playback device selections during calls in the Windows Audio Session API ( WASAPI ) integration when acoustic echo cancellation ( AEC ) is enabled .
+Updated version
+Bump SpongeCommon ref to fix workspace issue .
+Don ' t run runit_NOPASS_Rdoc_glm .
+Add source encoding to gradle build . Gradle
+Added STORM - 1553 to Changelog
+Add mavenLocal to build dir .
+At least tests
+Bump SpongeCommon ref .
+Bump version to 1 . 0 . 0 - alpha . 2 since DouyaApiKey support is ready .
+Specify version of gpg plugin to use
+Update travis config
+Gh - 54 Add licenses "
+LPS - 55274 don ' t check this in
+Ignore files
+Fixed test data after stdlib change
+Added invalidateMaster method to control that behaviour from outside
+Add OSGi Bundle - DocURL to Guava MANIFEST file .
+No delete BasicUtilities . . . Tsk
+Add phrase
+Create README . Md
+Fix Internal . InMilliseconds ( ) where the offset was a byte instead of a String .
+Add stacktrace to travis command
+Fix a bug where the notification scroller could crash .
+Rolled back to 0 version
+Add bogus . Properties to .
+Fix miscalculation of grid section bottom most edge .
+Don ' t publish spock - report yet
+Add Contributing Guidelines
+Add local . Properties to .
+Add travis instruction
+DO NOT MERGE - Updated media playback transport controls ( b / 3116268 )
+Add gif
+Add Linear easing to AnimationUtils
+LPS - 41597 Cast group_ .
+LPS - 50131 This does not need NewClassLoaderJUnitTestRunner
+Setting version to 1 . 0 . 148
+Beta version = > 2 . 0 beta 9
+Fixed a bug on limited cursors
+Added activiti - camel module to Maven deploy profile
+Fix broken test helper
+Set pageLoadNotTriggered in NetworkIdentity . HashCode ( ) .
+Added reference to the list of supported IDEs
+Replace image for layout practice session 4
+Bump engine . Io - client
+Update gif
+Added tag 0 . 0 . 7 . 5 for changeset 9605cc1f3139
+Leave changeling unchanged
+Remove unecessary < extension > element from maven - bundle - plugin
+Help topic ( IDEADEV - 38121 )
+Enabling build script
+Prepare for next development iteration
+JAL - 35 Add image notes to non - proprietary licenses
+Updated elasticsearch upstream to fix flaky tests
+Revert " Enable OpenCORE on master - part 1 "
+Remove old listwidget preview image .
+Prepare release v1 . 1
+Explicitly tell Netty to not use unsafe
+Add new otp logo icons
+Updated sphinx4
+Fixed bitwiseNegate in operators documentation ( PY - 11499 ) .
+Revert icon to old one
+Fix returning wrong field
+SONAR - 2701 Fix vertical alignment when spark lines are displayed
+Get rid of transitive . GetServer ( )
+LPS - 43576 Copy shared jars to the portal .
+Deploy the upgrade info as an artifact .
+Bump local threads
+Gh - 57 voldemort - enable nio connector ( akkumar )
+Move HEAD to trunk directory
+Bump pegasus to 1 . 9 . 7
+Udpated the read me
+Nudge README . Md
+Why didn ' t I just use a .
+Fix nit on length of flag constant .
+Added missing grails - plugin .
+TFJ - 2136 reverting TwitterStream # setStatusListener ( )
+Add debugging information for com . Mongodb . MongoServerSelectionException
+Removing outdated booklet pdfs
+Don ' t clear disk cache on finish
+2 . 0 version .
+Added upgrades . Txt to index of installation - deployment chapter
+Adding Tightdb JNI lib for linux
+Aligned projects to external for DroidGap project
+Really delete BasicUtilities . Java ( CASSANDRA - 516 )
+Do not perform forceVolumeControlStream in master volume mode
+Tweak Android setup screenshot
+Force AST Injected property check with staticCheckerVisitor
+Add my vote
+Temporarily disables the support for the Address Book of Microsoft Outlook because of a crash ( privately ) reported by Damian Minkov .
+Updated gif
+Updated drawable - hdpi and stats_widget_header_icon
+Add mvn - V to travis build
+Missing import
+Updating Alloy to 3efe332 ; LPS - 19771
+Make SwitchPreference switch more Material
+Remove log4j jar from lib
+Updating Alloy to 3efe332 ; LPS - 19771
+Tip updated ( IDEA - 78127 )
+Fix MappedRecordCursor bug
+Setting version to 1 . 0 . 106 - SNAPSHOT
+Update release notes wrt # 742
+Update es / usptream to include fetchSourceSubPhase change
+Fixing transitive - ness of provided
+Ignore intellij files
+Add Linear easing to AnimationUtils
+Setting version to 1 . 0 . 85 - SNAPSHOT
+Assume allNodesAtLeast21 until demonstrated otherwise ; see CASSANDRA - 7161
+Include folder that has classes generated by javac into groovyc classpath
+Fix checkboxes for message_list_item_touchable .
+Fix typo
+Bumped version number to 1 . 80 . 6
+Do not trigger unsatisfiable constraints alert by default
+Updated README . Md to README . Md
+Rolled back to 0 . 10
+Don ' t log message for undefined EXIF rotation
+Updated proguard config
+Fixing Junit dep scope to test
+Add a - d flag to dpkg
+Add getCount method to BytesInputStream ( @ MysteryMachine )
+Add JavaDoc source indexing , as per EvilSeph ' s request
+Add STORM - 2056 to CHANGELOG
+PY - 54918 Add missing @ Override
