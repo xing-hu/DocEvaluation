@@ -7,6 +7,7 @@ Please run the command
 
 ```python3 evaluate.py```
 
+Note: Code2Seq utilized the AST paths to generate code comments. During the experiment, we find that it fails in some cases. Therefore, the number of the generated cases is less than 5000.
 
 ## RQ2
 
